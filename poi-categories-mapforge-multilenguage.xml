@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poi-categories>
+    <category id="0" parent="10.0" name_en="Restaurants" name_es="Restaurantes" name_fr="Restaurants" name_it="Ristoranti" name_de="Restaurants" name_nl="Restaurants"/>
+    <category id="1" parent="10.0" name_en="Food counter areas" name_es="Zona de restauración" name_fr="Aire de restauration" name_it="Area di ristoro" name_de="Imbissbereich" name_nl="Foodcourt"/>
+    <category id="2" parent="10.0" name_en="Fast food restaurants" name_es="Comida rápida" name_fr="Restauration rapide" name_it="Fast food" name_de="Schnellrestaurant" name_nl="Fastfoodrestaurants"/>
+    <category id="3" parent="10.0" name_en="Drinking water sources" name_es="Fuentes de agua potable" name_fr="Points d'eau potable" name_it="Fontanelle" name_de="Trinkwasserquellen" name_nl="Drinkwaterbronnen"/>
+    <category id="4" parent="10.0" name_en="Public grills" name_es="Barbacoas públicas" name_fr="Barbecues publics" name_it="Barbecue pubblici" name_de="Öffentliche Grillplätze" name_nl="Openbare barbecues"/>
+    <category id="5" parent="10.0" name_en="Pubs" name_es="Pubs" name_fr="Pubs" name_it="Pub" name_de="Pubs" name_nl="Pubs"/>
+    <category id="6" parent="10.0" name_en="Bars" name_es="Bares" name_fr="Bars" name_it="Bar" name_de="Bars" name_nl="Bars"/>
+    <category id="7" parent="10.0" name_en="Cafes" name_es="Cafeterías" name_fr="Cafés" name_it="Caffè" name_de="Cafés" name_nl="Cafés"/>
+    <category id="8" parent="10.0" name_en="Beer gardens" name_es="Terrazas de cerveza" name_fr="Brasseries en plein air" name_it="Birrerie all'aperto" name_de="Biergärten" name_nl="Bierenterrassen"/>
+    <category id="9" parent="10.0" name_en="Ice cream shops" name_es="Heladerías" name_fr="Glaciers" name_it="Gelaterie" name_de="Eisdielen" name_nl="IJssalons"/>
+    <category id="10" parent="70.0" name_en="Food" name_es="Comida y Bebida" name_fr="Nourriture" name_it="Ristorazione" name_de="Essen &amp; Trinken" name_nl="Eten &amp; Drinken"/>
+    <category id="11" parent="16.0" name_en="Kindergartens" name_es="Guarderías" name_fr="Jardins d'enfants" name_it="Asili nido" name_de="Kindergärten" name_nl="Kleuterscholen"/>
+    <category id="12" parent="16.0" name_en="School grounds" name_es="Terrenos escolares" name_fr="Cours d'école" name_it="Cortili scolastici" name_de="Schulgelände" name_nl="Schoolterreinen"/>
+    <category id="13" parent="16.0" name_en="College campus or buildings" name_es="Campus universitario o edificios" name_fr="Campus universitaire ou bâtiments" name_it="Campus universitario o edifici" name_de="Universitätsgelände oder -gebäude" name_nl="Universiteitscampus of gebouwen"/>
+    <category id="14" parent="16.0" name_en="Public libraries" name_es="Bibliotecas públicas" name_fr="Bibliothèques publiques" name_it="Biblioteche pubbliche" name_de="Öffentliche Bibliotheken" name_nl="Openbare bibliotheken"/>
+    <category id="15" parent="16.0" name_en="University campus or buildings" name_es="Campus universitario o edificios" name_fr="Campus universitaire ou bâtiments" name_it="Campus universitario o edifici" name_de="Universitätsgelände oder -gebäude" name_nl="Universiteitscampus of gebouwen"/>
+    <category id="16" parent="70.0" name_en="Education institutes" name_es="Instituciones educativas" name_fr="Instituts d'enseignement" name_it="Istituti di istruzione" name_de="Bildungseinrichtungen" name_nl="Onderwijsinstellingen"/>
+    <category id="17" parent="29.0" name_en="Ferry terminals" name_es="Terminales de ferry" name_fr="Gares maritimes" name_it="Terminal dei traghetti" name_de="Fährterminals" name_nl="Veerbootterminals"/>
+    <category id="18" parent="29.0" name_en="Bicycle parking places" name_es="Aparcamientos de bicicletas" name_fr="Parkings vélos" name_it="Parcheggi per biciclette" name_de="Fahrradabstellplätze" name_nl="Fietsenstallingen"/>
+    <category id="19" parent="29.0" name_en="Bicycle rental stations" name_es="Estaciones de alquiler de bicicletas" name_fr="Stations de location de vélos" name_it="Stazioni di noleggio bici" name_de="Fahrradverleihstationen" name_nl="Fietsverhuurstations"/>
+    <category id="20" parent="29.0" name_en="Bus stations" name_es="Estaciones de autobús" name_fr="Gares routières" name_it="Autostazioni" name_de="Busbahnhöfe" name_nl="Busstations"/>
+    <category id="21" parent="29.0" name_en="Car rental stations" name_es="Alquiler de coches" name_fr="Location de voitures" name_it="Autonoleggi" name_de="Autovermietungen" name_nl="Autoverhuurstations"/>
+    <category id="22" parent="29.0" name_en="Car sharing stations" name_es="Estaciones de coche compartido" name_fr="Stations d'autopartage" name_it="Stazioni di car sharing" name_de="Carsharing-Stationen" name_nl="Autodelen stations"/>
+    <category id="23" parent="29.0" name_en="Car washing stations" name_es="Lavado de coches" name_fr="Stations de lavage auto" name_it="Autolavaggi" name_de="Autoswaschanlagen" name_nl="Autowasstraten"/>
+    <category id="24" parent="29.0" name_en="Fuel stations" name_es="Gasolineras" name_fr="Stations-service" name_it="Stazioni di servizio" name_de="Tankstellen" name_nl="Tankstations"/>
+    <category id="25" parent="29.0" name_en="Car parking places" name_es="Aparcamientos de coches" name_fr="Parkings automobiles" name_it="Parcheggi auto" name_de="Parkplätze" name_nl="Parkeerplaatsen"/>
+    <category id="26" parent="29.0" name_en="Motorcycle parking places" name_es="Aparcamientos de motos" name_fr="Parkings motos" name_it="Parcheggi per moto" name_de="Motorradparkplätze" name_nl="Motorparkeerplaatsen"/>
+    <category id="27" parent="29.0" name_en="Taxi stands" name_es="Paradas de taxi" name_fr="Stations de taxis" name_it="Posteggi taxi" name_de="Taxistände" name_nl="Taxistandplaatsen"/>
+    <category id="28" parent="29.0" name_en="Electric vehicle charging facilities" name_es="Puntos de recarga eléctrica" name_fr="Bornes de recharge électrique" name_it="Colonnine di ricarica elettrica" name_de="Ladestationen für Elektrofahrzeuge" name_nl="Oplaadpunten voor elektrische voertuigen"/>
+    <category id="29" parent="70.0" name_en="Transportation" name_es="Transporte" name_fr="Transport" name_it="Trasporti" name_de="Verkehr" name_nl="Transport"/>
+    <category id="30" parent="33.0" name_en="ATMs and cash points" name_es="Cajeros automáticos" name_fr="Distributeurs de billets" name_it="Bancomat" name_de="Geldautomaten" name_nl="Geldautomaten"/>
+    <category id="31" parent="33.0" name_en="Banks" name_es="Bancos" name_fr="Banques" name_it="Banche" name_de="Banken" name_nl="Banken"/>
+    <category id="32" parent="33.0" name_en="Currency exchange places" name_es="Casas de cambio" name_fr="Bureaux de change" name_it="Uffici di cambio valuta" name_de="Geldwechselstuben" name_nl="Wisselkantoren"/>
+    <category id="33" parent="70.0" name_en="Financial institutes" name_es="Instituciones financieras" name_fr="Institutions financières" name_it="Istituti finanziari" name_de="Finanzinstitute" name_nl="Financiële instellingen"/>
+    <category id="34" parent="41.0" name_en="Pharmacies" name_es="Farmacias" name_fr="Pharmacies" name_it="Farmacie" name_de="Apotheken" name_nl="Apotheken"/>
+    <category id="35" parent="41.0" name_en="Hospitals" name_es="Hospitales" name_fr="Hôpitaux" name_it="Ospedali" name_de="Krankenhäuser" name_nl="Ziekenhuizen"/>
+    <category id="37" parent="41.0" name_en="Dentists" name_es="Dentistas" name_fr="Dentistes" name_it="Dentisti" name_de="Zahnärzte" name_nl="Tandartsen"/>
+    <category id="38" parent="41.0" name_en="Doctor practices" name_es="Consultas médicas" name_fr="Cabinets médicaux" name_it="Studi medici" name_de="Arztpraxen" name_nl="Artsenpraktijken"/>
+    <category id="39" parent="41.0" name_en="Nursing homes" name_es="Residencias de ancianos" name_fr="Maisons de retraite" name_it="Case di riposo" name_de="Pflegeheime" name_nl="Verzorgingshuizen"/>
+    <category id="40" parent="41.0" name_en="Veterinary clinics" name_es="Clínicas veterinarias" name_fr="Cliniques vétérinaires" name_it="Cliniche veterinarie" name_de="Tierarztpraxen" name_nl="Dierenartspraktijken"/>
+    <category id="41" parent="70.0" name_en="Health care" name_es="Sanidad" name_fr="Santé" name_it="Sanità" name_de="Gesundheitswesen" name_nl="Gezondheidszorg"/>
+    <category id="42" parent="49.0" name_en="Arts centers" name_es="Centros de arte" name_fr="Centres d'art" name_it="Centri d'arte" name_de="Kunstzentren" name_nl="Kunstencentra"/>
+    <category id="43" parent="49.0" name_en="Cinemas" name_es="Cines" name_fr="Cinémas" name_it="Cinema" name_de="Kinos" name_nl="Bioscopen"/>
+    <category id="44" parent="49.0" name_en="Community centers" name_es="Centros cívicos" name_fr="Centres communautaires" name_it="Centri sociali / comunitari" name_de="Gemeindezentren" name_nl="Buurthuizen"/>
+    <category id="45" parent="49.0" name_en="Fountains" name_es="Fuentes" name_fr="Fontaines" name_it="Fontane" name_de="Brunnen" name_nl="Fonteinen"/>
+    <category id="46" parent="49.0" name_en="Nightclubs (Dancing)" name_es="Discotecas" name_fr="Boîtes de nuit" name_it="Discoteche" name_de="Nachtclubs" name_nl="Nachtclubs"/>
+    <category id="47" parent="49.0" name_en="Strip clubs" name_es="Clubes de striptease" name_fr="Clubs de strip-tease" name_it="Strip club" name_de="Stripclubs" name_nl="Stripclubs"/>
+    <category id="48" parent="49.0" name_en="Theatres and operas" name_es="Teatros y óperas" name_fr="Théâtres et opéras" name_it="Teatri e opere" name_de="Theater und Opern" name_nl="Theaters en opera's"/>
+    <category id="49" parent="70.0" name_en="Entertainment, arts and culture" name_es="Ocio, arte y cultura" name_fr="Divertissement, arts et culture" name_it="Intrattenimento, arte e cultura" name_de="Unterhaltung, Kunst und Kultur" name_nl="Vermaak, kunst en cultuur"/>
+    <category id="50" parent="69.0" name_en="Brothels" name_es="Burdeles" name_fr="Maisons closes" name_it="Case chiuse" name_de="Bordelle" name_nl="Bordelen"/>
+    
+  <category id="151" parent="158" en="Memorials" es="Memoriales" fr="Mémoriaux" it="Monumenti commemorativi" de="Gedenkstätten" nl="Monumenten"/>
+<category id="152" parent="158" en="Monuments" es="Monumentos" fr="Monuments" it="Monumenti" de="Denkmäler" nl="Monumenten"/>
+<category id="153" parent="158" en="Ruins" es="Ruinas" fr="Ruines" it="Rovine" de="Ruinen" nl="Ruïnes"/>
+<category id="155" parent="158" en="Wayside crosses" es="Cruces de término" fr="Calvaires" it="Croci di via" de="Wegkreuze" nl="Wegkruisen"/>
+<category id="156" parent="158" en="Wayside shrines" es="Hornacinas / Peirones" fr="Oratoires" it="Capitelli votivi" de="Bildstöcke" nl="Wegkapellen"/>
+<category id="157" parent="158" en="Wrecks" es="Pecios" fr="Épaves" it="Relitti" de="Wracks" nl="Wrakken"/>
+<category id="158" parent="391" en="Historic" es="Histórico" fr="Historique" it="Storico" de="Historisch" nl="Historisch"/>
+<category id="159" parent="177" en="Dancing places" es="Lugares de baile" fr="Lieux de danse" it="Luoghi da ballo" de="Tanzflächen" nl="Danslocaties"/>
+<category id="160" parent="177" en="Dog parks" es="Zonas para perros" fr="Parcs pour chiens" it="Aree cani" de="Hundeplätze" nl="Hondenlosloopgebieden"/>
+<category id="161" parent="177" en="Fishing sites" es="Zonas de pesca" fr="Sites de pêche" it="Zone di pesca" de="Angelplätze" nl="Visstekken"/>
+<category id="162" parent="177" en="Gardens" es="Jardines" fr="Jardins" it="Giardini" de="Gärten" nl="Tuinen"/>
+<category id="163" parent="177" en="Golf courses" es="Campos de golf" fr="Parcours de golf" it="Campi da golf" de="Golfplätze" nl="Golfbanen"/>
+<category id="164" parent="177" en="Ice rinks" es="Pistas de hielo" fr="Patinoires" it="Piste di ghiaccio" de="Eisbahnen" nl="IJsbanen"/>
+<category id="165" parent="177" en="Marinas" es="Puertos deportivos" fr="Marinas" it="Marina" de="Yachthäfen" nl="Jachthavens"/>
+<category id="166" parent="177" en="Miniature golf places" es="Minigolf" fr="Mini-golf" it="Minigolf" de="Minigolf" nl="Minigolf"/>
+<category id="167" parent="177" en="Nature reserves" es="Reservas naturales" fr="Réserves naturelles" it="Riserve naturali" de="Naturschutzgebiete" nl="Natuurgebieden"/>
+<category id="168" parent="177" en="Parks" es="Parques" fr="Parcs" it="Parchi" de="Parks" nl="Parken"/>
+<category id="169" parent="177" en="Pitches" es="Campos deportivos" fr="Terrains de sport" it="Campi sportivi" de="Sportplätze" nl="Sportvelden"/>
+<category id="170" parent="177" en="Playgrounds" es="Parques infantiles" fr="Aires de jeux" it="Parchi gioco" de="Spielplätze" nl="Speeltuinen"/>
+<category id="171" parent="177" en="Slipways" es="Rampas de botadura" fr="Cales de mise à l'eau" it="Scivoli di alaggio" de="Bootrampen" nl="Hellingbanen"/>
+<category id="172" parent="177" en="Sports centres" es="Polideportivos" fr="Centres sportifs" it="Centri sportivi" de="Sportzentren" nl="Sportcentra"/>
+<category id="173" parent="177" en="Stadiums" es="Estadios" fr="Stades" it="Stadi" de="Stadien" nl="Stadions"/>
+<category id="174" parent="177" en="Swimming pools" es="Piscinas" fr="Piscines" it="Piscine" de="Schwimmbäder" nl="Zwembaden"/>
+<category id="175" parent="177" en="Tracks" es="Pistas" fr="Pistes" it="Piste" de="Bahnen" nl="Banen"/>
+<category id="176" parent="177" en="Water parks" es="Parques acuáticos" fr="Parcs aquatiques" it="Parchi acquatici" de="Wasserparks" nl="Waterparken"/>
+<category id="177" parent="391" en="Leisure" es="Ocio" fr="Loisirs" it="Tempo libero" de="Freizeit" nl="Recreatie"/>
+<category id="178" parent="194" en="Adits" es="Galerías mineras" fr="Galeries de mine" it="Gallerie minerarie" de="Stollen" nl="Mijnstollen"/>
+<category id="179" parent="194" en="Beacons" es="Balizas" fr="Balises" it="Fari / Balise" de="Feuermarken / Baken" nl="Bakens"/>
+<category id="180" parent="194" en="Chimneys" es="Chimeneas" fr="Cheminées" it="Camini" de="Schornsteine" nl="Schoorstenen"/>
+<category id="181" parent="194" en="Lighthouses" es="Faros" fr="Phares" it="Fari" de="Leuchttürme" nl="Vuurtorens"/>
+<category id="182" parent="194" en="Mineshafts" es="Pozos de mina" fr="Puits de mine" it="Pozzi di miniera" de="Schächte" nl="Mijnschachten"/>
+<category id="183" parent="194" en="Petroleum wells" es="Pozos de petróleo" fr="Puits de pétrole" it="Pozzi di petrolio" de="Erdölförderanlagen" nl="Aardoliebronnen"/>
+<category id="184" parent="194" en="Covered water reservoirs" es="Depósitos de agua cubiertos" fr="Réservoirs d'eau couverts" it="Serbatoi d'acqua coperti" de="Gedeckte Wasserspeicher" nl="Overdekte waterreservoirs"/>
+<category id="185" parent="194" en="Survey points" es="Puntos geodésicos" fr="Points géodésiques" it="Punti di rilevamento" de="Vermessungspunkte" nl="Meetpunten"/>
+<category id="186" parent="194" en="Towers" es="Torres" fr="Tours" it="Torri" de="Türme" nl="Torens"/>
+<category id="187" parent="194" en="Wastewater plants" es="Depuradoras" fr="Stations d'épuration" it="Impianti di depurazione" de="Kläranlagen" nl="Waterzuiveringsinstallaties"/>
+<category id="188" parent="194" en="Watermills" es="Molinos de agua" fr="Moulins à eau" it="Mulini ad acqua" de="Wassermühlen" nl="Watermolens"/>
+<category id="189" parent="194" en="Water towers" es="Torres de agua" fr="Châteaux d'eau" it="Torri dell'acqua" de="Wassertürme" nl="Watertorens"/>
+<category id="190" parent="194" en="Water works" es="Instalaciones de agua" fr="Usines de traitement des eaux" it="Opere idriche" de="Wasserwerke" nl="Waterleidingbedrijven"/>
+<category id="191" parent="194" en="Water well" es="Pozo de agua" fr="Puits d'eau" it="Pozzo d'acqua" de="Brunnen" nl="Waterputten"/>
+<category id="192" parent="194" en="Windmills" es="Molinos de viento" fr="Moulins à vent" it="Mulini a vento" de="Windmühlen" nl="Windmolens"/>
+<category id="193" parent="194" en="Works" es="Fábricas / Obras" fr="Usines" it="Opere / Stabilimenti" de="Fabriken / Werke" nl="Fabrieken / Werken"/>
+<category id="194" parent="391" en="Man Made" es="Construcciones humanas" fr="Construction humaine" it="Artificiale" de="Von Menschen geschaffen" nl="Door mens gemaakt"/>
+<category id="195" parent="201" en="Military Airfields" es="Aeródromos militares" fr="Aérodromes militaires" it="Aeroporti militari" de="Militärflugplätze" nl="Militaire vliegvelden"/>
+<category id="196" parent="201" en="Bunkers" es="Bunkers" fr="Bunkers" it="Bunker" de="Bunker" nl="Bunkers"/>
+<category id="198" parent="201" en="Dangerous Areas" es="Zonas peligrosas" fr="Zones dangereuses" it="Aree pericolose" de="Gefahrenbereiche" nl="Gevaarlijke gebieden"/>
+<category id="199" parent="201" en="Naval bases" es="Bases navales" fr="Bases navales" id="Basi navali" de="Marinebasen" nl="Marinebases"/>
+<category id="200" parent="201" en="Firing / bombing ranges" es="Campos de tiro / bombardeo" fr="Champs de tir / de bombardement" it="Poligoni di tiro / bombardamento" de="Schießplätze / Bombenabwurfgelände" nl="Schietbanen / gebombardeerde terreinen"/>
+
+<category id="201" parent="391" en="Military" es="Militar" fr="Militaire" it="Militare" de="Militär" nl="Militair"/>
+<category id="202" parent="207" en="Peak" es="Pico" fr="Pic" it="Picco" de="Gipfel" nl="Top"/>
+<category id="203" parent="207" en="Mountain pass" es="Puerto de montaña" fr="Col de montagne" it="Passo di montagna" de="Gebirgspass" nl="Bergpas"/>
+<category id="204" parent="207" en="Volcano" es="Volcán" fr="Volcan" it="Vulcano" de="Vulkan" nl="Vulkaan"/>
+<category id="205" parent="207" en="Geyser" es="Géiser" fr="Geyser" it="Geyser" de="Geysir" nl="Geiser"/>
+<category id="206" parent="207" en="Spring" es="Manantial" fr="Source" it="Sorgente" de="Quelle" nl="Bron"/>
+<category id="207" parent="391" en="Natural" es="Natural" fr="Naturel" it="Naturale" de="Natur" nl="Natuur"/>
+<category id="208" parent="211" en="Administrative" es="Administrativo" fr="Administratif" it="Amministrativo" de="Verwaltung" nl="Administratief"/>
+<category id="209" parent="211" en="Government" es="Gobierno" fr="Gouvernement" it="Governo" de="Regierung" nl="Overheid"/>
+<category id="210" parent="211" en="Travel agents" es="Agencias de viajes" fr="Agences de voyage" it="Agenzie di viaggio" de="Reisebüros" nl="Reisbureaus"/>
+<category id="211" parent="391" en="Office" es="Oficina" fr="Bureau" it="Ufficio" de="Büro" nl="Kantoor"/>
+<category id="212" parent="217" en="Cities" es="Ciudades" fr="Villes" it="Città" de="Städte" nl="Steden"/>
+<category id="213" parent="217" en="Towns" es="Pueblos / Ciudades pequeñas" fr="Villes / Bourgs" it="Cittadine" de="Kleinstädte" nl="Plaatsen"/>
+<category id="214" parent="217" en="Villages" es="Aldeas / Pueblos" fr="Villages" it="Villaggi" de="Dörfer" nl="Dorpen"/>
+<category id="215" parent="217" en="Hamlets" es="Pedanías / Caseríos" fr="Hameaux" it="Frazioni / Borghi" de="Weiler" nl="Buurtschappen"/>
+<category id="216" parent="217" en="Isolated dwellings" es="Viviendas aisladas" fr="Habitations isolées" it="Case isolate" de="Einöden / Einzelgehöfte" nl="Alleenstaande woningen"/>
+<category id="217" parent="391" en="Places" es="Lugares / Localidades" fr="Lieux" it="Località" de="Orte" nl="Plaatsen"/>
+<category id="218" parent="221" en="Platforms" es="Andenes" fr="Quais" it="Banchine" de="Bahnsteige" nl="Perrons"/>
+<category id="219" parent="221" en="Stations" es="Estaciones" fr="Gares" it="Stazioni" de="Bahnhöfe" nl="Stations"/>
+<category id="220" parent="221" en="Stop positions" es="Posiciones de parada" fr="Positions d'arrêt" it="Posizioni di fermata" de="Haltepositionen" nl="Stoplocaties"/>
+<category id="221" parent="391" en="Public Transport" es="Transporte público" fr="Transport en commun" it="Trasporto pubblico" de="Öffentlicher Verkehr" nl="Openbaar vervoer"/>
+<category id="222" parent="304" en="Alcohol" es="Bebidas alcohólicas" fr="Alcool" it="Alcol" de="Alkohol" nl="Alcohol"/>
+<category id="223" parent="304" en="Anime" es="Anime" fr="Anime" it="Anime" de="Anime" nl="Anime"/>
+<category id="224" parent="304" en="Baby goods" es="Artículos para bebés" fr="Articles pour bébés" it="Articoli per neonati" de="Babybedarf" nl="Babyartikelen"/>
+<category id="225" parent="304" en="Bakeries" es="Panaderías" fr="Boulangeries" it="Panifici" de="Bäckereien" nl="Bakkerijen"/>
+<category id="226" parent="304" en="Bathroom furnishing" es="Muebles de baño" fr="Équipement de salle de bain" it="Arredo bagno" de="Badeinrichtung" nl="Badkamermeubelen"/>
+<category id="227" parent="304" en="Beauty" es="Belleza" fr="Beauté" it="Estetica / Bellezza" de="Kosmetik / Schönheit" nl="Schoonheid"/>
+<category id="228" parent="304" en="Beds" es="Camas y colchones" fr="Literie" it="Letti" de="Betten" nl="Bedden"/>
+<category id="229" parent="304" en="Beverages" es="Bebidas" fr="Boissons" it="Bevande" de="Getränke" nl="Dranken"/>
+<category id="230" parent="304" en="Bicycles" es="Bicicletas" fr="Vélos" it="Biciclette" de="Fahrräder" nl="Fietsen"/>
+<category id="231" parent="304" en="Books" es="Librerías / Libros" fr="Livres" it="Libri" de="Bücher" nl="Boeken"/>
+<category id="232" parent="304" en="Boutiques" es="Boutiques" fr="Boutiques" it="Boutique" de="Boutiquen" nl="Boetieks"/>
+<category id="233" parent="304" en="Butchers" es="Carnicerías" fr="Boucheries" it="Macellerie" de="Metzgereien" nl="Slagerijen"/>
+<category id="234" parent="304" en="Cars" es="Automóviles" fr="Voitures" it="Auto" de="Autos" nl="Auto's"/>
+<category id="235" parent="304" en="Car repairs" es="Talleres mecánicos" fr="Réparation automobile" it="Riparazione auto" de="Autowerkstätten" nl="Autoreparatuur"/>
+<category id="236" parent="304" en="Car parts" es="Recambios de automóviles" fr="Pièces auto" it="Ricambi auto" de="Autoteile" nl="Auto-onderdelen"/>
+<category id="237" parent="304" en="Carpets" es="Alfombras" fr="Tapis" it="Tappeti" de="Teppiche" nl="Tapijten"/>
+<category id="238" parent="304" en="Charity" es="Tiendas benéfiques" fr="Caritatif" it="Beneficenza" de="Wohltätigkeit" nl="Goed doel"/>
+<category id="239" parent="304" en="Chemists" es="Parafarmacias / Droguerías" fr="Pharmacies / Parapharmacies" it="Parafarmacie" de="Drogerien" nl="Drogisterijen"/>
+<category id="240" parent="304" en="Clothes" es="Ropa" fr="Vêtements" it="Abbigliamento" de="Kleidung" nl="Kleding"/>
+<category id="241" parent="304" en="Computers" es="Informática" fr="Informatique" it="Informatica" de="Computer" nl="Computers"/>
+<category id="242" parent="304" en="Confectionery shops" es="Confiterías / Dulces" fr="Confiseries" it="Pasticcerie / Dolciumi" de="Süßwaren" nl="Banketbakkerijen"/>
+<category id="243" parent="304" en="Convenience" es="Ultramarinos / Tiendas de conveniencia" fr="Alimentation générale" it="Negozio di alimentari" de="Kiosk / Tante-Emma-Laden" nl="Buurtwinkel"/>
+<category id="244" parent="304" en="Copyshops" es="Copisterías" fr="Magasins de photocopie" it="Copisterie" de="Copyshops" nl="Copyshops"/>
+<category id="245" parent="304" en="Curtains" es="Cortinas" fr="Rideaux" it="Tendaggi" de="Gardinen" nl="Gordijnen"/>
+<category id="246" parent="304" en="Delis" es="Comidas preparadas / Delicatessen" fr="Traiteurs" it="Gastronomia" de="Feinkost" nl="Delicatessen"/>
+<category id="247" parent="304" en="Department stores" es="Grandes almacenes" fr="Grands magasins" it="Grandi magazzini" de="Kaufhäser" nl="Warenhuizen"/>
+<category id="249" parent="304" en="Dry cleaning" es="Tintorerías" fr="Pressings" it="Lavasecco" de="Reinigung" nl="Stomerij"/>
+<category id="250" parent="304" en="DIY" es="Bricolaje" fr="Bricolage" it="Bricolage / Fai da te" de="Baumarkt" nl="Doe-het-zelf"/>
+<category id="251" parent="304" en="Electronics" es="Electrónica" fr="Électronique" it="Elettronica" de="Elektronik" nl="Elektronica"/>
+
+<category id="252" parent="304" en="Erotic" es="Sex shop / Erótico" fr="Érotique" it="Negozio erotico" de="Erotik" nl="Erotiek"/>
+<category id="253" parent="304" en="Fabric" es="Telas / Tejidos" fr="Tissu" it="Tessuti" de="Stoffe" nl="Textiel"/>
+<category id="254" parent="304" en="Farms" es="Granjas / Explotaciones agrícolas" fr="Fermes" it="Fattorie" de="Bauernhöfe" nl="Boerderijen"/>
+<category id="255" parent="304" en="Florists" es="Floristerías" fr="Fleuristes" it="Fioristi" de="Blumenläden" nl="Bloemisten"/>
+<category id="256" parent="304" en="Frames" es="Marcos y enmarcación" fr="Encadrement" it="Cornici" de="Bilderrahmen" nl="Lijstnhandel"/>
+<category id="258" parent="304" en="Funeral directors" es="Funerarias" fr="Pompes funèbres" it="Onoranze funebri" de="Bestattungsunternehmen" nl="Uitvaartverzorging"/>
+<category id="259" parent="304" en="Furniture" es="Muebles" fr="Meubles" it="Mobili" de="Möbel" nl="Meubels"/>
+<category id="260" parent="304" en="Garden centres" es="Centros de jardinería" fr="Jardineries" it="Centri di giardinaggio" de="Gartencenter" nl="Tuincentra"/>
+<category id="261" parent="304" en="Gas" es="Gas / Gasolineras" fr="Gaz" it="Gas" de="Gas" nl="Gas"/>
+<category id="262" parent="304" en="General" es="General" fr="Général" it="Generale" de="Allgemein" nl="Algemeen"/>
+<category id="263" parent="304" en="Gifts" es="Regalos" fr="Cadeaux" it="Regali" de="Geschenke" nl="Cadeau's"/>
+<category id="264" parent="304" en="Glazier shops" es="Cristalerías" fr="Vitreries / Vitriers" it="Vetrerie" de="Glaser" nl="Glaszetters"/>
+<category id="265" parent="304" en="Green grocers" es="Fruterías y verduras" fr="Épiceries / Primeurs" it="Fruttivendoli" de="Obst und Gemüse" nl="Groenteboer"/>
+<category id="266" parent="304" en="Hairdressers" es="Peluquerías" fr="Coiffeurs" it="Parrucchieri" de="Friseure" nl="Kappers"/>
+<category id="267" parent="304" en="Hardware" es="Ferreterías" fr="Quincailleries" it="Ferramenta" de="Eisenwaren" nl="Ijzerwaren"/>
+<category id="268" parent="304" en="Hearing aids" es="Audífonos" fr="Appareils auditifs" it="Apparecchi acustici" de="Hörgeräte" nl="Gehoorapparaten"/>
+<category id="269" parent="304" en="Herbalists" es="Herbolarios" fr="Herboristeries" it="Erboristerie" de="Kräuterläden" nl="Kruideniers"/>
+<category id="270" parent="304" en="Hi-Fi" es="Alta fidelidad / Hi-Fi" fr="Hi-Fi" it="Hi-Fi" de="Hi-Fi" nl="Hi-Fi"/>
+<category id="271" parent="304" en="Hunting" es="Caza" fr="Chasse" it="Caccia" de="Jagd" nl="Jacht"/>
+<category id="272" parent="304" en="Interior decoration" es="Decoración de interiores" fr="Décoration intérieure" it="Arredamento di interni" de="Inneneinrichtung" nl="Interieurdecoratie"/>
+<category id="274" parent="304" en="Kiosks" es="Kioscos" fr="Kiosques" it="Chioschi" de="Kioske" nl="Kiosken"/>
+<category id="275" parent="304" en="Kitchens" es="Cocinas" fr="Cuisines" it="Cucine" de="Küchen" nl="Keukens"/>
+<category id="276" parent="304" en="Laundries" es="Lavanderías" fr="Laveries" it="Lavanderie" de="Wäschereien" nl="Wasserettes"/>
+<category id="277" parent="304" en="Malls" es="Centros comerciales" fr="Centres commerciaux" it="Centri commerciali" de="Einkaufszentren" nl="Winkelcentra"/>
+<category id="278" parent="304" en="Massages" es="Masajes" fr="Massages" it="Massaggi" de="Massagen" nl="Massages"/>
+<category id="279" parent="304" en="Mobile phones" es="Telefonía móvil" fr="Téléphones portables" it="Telefonia mobile" de="Mobiltelefone" nl="Mobiele telefoons"/>
+<category id="280" parent="304" en="Money lenders" es="Préstamos / Preamistas" fr="Prêteurs sur gages / Crédit" it="Prestiti / Credito" de="Finanzdienstleister" nl="Geldverstrekkers"/>
+<category id="281" parent="304" en="Motorcycles" es="Motocicletas" fr="Motos" it="Moto" de="Motorräder" nl="Motoren"/>
+<category id="282" parent="304" en="Musical instruments" es="Instrumentos musicales" fr="Instruments de musique" it="Strumenti musicali" de="Musikinstrumente" nl="Muziekinstrumenten"/>
+<category id="283" parent="304" en="Newsagents" es="Estancos / Prensa" fr="Magasins de journaux" it="Edicole" de="Zeitschriftenläden" nl="Krantenwinkels"/>
+<category id="284" parent="304" en="Optician shops" es="Ópticas" fr="Opticiens" it="Ottica" de="Optiker" nl="Opticiens"/>
+<category id="286" parent="304" en="Outdoor" es="Deportes de aire libre / Montaña" fr="Plein air / Extérieur" it="Outdoor" de="Outdoor" nl="Buiten / Outdoor"/>
+<category id="287" parent="304" en="Paints" es="Pinturas" fr="Peintures" it="Vernici / Colori" de="Farben" nl="Verf"/>
+<category id="288" parent="304" en="Pawnbrokers" es="Montes de piedad / Empeños" fr="Prêt sur gage" it="Pegni" de="Pfandleihhaus" nl="Pandhuizen"/>
+<category id="289" parent="304" en="Pets" es="Animales / Mascotas" fr="Animaleries" it="Animali domestici" de="Zoohandlung" nl="Dierenwinkels"/>
+<category id="290" parent="304" en="Radio technics" es="Radioelectrónica / Reparación radio" fr="Technique radio" it="Tecnica radio" de="Radiotechnik" nl="Radiotechniek"/>
+<category id="291" parent="304" en="Seafood / Fish" es="Pescaderías" fr="Poissons / fruits de mer" it="Pescherie" de="Fischgeschäft" nl="Viswinkels"/>
+<category id="292" parent="304" en="Second hand" es="Segunda mano" fr="Occasion" it="Seconda mano" de="Gebrauchtwaren" nl="Tweedehands"/>
+<category id="293" parent="304" en="Shoes" es="Calzado / Zapaterías" fr="Chaussures" it="Calzature" de="Schuhe" nl="Schoenen"/>
+<category id="294" parent="304" en="Sports" es="Deportes" fr="Sports" it="Sport" de="Sport" nl="Sport"/>
+<category id="295" parent="304" en="Stationeries" es="Papelerías" fr="Papeteries" it="Cartolerie" de="Schreibwaren" nl="Papierwaren"/>
+<category id="296" parent="304" en="Supermarkets" es="Supermercados" fr="Supermarchés" it="Supermercati" de="Supermärkte" nl="Supermarkten"/>
+<category id="297" parent="304" en="Tattoos" es="Tatuajes" fr="Tatouages" it="Tatuaggi" de="Tattoos" nl="Tatoeages"/>
+<category id="298" parent="304" en="Tickets" es="Entradas / Taquillas" fr="Billetterie" it="Biglietteria" de="Ticketverkauf" nl="Kaartverkoop"/>
+<category id="299" parent="304" en="Tobacco" es="Tabaco" fr="Tabac" it="Tabacchi" de="Tabak" nl="Tabak"/>
+<category id="300" parent="304" en="Toys" es="Jugueterías" fr="Jouets" it="Giocattoli" de="Spielwaren" nl="Speelgoed"/>
+
+<category id="301" parent="304" en="Vacuum cleaners" es="Aspiradoras" fr="Aspirateurs" it="Aspirapolvere" de="Staubsauger" nl="Stofzuigers"/>
+<category id="302" parent="304" en="Videos" es="Vídeos / Películas" fr="Vidéos" it="Video / Noleggio video" de="Video" nl="Video's"/>
+<category id="303" parent="304" en="Window blinds" es="Persianas y estores" fr="Stores de fenêtres" it="Tende da sole / Persiane" de="Jalousien / Rollos" nl="Raamdecoratie / Jaloezieën"/>
+<category id="304" parent="391" en="Shop" es="Tienda / Comercio" fr="Magasin" it="Negozio" de="Geschäft" nl="Winkel"/>
+<category id="306" parent="362" en="American football" es="Fútbol americano" fr="Football américain" it="Football americano" de="American Football" nl="Amerikaans voetbal"/>
+<category id="307" parent="362" en="Archery" es="Tiro con arco" fr="Tir à l'arc" it="Tiro con l'arco" de="Bogenschießen" nl="Boogschieten"/>
+<category id="308" parent="362" en="Athletics" es="Atletismo" fr="Athlétisme" it="Atletica leggera" de="Leichtathletik" nl="Atletiek"/>
+<category id="309" parent="362" en="Australian football" es="Fútbol australiano" fr="Football australien" it="Football australiano" de="Australian Football" nl="Australisch voetbal"/>
+<category id="311" parent="362" en="Badminton" es="Bádminton" fr="Badminton" it="Badminton" de="Badminton" nl="Badminton"/>
+<category id="312" parent="362" en="Baseball" es="Béisbol" fr="Baseball" it="Baseball" de="Baseball" nl="Honkbal"/>
+<category id="313" parent="362" en="Basketball" es="Baloncesto" fr="Basketball" it="Pallacanestro" de="Basketball" nl="Basketbal"/>
+<category id="314" parent="362" en="Beach volleyball" es="Vóley playa" fr="Beach-volley" it="Beach volley" de="Beachvolleyball" nl="Beachvolleybal"/>
+<category id="315" parent="362" en="BMX" es="BMX" fr="BMX" it="BMX" de="BMX" nl="BMX"/>
+<category id="316" parent="362" en="Boules" es="Petanca / Bolas" fr="Boules" it="Bocce" de="Boules / Boccia" nl="Jeu de boules"/>
+<category id="317" parent="362" en="Bowls" es="Bolos (Bowls)" fr="Bowls" it="Bowls" de="Bowls" nl="Bowls"/>
+<category id="318" parent="362" en="Canadian football" es="Fútbol canadiense" fr="Football canadien" it="Football canadese" de="Canadian Football" nl="Canadees voetbal"/>
+<category id="319" parent="362" en="Canoe" es="Piragüismo / Canotaje" fr="Canoë" it="Canoa" de="Kanufahren" nl="Kanoën"/>
+<category id="320" parent="362" en="Chess" es="Ajedrez" fr="Échecs" it="Scacchi" de="Schach" nl="Schaken"/>
+<category id="321" parent="362" en="Climbing" es="Escalada" fr="Escalade" it="Arrampicata" de="Klettern" nl="Klimmen"/>
+<category id="322" parent="362" en="Cricket" es="Críquet" fr="Cricket" it="Cricket" de="Cricket" nl="Cricket"/>
+<category id="324" parent="362" en="Croquet" es="Cróquet" fr="Croquet" it="Croquet" de="Krocket" nl="Croquet"/>
+<category id="325" parent="362" en="Cycling" es="Ciclismo" fr="Cyclisme" it="Ciclismo" de="Radfahren" nl="Wielrennen"/>
+<category id="326" parent="362" en="Diving" es="Buceo / Submarinismo" fr="Plongée" it="Immersion / Subacquea" de="Tauchen" nl="Duiken"/>
+<category id="327" parent="362" en="Dog racing" es="Carreras de galgos" fr="Courses de lévriers" it="Corsa di cani" de="Hunderennen" nl="Windhondenraces"/>
+<category id="328" parent="362" en="Fencing" es="Esgrima" fr="Escrime" it="Scherma" de="Fechten" nl="Schermen"/>
+<category id="329" parent="362" en="Equestrian" es="Hípica / Ecuestre" fr="Équestre" it="Sport equestri" de="Reitsport" nl="Paardensport"/>
+<category id="330" parent="362" en="Gaelic games" es="Deportes gaélicos" fr="Sports gaéliques" it="Sport gaelici" de="Gaelische Sportarten" nl="Gaelic games"/>
+<category id="331" parent="362" en="Golf" es="Golf" fr="Golf" it="Golf" de="Golf" nl="Golf"/>
+<category id="332" parent="362" en="Gymnastics" es="Gimnasia" fr="Gymnastique" it="Ginnastica" de="Gymnastik" nl="Gymnastiek"/>
+<category id="333" parent="362" en="Hockey" es="Hockey" fr="Hockey" it="Hockey" de="Hockey" nl="Hockey"/>
+<category id="335" parent="362" en="Horse racing" es="Carreras de caballos" fr="Courses hippiques" it="Ippica" de="Pferderennen" nl="Paardenrennen"/>
+<category id="337" parent="362" en="Karting" es="Karting" fr="Karting" it="Kart" de="Karting" nl="Karting"/>
+<category id="338" parent="362" en="Korfball" es="Korfbal" fr="Korfball" it="Korfball" de="Korfball" nl="Korfbal"/>
+<category id="339" parent="362" en="Motor" es="Deportes de motor" fr="Sports mécaniques" it="Sport motoristici" de="Motorsport" nl="Motorsport"/>
+<category id="340" parent="362" en="Multi" es="Multideporte" fr="Multi-sports" it="Multisport" de="Mehrkampf" nl="Multisport"/>
+<category id="341" parent="362" en="Orientierungslauf" es="Orientación" fr="Course d'orientation" it="Orientamento" de="Orientierungslauf" nl="Oriëntatielopen"/>
+<category id="342" parent="362" en="Paddle tennis" es="Pádel" fr="Padel" it="Padel" de="Padel" nl="Padel"/>
+<category id="344" parent="362" en="Free flying" es="Vuelo libre (Parapente/Ala delta)" fr="Vol libre" it="Volo libero" de="Gleitschirmfliegen / Drachenfliegen" nl="Vrij vliegen"/>
+<category id="345" parent="362" en="Pelota" es="Pelota vasca" fr="Pelote basque" it="Pelota basca" de="Baskische Pelota" nl="Pelota"/>
+<category id="346" parent="362" en="Racquet" es="Deportes de raqueta" fr="Sports de raquette" it="Sport con racchetta" de="Racketsport" nl="Racketsport"/>
+<category id="347" parent="362" en="Rowing" es="Remo" fr="Aviron" it="Canottaggio" de="Rudern" nl="Roeien"/>
+<category id="348" parent="362" en="Rugby" es="Rugby" fr="Rugby" it="Rugby" de="Rugby" nl="Rugby"/>
+<category id="349" parent="362" en="Shooting" es="Tiro deportivo" fr="Tir sportif" it="Tiro a segno" de="Schießsport" nl="Schietsport"/>
+<category id="350" parent="362" en="Ice skating" es="Patinaje sobre hielo" fr="Patinage sur glace" it="Pattinaggio sul ghiaccio" de="Eislaufen" nl="Schaatsen"/>
+
+<category id="351" parent="362" en="Skateboarding" es="Monopatín / Skate" fr="Skateboarding" it="Skateboarding" de="Skateboarding" nl="Skateboarding"/>
+<category id="352" parent="362" en="Skiing" es="Esquí" fr="Ski" it="Sci" de="Skifahren" nl="Skiën"/>
+<category id="353" parent="362" en="Soccer" es="Fútbol" fr="Football" it="Calcio" de="Fußball" nl="Voetbal"/>
+<category id="354" parent="362" en="Surfing" es="Surf" fr="Surf" it="Surf" de="Surfen" nl="Surfen"/>
+<category id="355" parent="362" en="Swimming" es="Natación" fr="Natation" it="Nuoto" de="Schwimmen" nl="Zwemmen"/>
+<category id="356" parent="362" en="Table tennis" es="Tenis de mesa / Ping-pong" fr="Tennis de table" it="Tennis tavolo" de="Tischtennis" nl="Tafeltennis"/>
+<category id="357" parent="362" en="Handball" es="Balonmano" fr="Handball" it="Pallamano" de="Handball" nl="Handbal"/>
+<category id="358" parent="362" en="Tennis courts" es="Pistas de tenis" fr="Courts de tennis" it="Campi da tennis" de="Tennisplätze" nl="Tennisbanen"/>
+<category id="359" parent="362" en="Toboggan" es="Trineo" fr="Luge" it="Slittino" de="Rodelbahn" nl="Rodelen"/>
+<category id="360" parent="362" en="Volleyball" es="Voleibol" fr="Volleyball" it="Pallavolo" de="Volleyball" nl="Volleybal"/>
+<category id="361" parent="362" en="Water ski" es="Esquí acuático" fr="Ski nautique" it="Sci nautico" de="Wasserski" nl="Waterskiën"/>
+<category id="362" parent="391" en="Sport" es="Deporte" fr="Sport" it="Sport" de="Sport" nl="Sport"/>
+<category id="363" parent="380" en="Alpine huts" es="Refugios de montaña / Alpinos" fr="Refuges de montagne" it="Rifugi alpini" de="Alpenhütten" nl="Alpenhutten"/>
+<category id="364" parent="380" en="Attractions" es="Atracciones turísticas" fr="Attractions" it="Attrazioni turistiche" de="Sehenswürdigkeiten" nl="Bezienswaardigheden"/>
+<category id="365" parent="380" en="Artworks" es="Obras de arte" fr="Œuvres d'art" it="Opere d'arte" de="Kunstwerke" nl="Kunstwerken"/>
+<category id="366" parent="380" en="Camp sites" es="Campings" fr="Campings" it="Campeggi" de="Campingplätze" nl="Campings"/>
+<category id="367" parent="380" en="Caravan sites" es="Áreas para autocaravanas" fr="Aires de camping-car" it="Aree di sosta camper" de="Wohnmobilstellplätze" nl="Camperplaatsen"/>
+<category id="368" parent="380" en="Water point" es="Punto de agua" fr="Point d'eau" it="Punto d'acqua" de="Wasserstelle" nl="Waterpunt"/>
+<category id="369" parent="380" en="Chalets" es="Chalets" fr="Chalets" it="Chalet" de="Chalets" nl="Chalets"/>
+<category id="370" parent="380" en="Guest houses" es="Casas de huéspedes / Pensiones" fr="Maisons d'hôtes" it="Guesthouse / Affittacamere" de="Gästehäuser" nl="Guesthouses / Pensions"/>
+<category id="371" parent="380" en="Hostels" es="Hostales / Albergues" fr="Auberges de jeunesse" it="Ostelli" de="Hostels" nl="Hostels"/>
+<category id="372" parent="380" en="Hotels" es="Hoteles" fr="Hôtels" it="Hotel" de="Hotels" nl="Hotels"/>
+<category id="373" parent="380" en="Information" es="Información turística" fr="Information" it="Informazioni" de="Informationen" nl="Informatie"/>
+<category id="374" parent="380" en="Motels" es="Moteles" fr="Motels" it="Motel" de="Motels" nl="Motels"/>
+<category id="375" parent="380" en="Museums" es="Museos" fr="Musées" it="Musei" de="Museen" nl="Musea"/>
+<category id="376" parent="380" en="Picnic sites" es="Áreas de pícnic" fr="Sites de pique-nique" it="Aree picnic" de="Picknickplätze" nl="Picknickplaatsen"/>
+<category id="378" parent="380" en="Viewpoints" es="Miradores" fr="Points de vue" it="Punti panoramici" de="Aussichtspunkte" nl="Uitzichtpunten"/>
+<category id="379" parent="380" en="Zoos" es="Zoos / Parques de animales" fr="Zoos" it="Zoo" de="Zoos" nl="Dierentuinen"/>
+<category id="380" parent="391" en="Tourism" es="Turismo" fr="Tourisme" it="Turismo" de="Tourismus" nl="Toerisme"/>
+<category id="381" parent="384" en="Rapids" es="Rápidos" fr="Rapides" it="Rapide" de="Stromschnellen" nl="Stroomversnellingen"/>
+<category id="382" parent="384" en="Waterfalls" es="Cascadas / Cataratas" fr="Cascades" it="Cascate" de="Wasserfälle" nl="Watervallen"/>
+<category id="383" parent="384" en="Water points" es="Puntos de agua" fr="Points d'eau" it="Punti d'acqua" de="Wasserstellen" nl="Waterpunten"/>
+<category id="384" parent="391" en="Waterways" es="Cursos de agua" fr="Cours d'eau" it="Corsi d'acqua" de="Gewässer" nl="Waterwegen"/>
+<category id="385" parent="390" en="Cycle parking places" es="Aparcabicis" fr="Parkings vélos" it="Parcheggi bici" de="Fahrradabstellplätze" nl="Fietsstallingen"/>
+<category id="386" parent="390" en="Cycle rental stations" es="Alquiler de bicicletas" fr="Locations de vélos" it="Noleggio bici" de="Fahrradverleih" nl="Fietsverhuur"/>
+<category id="387" parent="390" en="Cycle shops" es="Tiendas de bicicletas" fr="Magasins de vélos" it="Negozi di biciclette" de="Fahrradgeschäfte" nl="Fietswinkels"/>
+<category id="388" parent="390" en="Cycle vending" es="Máquinas expendedoras de bicis / Accesorios" fr="Distributeurs automatiques de vélos" it="Distributori automatici bici" de="Fahrrad-Automaten" nl="Fietsverkoopautomaten"/>
+<category id="389" parent="390" en="Cycle self repair" es="Estación de autoservicio de reparación de bicis" fr="Stations de réparation de vélos" it="Colonnine riparazione bici" de="Fahrrad-Selbstreparatur" nl="Zelfservice fietsreparatie"/>
+<category id="390" parent="391" en="Bicycle related" es="Relacionado con la bicicleta" fr="Cyclisme (général)" it="In bicicletta" de="Fahrradbezogen" nl="Gerelateerd aan fietsen"/>
+<category id="391" parent="0" en="root" es="Raíz" fr="Racine" it="Radice" de="Wurzel" nl="Root"/>
