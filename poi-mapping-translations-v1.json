@@ -1,0 +1,5481 @@
+[
+  {
+    "title": "root",
+    "translations": {},
+    "tags": []
+  },
+  {
+    "title": "Amenities",
+    "translations": {
+      "de": "Einrichtungen",
+      "fr": "Services",
+      "es": "Servicios",
+      "nl": "Voorzieningen",
+      "it": "Servizi"
+    },
+    "tags": []
+  },
+  {
+    "title": "Food",
+    "translations": {
+      "de": "Essen",
+      "fr": "Alimentation",
+      "es": "Alimentación",
+      "nl": "Eten",
+      "it": "Ristorazione"
+    },
+    "tags": []
+  },
+  {
+    "title": "Restaurants",
+    "translations": {
+      "de": "Restaurants",
+      "fr": "Restaurants",
+      "es": "Restaurantes",
+      "nl": "Restaurants",
+      "it": "Ristoranti"
+    },
+    "tags": [
+      "amenity=restaurant"
+    ]
+  },
+  {
+    "title": "Food counter areas",
+    "translations": {
+      "de": "Gastronomiebereiche",
+      "fr": "Aires de restauration",
+      "es": "Zonas de restauración",
+      "nl": "Foodcourts",
+      "it": "Aree di ristorazione"
+    },
+    "tags": [
+      "amenity=food_court"
+    ]
+  },
+  {
+    "title": "Fast food restaurants",
+    "translations": {
+      "de": "Fast Food",
+      "fr": "Restauration rapide",
+      "es": "Comida rápida",
+      "nl": "Fastfoodrestaurants",
+      "it": "Fast food"
+    },
+    "tags": [
+      "amenity=fast_food"
+    ]
+  },
+  {
+    "title": "Drinking water sources",
+    "translations": {
+      "de": "Trinkwasserbrunnen",
+      "fr": "Points d'eau potable",
+      "es": "Fuentes de agua potable",
+      "nl": "Drinkwaterbronnen",
+      "it": "Fontanelle di acqua potabile"
+    },
+    "tags": [
+      "amenity=drinking_water"
+    ]
+  },
+  {
+    "title": "Public grills",
+    "translations": {
+      "de": "Öffentliche Grills",
+      "fr": "Barbecues publics",
+      "es": "Parrillas públicas",
+      "nl": "Openbare barbecues",
+      "it": "Griglie pubbliche"
+    },
+    "tags": [
+      "amenity=bbq"
+    ]
+  },
+  {
+    "title": "Pubs",
+    "translations": {
+      "de": "Kneipen",
+      "fr": "Pubs",
+      "es": "Pubs",
+      "nl": "Pubs",
+      "it": "Pub"
+    },
+    "tags": [
+      "amenity=pub"
+    ]
+  },
+  {
+    "title": "Bars",
+    "translations": {
+      "de": "Bars",
+      "fr": "Bars",
+      "es": "Bares",
+      "nl": "Bars",
+      "it": "Bar"
+    },
+    "tags": [
+      "amenity=bar"
+    ]
+  },
+  {
+    "title": "Cafes",
+    "translations": {
+      "de": "Cafés",
+      "fr": "Cafés",
+      "es": "Cafeterías",
+      "nl": "Cafés",
+      "it": "Caffè"
+    },
+    "tags": [
+      "amenity=cafe"
+    ]
+  },
+  {
+    "title": "Beer gardens",
+    "translations": {
+      "de": "Biergärten",
+      "fr": "Brasseries en plein air",
+      "es": "Cervecerías al aire libre",
+      "nl": "Biergartens",
+      "it": "Birrerie all'aperto"
+    },
+    "tags": [
+      "amenity=biergarten",
+      "amenity=beer_garden"
+    ]
+  },
+  {
+    "title": "Ice cream shops",
+    "translations": {
+      "de": "Eisdielen",
+      "fr": "Glaciers",
+      "es": "Heladerías",
+      "nl": "Ijssalons",
+      "it": "Gelaterie"
+    },
+    "tags": [
+      "amenity=ice_cream",
+      "shop=ice_cream"
+    ]
+  },
+  {
+    "title": "Education institutes",
+    "translations": {
+      "de": "Bildungseinrichtungen",
+      "fr": "Établissements d'enseignement",
+      "es": "Instituciones educativas",
+      "nl": "Onderwijsinstellingen",
+      "it": "Istituti educativi"
+    },
+    "tags": []
+  },
+  {
+    "title": "Kindergartens",
+    "translations": {
+      "de": "Kindergärten",
+      "fr": "Jardins d'enfants",
+      "es": "Guarderías",
+      "nl": "Kleuterscholen",
+      "it": "Asili nido"
+    },
+    "tags": [
+      "amenity=kindergarten"
+    ]
+  },
+  {
+    "title": "School grounds",
+    "translations": {
+      "de": "Schulgelände",
+      "fr": "Établissements scolaires",
+      "es": "Colegios y escuelas",
+      "nl": "Schoolterreinen",
+      "it": "Scuole"
+    },
+    "tags": [
+      "amenity=school"
+    ]
+  },
+  {
+    "title": "College campus or buildings",
+    "translations": {
+      "de": "College-Campus oder Gebäude",
+      "fr": "Campus ou bâtiments universitaires",
+      "es": "Campus o edificios universitarios",
+      "nl": "Hogeschoolcampus of -gebouwen",
+      "it": "Campus o edifici universitari"
+    },
+    "tags": [
+      "amenity=college"
+    ]
+  },
+  {
+    "title": "Public libraries",
+    "translations": {
+      "de": "Öffentliche Bibliotheken",
+      "fr": "Bibliothèques publiques",
+      "es": "Bibliotecas públicas",
+      "nl": "Openbare bibliotheken",
+      "it": "Biblioteche pubbliche"
+    },
+    "tags": [
+      "amenity=library"
+    ]
+  },
+  {
+    "title": "University campus or buildings",
+    "translations": {
+      "de": "Universitäts-Campus oder Gebäude",
+      "fr": "Campus ou bâtiments universitaires",
+      "es": "Universidad",
+      "nl": "Universiteitscampus of -gebouwen",
+      "it": "Università"
+    },
+    "tags": [
+      "amenity=university"
+    ]
+  },
+  {
+    "title": "Transportation",
+    "translations": {
+      "de": "Verkehr",
+      "fr": "Transport",
+      "es": "Transporte",
+      "nl": "Vervoer",
+      "it": "Trasporti"
+    },
+    "tags": []
+  },
+  {
+    "title": "Ferry terminals",
+    "translations": {
+      "de": "Fährterminals",
+      "fr": "Gares maritimes",
+      "es": "Terminales de ferry",
+      "nl": "Veerbootterminals",
+      "it": "Terminal dei traghetti"
+    },
+    "tags": [
+      "amenity=ferry_terminal"
+    ]
+  },
+  {
+    "title": "Bicycle parking places",
+    "translations": {
+      "de": "Fahrradabstellplätze",
+      "fr": "Stationnements vélos",
+      "es": "Aparcamientos de bicicletas",
+      "nl": "Fietsenstallingen",
+      "it": "Parcheggi per biciclette"
+    },
+    "tags": [
+      "amenity=bicycle_parking"
+    ]
+  },
+  {
+    "title": "Bicycle rental stations",
+    "translations": {
+      "de": "Fahrradverleihstationen",
+      "fr": "Stations de location de vélos",
+      "es": "Estaciones de alquiler de bicicletas",
+      "nl": "Fietsverhuurstations",
+      "it": "Stazioni di noleggio biciclette"
+    },
+    "tags": [
+      "amenity=bicycle_rental"
+    ]
+  },
+  {
+    "title": "Bus stations",
+    "translations": {
+      "de": "Busbahnhöfe",
+      "fr": "Gares routières",
+      "es": "Estaciones de autobús",
+      "nl": "Busstations",
+      "it": "Autostazioni"
+    },
+    "tags": [
+      "amenity=bus_station"
+    ]
+  },
+  {
+    "title": "Car rental stations",
+    "translations": {
+      "de": "Autovermietungen",
+      "fr": "Agences de location de voitures",
+      "es": "Alquiler de coches",
+      "nl": "Autoverhuurstations",
+      "it": "Autonoleggi"
+    },
+    "tags": [
+      "amenity=car_rental"
+    ]
+  },
+  {
+    "title": "Car sharing stations",
+    "translations": {
+      "de": "Carsharing-Stationen",
+      "fr": "Stations d'autopartage",
+      "es": "Estaciones de coche compartido",
+      "nl": "Autodeelstations",
+      "it": "Stazioni di car sharing"
+    },
+    "tags": [
+      "amenity=car_sharing"
+    ]
+  },
+  {
+    "title": "Car washing stations",
+    "translations": {
+      "de": "Waschanlagen",
+      "fr": "Stations de lavage",
+      "es": "Lavado de coches",
+      "nl": "Autowasstraten",
+      "it": "Autolavaggi"
+    },
+    "tags": [
+      "amenity=car_wash"
+    ]
+  },
+  {
+    "title": "Fuel stations",
+    "translations": {
+      "de": "Tankstellen",
+      "fr": "Stations-service",
+      "es": "Gasolineras",
+      "nl": "Tankstations",
+      "it": "Distributori di carburante"
+    },
+    "tags": [
+      "amenity=fuel",
+      "amenity=grit_bin"
+    ]
+  },
+  {
+    "title": "Car parking places",
+    "translations": {
+      "de": "Parkplätze",
+      "fr": "Parkings",
+      "es": "Aparcamientos",
+      "nl": "Parkeerplaatsen",
+      "it": "Parcheggi auto"
+    },
+    "tags": [
+      "amenity=parking"
+    ]
+  },
+  {
+    "title": "Motorcycle parking places",
+    "translations": {
+      "de": "Motorrad-Parkplätze",
+      "fr": "Stationnements motos",
+      "es": "Aparcamientos de motocicletas",
+      "nl": "Motorparkeerplaatsen",
+      "it": "Parcheggi per moto"
+    },
+    "tags": [
+      "amenity=motorcycle_parking",
+      "amenity=parking_space",
+      "amenity=parking_entrance"
+    ]
+  },
+  {
+    "title": "Taxi stands",
+    "translations": {
+      "de": "Taxistände",
+      "fr": "Stations de taxis",
+      "es": "Paradas de taxi",
+      "nl": "Taxistandplaatsen",
+      "it": "Posteggi taxi"
+    },
+    "tags": [
+      "amenity=taxi"
+    ]
+  },
+  {
+    "title": "Electric vehicle charging facilities",
+    "translations": {
+      "de": "Ladestationen für Elektrofahrzeuge",
+      "fr": "Bornes de recharge pour véhicules électriques",
+      "es": "Puntos de recarga eléctrica",
+      "nl": "Oplaadpunten voor elektrische voertuigen",
+      "it": "Colonnine di ricarica per veicoli elettrici"
+    },
+    "tags": [
+      "amenity=charging_station",
+      "amenity=ev_charging"
+    ]
+  },
+  {
+    "title": "Financial institutes",
+    "translations": {
+      "de": "Finanzinstitute",
+      "fr": "Institutions financières",
+      "es": "Entidades financieras",
+      "nl": "Financiële instellingen",
+      "it": "Istituti finanziari"
+    },
+    "tags": []
+  },
+  {
+    "title": "ATMs and cash points",
+    "translations": {
+      "de": "Geldautomaten",
+      "fr": "Distributeurs automatiques de billets",
+      "es": "Cajeros automáticos",
+      "nl": "Geldautomaten",
+      "it": "Bancomat e sportelli automatici"
+    },
+    "tags": [
+      "amenity=atm"
+    ]
+  },
+  {
+    "title": "Banks",
+    "translations": {
+      "de": "Banken",
+      "fr": "Banques",
+      "es": "Bancos",
+      "nl": "Banken",
+      "it": "Banche"
+    },
+    "tags": [
+      "amenity=bank"
+    ]
+  },
+  {
+    "title": "Currency exchange places",
+    "translations": {
+      "de": "Wechselstuben",
+      "fr": "Bureaux de change",
+      "es": "Casas de cambio",
+      "nl": "Wisselkantoren",
+      "it": "Uffici di cambio valuta"
+    },
+    "tags": [
+      "amenity=bureau_de_change"
+    ]
+  },
+  {
+    "title": "Health care",
+    "translations": {
+      "de": "Gesundheitswesen",
+      "fr": "Santé",
+      "es": "Sanidad",
+      "nl": "Gezondheidszorg",
+      "it": "Assistenza sanitaria"
+    },
+    "tags": []
+  },
+  {
+    "title": "Pharmacies",
+    "translations": {
+      "de": "Apotheken",
+      "fr": "Pharmacies",
+      "es": "Farmacias",
+      "nl": "Apotheken",
+      "it": "Farmacie"
+    },
+    "tags": [
+      "amenity=pharmacy"
+    ]
+  },
+  {
+    "title": "Hospitals",
+    "translations": {
+      "de": "Krankenhäuser",
+      "fr": "Hôpitaux",
+      "es": "Hospitales",
+      "nl": "Ziekenhuizen",
+      "it": "Ospedali"
+    },
+    "tags": [
+      "amenity=hospital",
+      "amenity=clinic"
+    ]
+  },
+  {
+    "title": "Places to drop babies for remorse",
+    "translations": {
+      "de": "Babyklappen",
+      "fr": "Boîtes à bébés",
+      "es": "Buzones de bebés",
+      "nl": "Vondelingenschuiven",
+      "it": "Culle per la vita"
+    },
+    "tags": [
+      "amenity=baby_hatch"
+    ]
+  },
+  {
+    "title": "Dentists",
+    "translations": {
+      "de": "Zahnärzte",
+      "fr": "Dentistes",
+      "es": "Dentistas",
+      "nl": "Tandartsen",
+      "it": "Dentisti"
+    },
+    "tags": [
+      "amenity=dentist"
+    ]
+  },
+  {
+    "title": "Doctor practices",
+    "translations": {
+      "de": "Arztpraxen",
+      "fr": "Cabinets médicaux",
+      "es": "Consultas médicas",
+      "nl": "Doktersartsenpraktijken",
+      "it": "Studi medici"
+    },
+    "tags": [
+      "amenity=doctors"
+    ]
+  },
+  {
+    "title": "Nursing homes",
+    "translations": {
+      "de": "Pflegeheime",
+      "fr": "Maisons de retraite",
+      "es": "Residencias de ancianos",
+      "nl": "Verzorgingstehuizen",
+      "it": "Case di cura"
+    },
+    "tags": [
+      "amenity=nursing_home",
+      "amenity=social_facility"
+    ]
+  },
+  {
+    "title": "Veterinary clinics",
+    "translations": {
+      "de": "Tierarztpraxen",
+      "fr": "Cliniques vétérinaires",
+      "es": "Clínicas veterinarias",
+      "nl": "Dierenklinieken",
+      "it": "Cliniche veterinarie"
+    },
+    "tags": [
+      "amenity=veterinary"
+    ]
+  },
+  {
+    "title": "Entertainment, arts and culture",
+    "translations": {
+      "de": "Unterhaltung, Kunst und Kultur",
+      "fr": "Divertissement, arts et culture",
+      "es": "Entretenimiento, arte y cultura",
+      "nl": "Vermaak, kunst en cultuur",
+      "it": "Intrattenimento, arte e cultura"
+    },
+    "tags": []
+  },
+  {
+    "title": "Arts centers",
+    "translations": {
+      "de": "Kulturzentren",
+      "fr": "Centres artistiques",
+      "es": "Centros de arte",
+      "nl": "Kunstcentra",
+      "it": "Centri d'arte"
+    },
+    "tags": [
+      "amenity=arts_centre"
+    ]
+  },
+  {
+    "title": "Cinemas",
+    "translations": {
+      "de": "Kinos",
+      "fr": "Cinémas",
+      "es": "Cines",
+      "nl": "Bioscopen",
+      "it": "Cinema"
+    },
+    "tags": [
+      "amenity=cinema"
+    ]
+  },
+  {
+    "title": "Community centers",
+    "translations": {
+      "de": "Gemeindezentren",
+      "fr": "Centres socioculturels",
+      "es": "Centros cívicos",
+      "nl": "Buurthuizen",
+      "it": "Centri sociali"
+    },
+    "tags": [
+      "amenity=community_centre",
+      "amenity=social_centre"
+    ]
+  },
+  {
+    "title": "Fountains",
+    "translations": {
+      "de": "Brunnen",
+      "fr": "Fontaines",
+      "es": "Fuentes",
+      "nl": "Fonteinen",
+      "it": "Fontane"
+    },
+    "tags": [
+      "amenity=fountain"
+    ]
+  },
+  {
+    "title": "Nightclubs (Dancing)",
+    "translations": {
+      "de": "Nachtclubs (Tanken/Tanzen)",
+      "fr": "Boîtes de nuit (Dansant)",
+      "es": "Discotecas (Baile)",
+      "nl": "Nachtclubs (Dansen)",
+      "it": "Discoteche (Ballo)"
+    },
+    "tags": [
+      "amenity=nightclub"
+    ]
+  },
+  {
+    "title": "Strip clubs",
+    "translations": {
+      "de": "Stripclubs",
+      "fr": "Clubs de strip-tease",
+      "es": "Clubes de stripis",
+      "nl": "Stripclubs",
+      "it": "Strip club"
+    },
+    "tags": [
+      "amenity=stripclub",
+      "amenity=studio"
+    ]
+  },
+  {
+    "title": "Theatres and operas",
+    "translations": {
+      "de": "Theater und Opern",
+      "fr": "Théâtres et opéras",
+      "es": "Teatros y óperas",
+      "nl": "Theaters en opera's",
+      "it": "Teatri e opere"
+    },
+    "tags": [
+      "amenity=theatre"
+    ]
+  },
+  {
+    "title": "Other amenities",
+    "translations": {
+      "de": "Sonstige Einrichtungen",
+      "fr": "Autres services",
+      "es": "Otros servicios",
+      "nl": "Overige voorzieningen",
+      "it": "Altri servizi"
+    },
+    "tags": [
+      "amenity=bench"
+    ]
+  },
+  {
+    "title": "Brothels",
+    "translations": {
+      "de": "Bordelle",
+      "fr": "Maisons closes",
+      "es": "Burdeles",
+      "nl": "Bordeel",
+      "it": "Bordelli"
+    },
+    "tags": [
+      "amenity=brothel",
+      "amenity=clock"
+    ]
+  },
+  {
+    "title": "Court houses",
+    "translations": {
+      "de": "Gerichtsgebäude",
+      "fr": "Palais de justice",
+      "es": "Juzgados",
+      "nl": "Gerechtsgebouwen",
+      "it": "Tribunali"
+    },
+    "tags": [
+      "amenity=court_house"
+    ]
+  },
+  {
+    "title": "Crematoriums",
+    "translations": {
+      "de": "Krematorien",
+      "fr": "Crématoriums",
+      "es": "Crematorios",
+      "nl": "Crematoria",
+      "it": "Crematori"
+    },
+    "tags": [
+      "amenity=crematorium"
+    ]
+  },
+  {
+    "title": "Embassies",
+    "translations": {
+      "de": "Botschaften",
+      "fr": "Ambassades",
+      "es": "Embajadas",
+      "nl": "Ambassades",
+      "it": "Ambasciate"
+    },
+    "tags": [
+      "amenity=embassy"
+    ]
+  },
+  {
+    "title": "Fire stations",
+    "translations": {
+      "de": "Feuerwachen",
+      "fr": "Casernes de pompiers",
+      "es": "Estaciones de bomberos",
+      "nl": "Brandweerkazernes",
+      "it": "Vigili del fuoco"
+    },
+    "tags": [
+      "amenity=fire_station"
+    ]
+  },
+  {
+    "title": "Grave yards",
+    "translations": {
+      "de": "Friedhöfe",
+      "fr": "Cimetières",
+      "es": "Cementerios",
+      "nl": "Begraafplaatsen",
+      "it": "Cimiteri"
+    },
+    "tags": [
+      "amenity=grave_yard"
+    ]
+  },
+  {
+    "title": "Hunting stands",
+    "translations": {
+      "de": "Hochsitze",
+      "fr": "Miradors de chasse",
+      "es": "Puestos de caza",
+      "nl": "Jachtstandaards",
+      "it": "Altane di caccia"
+    },
+    "tags": [
+      "amenity=hunting_stand"
+    ]
+  },
+  {
+    "title": "Marketplaces",
+    "translations": {
+      "de": "Märkte",
+      "fr": "Marchés",
+      "es": "Mercados",
+      "nl": "Markten",
+      "it": "Mercati"
+    },
+    "tags": [
+      "amenity=market_place"
+    ]
+  },
+  {
+    "title": "Churches, mosques, temples",
+    "translations": {
+      "de": "Kirchen, Moscheen, Tempel",
+      "fr": "Églises, mosquées, temples",
+      "es": "Iglesias, mezquitas, templos",
+      "nl": "Kerken, moskeeën, tempels",
+      "it": "Chiese, moschee, templi"
+    },
+    "tags": [
+      "amenity=place_of_worship"
+    ]
+  },
+  {
+    "title": "Police stations",
+    "translations": {
+      "de": "Polizeiwachen",
+      "fr": "Commissariats de police",
+      "es": "Comisarías de policía",
+      "nl": "Politiebureaus",
+      "it": "Stazioni di polizia"
+    },
+    "tags": [
+      "amenity=police"
+    ]
+  },
+  {
+    "title": "Post boxes",
+    "translations": {
+      "de": "Briefkästen",
+      "fr": "Boîtes aux lettres",
+      "es": "Buzones de correos",
+      "nl": "Brievenbussen",
+      "it": "Cassette delle lettere"
+    },
+    "tags": [
+      "amenity=post_box"
+    ]
+  },
+  {
+    "title": "Post offices",
+    "translations": {
+      "de": "Postämter",
+      "fr": "Bureaux de poste",
+      "es": "Oficinas de correos",
+      "nl": "Postkantoren",
+      "it": "Uffici postali"
+    },
+    "tags": [
+      "amenity=post_office"
+    ]
+  },
+  {
+    "title": "Prisons",
+    "translations": {
+      "de": "Gefängnisse",
+      "fr": "Prisons",
+      "es": "Prisiones",
+      "nl": "Gevangenissen",
+      "it": "Prigioni"
+    },
+    "tags": [
+      "amenity=prison",
+      "amenity=public_building"
+    ]
+  },
+  {
+    "title": "Recycling facilities",
+    "translations": {
+      "de": "Recyclinghöfe",
+      "fr": "Installations de recyclage",
+      "es": "Instalaciones de reciclaje",
+      "nl": "Recyclingvoorzieningen",
+      "it": "Centri di riciclaggio"
+    },
+    "tags": [
+      "amenity=recycling"
+    ]
+  },
+  {
+    "title": "Saunas",
+    "translations": {
+      "de": "Saunen",
+      "fr": "Saunas",
+      "es": "Saunas",
+      "nl": "Sauna's",
+      "it": "Sauna"
+    },
+    "tags": [
+      "amenity=sauna"
+    ]
+  },
+  {
+    "title": "Bad weather shelters",
+    "translations": {
+      "de": "Schutzhütten bei schlechtem Wetter",
+      "fr": "Abris contre les intempéries",
+      "es": "Refugios contra el mal tiempo",
+      "nl": "Schuilplaatsen bij slecht weer",
+      "it": "Rifugi contro il maltempo"
+    },
+    "tags": [
+      "amenity=shelter"
+    ]
+  },
+  {
+    "title": "Public telephones",
+    "translations": {
+      "de": "Öffentliche Fernsprecher",
+      "fr": "Téléphones publics",
+      "es": "Teléfonos públicos",
+      "nl": "Openbare telefoons",
+      "it": "Telefoni pubblici"
+    },
+    "tags": [
+      "amenity=telephone"
+    ]
+  },
+  {
+    "title": "Public toilets",
+    "translations": {
+      "de": "Öffentliche Toiletten",
+      "fr": "Toilettes publiques",
+      "es": "Aseos públicos",
+      "nl": "Openbare toiletten",
+      "it": "Servizi igienici pubblici"
+    },
+    "tags": [
+      "amenity=toilets"
+    ]
+  },
+  {
+    "title": "Town halls",
+    "translations": {
+      "de": "Rathäuser",
+      "fr": "Hôtels de ville",
+      "es": "Ayuntamientos",
+      "nl": "Stadhuizen",
+      "it": "Municipi"
+    },
+    "tags": [
+      "amenity=townhall",
+      "amenity=vending_machine",
+      "amenity=waste_basket",
+      "amenity=waste_disposal",
+      "amenity=watering_place"
+    ]
+  },
+  {
+    "title": "Airport POIs",
+    "translations": {
+      "de": "Flughafen-POIs",
+      "fr": "POI d'aéroport",
+      "es": "Puntos de interés de aeropuertos",
+      "nl": "Luchthaven-POI's",
+      "it": "POI aeroportuali"
+    },
+    "tags": []
+  },
+  {
+    "title": "Airports",
+    "translations": {
+      "de": "Flughäfen",
+      "fr": "Aéroports",
+      "es": "Aeropuertos",
+      "nl": "Luchthavens",
+      "it": "Aeroporti"
+    },
+    "tags": [
+      "aeroway=aerodrome",
+      "aeroway=airport"
+    ]
+  },
+  {
+    "title": "Airport terminals",
+    "translations": {
+      "de": "Flughafenterminals",
+      "fr": "Terminaux d'aéroport",
+      "es": "Terminales de aeropuerto",
+      "nl": "Luchthaventerminals",
+      "it": "Terminal aeroportuali"
+    },
+    "tags": [
+      "aeroway=terminal"
+    ]
+  },
+  {
+    "title": "Airport gates",
+    "translations": {
+      "de": "Flughafentore",
+      "fr": "Portes d'embarquement",
+      "es": "Puertas de embarque",
+      "nl": "Luchthavengates",
+      "it": "Gate aeroportuali"
+    },
+    "tags": [
+      "aeroway=gate"
+    ]
+  },
+  {
+    "title": "Helipads",
+    "translations": {
+      "de": "Landeplätze für Hubschrauber",
+      "fr": "Hélisurfaces",
+      "es": "Helipuertos",
+      "nl": "Helipads",
+      "it": "Eliporti"
+    },
+    "tags": [
+      "aeroway=helipad"
+    ]
+  },
+  {
+    "title": "Terminals",
+    "translations": {
+      "de": "Terminals",
+      "fr": "Terminaux",
+      "es": "Terminales",
+      "nl": "Terminals",
+      "it": "Terminal"
+    },
+    "tags": [
+      "aeroway=terminal"
+    ]
+  },
+  {
+    "title": "Barriers",
+    "translations": {
+      "de": "Barrieren",
+      "fr": "Barrières",
+      "es": "Barreras",
+      "nl": "Barrières",
+      "it": "Barriere"
+    },
+    "tags": [
+      "barrier=kerb"
+    ]
+  },
+  {
+    "title": "Blocks",
+    "translations": {
+      "de": "Blöcke",
+      "fr": "Blocs",
+      "es": "Bloques",
+      "nl": "Blokken",
+      "it": "Blocchi"
+    },
+    "tags": [
+      "barrier=block"
+    ]
+  },
+  {
+    "title": "Bollards",
+    "translations": {
+      "de": "Poller",
+      "fr": "Bornes",
+      "es": "Bolardos",
+      "nl": "Paaltjes",
+      "it": "Dissuasori di sosta"
+    },
+    "tags": [
+      "barrier=bollard"
+    ]
+  },
+  {
+    "title": "Border controls",
+    "translations": {
+      "de": "Grenzkontrollen",
+      "fr": "Contrôles frontaliers",
+      "es": "Controles fronterizos",
+      "nl": "Grensbewaking",
+      "it": "Controlli di frontiera"
+    },
+    "tags": [
+      "barrier=border_control",
+      "barrier=cattle_grid"
+    ]
+  },
+  {
+    "title": "Chains",
+    "translations": {
+      "de": "Ketten",
+      "fr": "Chaînes",
+      "es": "Cadenas",
+      "nl": "Kettingen",
+      "it": "Catene"
+    },
+    "tags": [
+      "barrier=chain"
+    ]
+  },
+  {
+    "title": "Cycle barriers",
+    "translations": {
+      "de": "Fahrradsperren",
+      "fr": "Barrières à vélos",
+      "es": "Barreras para bicicletas",
+      "nl": "Fietsbarrières",
+      "it": "Barriere per biciclette"
+    },
+    "tags": [
+      "barrier=cycle_barrier"
+    ]
+  },
+  {
+    "title": "Motorcycle barriers",
+    "translations": {
+      "de": "Motorradsperren",
+      "fr": "Barrières pour motos",
+      "es": "Barreras para motocicletas",
+      "nl": "Motorbarrières",
+      "it": "Barriere per moto"
+    },
+    "tags": [
+      "barrier=motorcycle_barrier"
+    ]
+  },
+  {
+    "title": "Debris barriers",
+    "translations": {
+      "de": "Schuttsperren",
+      "fr": "Barrières anti-débris",
+      "es": "Barreras contra escombros",
+      "nl": "Puinbarrières",
+      "it": "Barriere detriti"
+    },
+    "tags": [
+      "barrier=debris"
+    ]
+  },
+  {
+    "title": "Entrance barriers",
+    "translations": {
+      "de": "Eingangssperren",
+      "fr": "Barrières d'entrée",
+      "es": "Barreras de entrada",
+      "nl": "Ingangsbarrières",
+      "it": "Barriere d'ingresso"
+    },
+    "tags": [
+      "barrier=entrance"
+    ]
+  },
+  {
+    "title": "Full-height turnstiles",
+    "translations": {
+      "de": "Drehkreuze in voller Höhe",
+      "fr": "Tourniquets pleine hauteur",
+      "es": "Tornos de altura completa",
+      "nl": "Draaikruizen over volle hoogte",
+      "it": "Tornelli a tutta altezza"
+    },
+    "tags": [
+      "barrier=full-height_turnstile"
+    ]
+  },
+  {
+    "title": "Gates",
+    "translations": {
+      "de": "Tore",
+      "fr": "Portes / Grilles",
+      "es": "Puertas / Cancelas",
+      "nl": "Poorten",
+      "it": "Cancelli"
+    },
+    "tags": [
+      "barrier=gate"
+    ]
+  },
+  {
+    "title": "Horse stiles",
+    "translations": {
+      "de": "Pferdesprünge",
+      "fr": "Échaliers pour chevaux",
+      "es": "Pasos para caballos",
+      "nl": "Paardenhekken",
+      "it": "Passaggi per cavalli"
+    },
+    "tags": [
+      "barrier=horse_stile"
+    ]
+  },
+  {
+    "title": "Jersey barriers",
+    "translations": {
+      "de": "Betonschutzwände",
+      "fr": "Glissières en béton",
+      "es": "Barreras New Jersey",
+      "nl": "Betonnen afzetblokken",
+      "it": "Barriere Jersey"
+    },
+    "tags": [
+      "barrier=jersey_barrier"
+    ]
+  },
+  {
+    "title": "Kent carriage gap",
+    "translations": {
+      "de": "Wagensperren (Kent)",
+      "fr": "Échaliers de type Kent",
+      "es": "Pasos de carruajes Kent",
+      "nl": "Kentse doorgangen",
+      "it": "Varchi per carrozze Kent"
+    },
+    "tags": [
+      "barrier=kent_carriage_gap"
+    ]
+  },
+  {
+    "title": "Kissing gates",
+    "translations": {
+      "de": "Drängelgitter",
+      "fr": "Portillons anti-bétail",
+      "es": "Puertas basculantes",
+      "nl": "Draaipoortjes",
+      "it": "Cancelletti basculanti"
+    },
+    "tags": [
+      "barrier=kissing_gate"
+    ]
+  },
+  {
+    "title": "Lift gate",
+    "translations": {
+      "de": "Schranken",
+      "fr": "Barrières levantes",
+      "es": "Barreras de brazo",
+      "nl": "Slagbomen",
+      "it": "Sbarre alzabili"
+    },
+    "tags": [
+      "barrier=lift_gate"
+    ]
+  },
+  {
+    "title": "Logs",
+    "translations": {
+      "de": "Baumstämme",
+      "fr": "Bûches",
+      "es": "Troncos",
+      "nl": "Boomstammen",
+      "it": "Tronchi"
+    },
+    "tags": [
+      "barrier=log"
+    ]
+  },
+  {
+    "title": "Ropes",
+    "translations": {
+      "de": "Seile",
+      "fr": "Cordes",
+      "es": "Cuerdas",
+      "nl": "Touwen",
+      "it": "Corde"
+    },
+    "tags": [
+      "barrier=rope"
+    ]
+  },
+  {
+    "title": "Sally Ports",
+    "translations": {
+      "de": "Ausfalltore",
+      "fr": "Portes de sortie de secours",
+      "es": "Portillos de seguridad",
+      "nl": "Sallipoorten",
+      "it": "Porte di sicurezza"
+    },
+    "tags": [
+      "barrier=sally_port"
+    ]
+  },
+  {
+    "title": "Spikes",
+    "translations": {
+      "de": "Reifenkiller / Spikes",
+      "fr": "Pointes anti-retour",
+      "es": "Pinchos",
+      "nl": "Spijkers",
+      "it": "Strisce chiodate"
+    },
+    "tags": [
+      "barrier=spike"
+    ]
+  },
+  {
+    "title": "Stiles",
+    "translations": {
+      "de": "Stufen / Übertritte",
+      "fr": "Échaliers",
+      "es": "Pasos de valla",
+      "nl": "Stijlen / Overstapjes",
+      "it": "Saltapassi"
+    },
+    "tags": [
+      "barrier=stile"
+    ]
+  },
+  {
+    "title": "Swing gates",
+    "translations": {
+      "de": "Flügeltore",
+      "fr": "Portes battantes",
+      "es": "Puertas batientes",
+      "nl": "Zwenkpoorten",
+      "it": "Cancelli a battente"
+    },
+    "tags": [
+      "barrier=swing_gate"
+    ]
+  },
+  {
+    "title": "Toll booths",
+    "translations": {
+      "de": "Mauthäuschen",
+      "fr": "Cabines de péage",
+      "es": "Casetas de peaje",
+      "nl": "Tolhuisjes",
+      "it": "Caselli autostradali"
+    },
+    "tags": [
+      "barrier=toll_booth"
+    ]
+  },
+  {
+    "title": "Turnstiles",
+    "translations": {
+      "de": "Drehkreuze",
+      "fr": "Tourniquets",
+      "es": "Tornos",
+      "nl": "Draaikruizen",
+      "it": "Tornelli"
+    },
+    "tags": [
+      "barrier=turnstile"
+    ]
+  },
+  {
+    "title": "Crafting",
+    "translations": {
+      "de": "Handwerk",
+      "fr": "Artisanat",
+      "es": "Artesanía y oficios",
+      "nl": "Ambachten",
+      "it": "Artigianato"
+    },
+    "tags": []
+  },
+  {
+    "title": "Agricultural engines",
+    "translations": {
+      "de": "Landwirtschaftliche Motoren",
+      "fr": "Moteurs agricoles",
+      "es": "Motores agrícolas",
+      "nl": "Landbouwmotoren",
+      "it": "Motori agricoli"
+    },
+    "tags": [
+      "craft=agricultural_engines"
+    ]
+  },
+  {
+    "title": "Basket makers",
+    "translations": {
+      "de": "Korbmacher",
+      "fr": "Vannerie",
+      "es": "Cesteros",
+      "nl": "Mandenmakers",
+      "it": "Cestaio"
+    },
+    "tags": [
+      "craft=basket_maker"
+    ]
+  },
+  {
+    "title": "Beekeepers",
+    "translations": {
+      "de": "Imker",
+      "fr": "Apiculteurs",
+      "es": "Apicultores",
+      "nl": "Imkers",
+      "it": "Apicoltori"
+    },
+    "tags": [
+      "craft=beekeeper"
+    ]
+  },
+  {
+    "title": "Blacksmiths",
+    "translations": {
+      "de": "Schmiede",
+      "fr": "Forgerons",
+      "es": "Herreros",
+      "nl": "Smeden",
+      "it": "Fabbri"
+    },
+    "tags": [
+      "craft=blacksmith"
+    ]
+  },
+  {
+    "title": "Breweries",
+    "translations": {
+      "de": "Brauereien",
+      "fr": "Brasseries",
+      "es": "Cervecerías artesanales",
+      "nl": "Brouwerijen",
+      "it": "Birrifici"
+    },
+    "tags": [
+      "craft=brewery"
+    ]
+  },
+  {
+    "title": "Boat builders",
+    "translations": {
+      "de": "Bootbauer",
+      "fr": "Constructeurs de bateaux",
+      "es": "Constructores de barcos",
+      "nl": "Jachtbouwers",
+      "it": "Cantieristi navali"
+    },
+    "tags": [
+      "craft=boatbuilder"
+    ]
+  },
+  {
+    "title": "Bonfires",
+    "translations": {
+      "de": "Feuerbestattungen / Holzfeuer",
+      "fr": "Feux de joie",
+      "es": "Hogueras",
+      "nl": "Vreugdevuren",
+      "it": "Falò"
+    },
+    "tags": [
+      "craft=bonfire"
+    ]
+  },
+  {
+    "title": "Bookbinders",
+    "translations": {
+      "de": "Buchbinder",
+      "fr": "Relieurs",
+      "es": "Encuadernadores",
+      "nl": "Boekbinders",
+      "it": "Legatibuchi"
+    },
+    "tags": [
+      "craft=bookbinder"
+    ]
+  },
+  {
+    "title": "Carpenters",
+    "translations": {
+      "de": "Schreiner / Zimmerleute",
+      "fr": "Charpentiers / Menuisiers",
+      "es": "Carpinteros",
+      "nl": "Timmerlieden",
+      "it": "Falegnami"
+    },
+    "tags": [
+      "craft=carpenter"
+    ]
+  },
+  {
+    "title": "Carpet layers",
+    "translations": {
+      "de": "Bodenleger (Teppich)",
+      "fr": "Poseurs de moquette",
+      "es": "Instaladores de moqueta",
+      "nl": "Tapijtleggers",
+      "it": "Posatori di moquette"
+    },
+    "tags": [
+      "craft=carpet_layer"
+    ]
+  },
+  {
+    "title": "Caterers",
+    "translations": {
+      "de": "Partyservice / Caterer",
+      "fr": "Traiteurs",
+      "es": "Servicios de catering",
+      "nl": "Cateraars",
+      "it": "Catering"
+    },
+    "tags": [
+      "craft=caterer"
+    ]
+  },
+  {
+    "title": "Clockmakers",
+    "translations": {
+      "de": "Uhrmacher",
+      "fr": "Horlogers",
+      "es": "Relojeros",
+      "nl": "Klokkenmakers",
+      "it": "Oologia / Orologiai"
+    },
+    "tags": [
+      "craft=clockmaker"
+    ]
+  },
+  {
+    "title": "Confectioneries",
+    "translations": {
+      "de": "Konditoreien",
+      "fr": "Confiseries",
+      "es": "Confiterías",
+      "nl": "Banketbakkers",
+      "it": "Pasticcerie"
+    },
+    "tags": [
+      "craft=confectionery"
+    ]
+  },
+  {
+    "title": "Dressmakers",
+    "translations": {
+      "de": "Schneider",
+      "fr": "Couturiers",
+      "es": "Modistas",
+      "nl": "Klerenmakers",
+      "it": "Sarti"
+    },
+    "tags": [
+      "craft=dressmaker"
+    ]
+  },
+  {
+    "title": "Electricians",
+    "translations": {
+      "de": "Elektriker",
+      "fr": "Électriciens",
+      "es": "Electricistas",
+      "nl": "Elektriciens",
+      "it": "Elettricisti"
+    },
+    "tags": [
+      "craft=electrician"
+    ]
+  },
+  {
+    "title": "Gardeners",
+    "translations": {
+      "de": "Gärtner",
+      "fr": "Jardiniers",
+      "es": "Jardineros",
+      "nl": "Hoveniers",
+      "it": "Giardinieri"
+    },
+    "tags": [
+      "craft=gardener"
+    ]
+  },
+  {
+    "title": "Glaziers",
+    "translations": {
+      "de": "Glaser",
+      "fr": "Vitriers",
+      "es": "Cristaleros",
+      "nl": "Glazeniers",
+      "it": "Vetrai"
+    },
+    "tags": [
+      "craft=glaziery"
+    ]
+  },
+  {
+    "title": "Handicrafts",
+    "translations": {
+      "de": "Kunsthandwerk",
+      "fr": "Artisanat d'art",
+      "es": "Artesanía",
+      "nl": "Handwerk",
+      "it": "Artigianato artistico"
+    },
+    "tags": [
+      "craft=handicraft"
+    ]
+  },
+  {
+    "title": "Heating, Ventilating and Air Condition",
+    "translations": {
+      "de": "Heizung, Lüftung, Klima (HLK)",
+      "fr": "Chauffage, ventilation et climatisation (CVC)",
+      "es": "Calefacción, ventilación y aire acondicionado (CLIMA)",
+      "nl": "Verwarming, ventilatie en airconditioning (W-installaties)",
+      "it": "Riscaldamento, ventilazione e condizionamento (HVAC)"
+    },
+    "tags": [
+      "craft=hvac"
+    ]
+  },
+  {
+    "title": "Insulations",
+    "translations": {
+      "de": "Isolierer / Dämmung",
+      "fr": "Isolation",
+      "es": "Aislamientos",
+      "nl": "Isolatiewerken",
+      "it": "Isolamento"
+    },
+    "tags": [
+      "craft=insulation"
+    ]
+  },
+  {
+    "title": "Jewellers",
+    "translations": {
+      "de": "Juweliere",
+      "fr": "Bijoutiers",
+      "es": "Joyerías",
+      "nl": "Juweliers",
+      "it": "Gioiellerie"
+    },
+    "tags": [
+      "craft=jeweller"
+    ]
+  },
+  {
+    "title": "Locksmiths",
+    "translations": {
+      "de": "Schlosser / Aufsperrdienste",
+      "fr": "Serruriers",
+      "es": "Cerrajeros",
+      "nl": "Slotenmakers",
+      "it": "Fabbri / Serrature"
+    },
+    "tags": [
+      "craft=locksmith"
+    ]
+  },
+  {
+    "title": "Key cutters",
+    "translations": {
+      "de": "Schlüsseldienste",
+      "fr": "Tailleurs de clés",
+      "es": "Duplicado de llaves",
+      "nl": "Sleutelservice",
+      "it": "Duplicazione chiavi"
+    },
+    "tags": [
+      "craft=key_cutter"
+    ]
+  },
+  {
+    "title": "Metal constructions",
+    "translations": {
+      "de": "Metallbau",
+      "fr": "Constructions métalliques",
+      "es": "Construcciones metálicas",
+      "nl": "Metaalconstructie",
+      "it": "Carpenteria metallica"
+    },
+    "tags": [
+      "craft=metal_construction"
+    ]
+  },
+  {
+    "title": "Opticians",
+    "translations": {
+      "de": "Optiker",
+      "fr": "Opticiens",
+      "es": "Ópticas",
+      "nl": "Opticiens",
+      "it": "Ottici"
+    },
+    "tags": [
+      "craft=optician"
+    ]
+  },
+  {
+    "title": "Painters",
+    "translations": {
+      "de": "Maler",
+      "fr": "Peintres",
+      "es": "Pintores",
+      "nl": "Schilders",
+      "it": "Imbianchini"
+    },
+    "tags": [
+      "craft=painter"
+    ]
+  },
+  {
+    "title": "Parquet layers",
+    "translations": {
+      "de": "Parkettleger",
+      "fr": "Poseurs de parquet",
+      "es": "Instaladores de parqué",
+      "nl": "Parketleggers",
+      "it": "Posatori di parquet"
+    },
+    "tags": [
+      "craft=parquet_layer"
+    ]
+  },
+  {
+    "title": "Photographers",
+    "translations": {
+      "de": "Fotografen",
+      "fr": "Photographes",
+      "es": "Fotógrafos",
+      "nl": "Fotografen",
+      "it": "Fotografi"
+    },
+    "tags": [
+      "craft=photographer"
+    ]
+  },
+  {
+    "title": "Photographic laboratory",
+    "translations": {
+      "de": "Fotolabore",
+      "fr": "Laboratoires photographiques",
+      "es": "Laboratorios fotográficos",
+      "nl": "Fotolaboratoria",
+      "it": "Laboratori fotografici"
+    },
+    "tags": [
+      "craft=photographic_laboratory"
+    ]
+  },
+  {
+    "title": "Plasterers",
+    "translations": {
+      "de": "Stuckateure / Verputzer",
+      "fr": "Plâtriers",
+      "es": "Yeseros / Enlucidores",
+      "nl": "Stukadoors",
+      "it": "Gessatori / Stuccatori"
+    },
+    "tags": [
+      "craft=plasterer"
+    ]
+  },
+  {
+    "title": "Plumbers",
+    "translations": {
+      "de": "Installateure / Klempner (Sanitär)",
+      "fr": "Plombiers",
+      "es": "Fontaneros",
+      "nl": "Loodgieters",
+      "it": "Idraulici"
+    },
+    "tags": [
+      "craft=plumber"
+    ]
+  },
+  {
+    "title": "Potteries",
+    "translations": {
+      "de": "Töpfereien",
+      "fr": "Poteries",
+      "es": "Alfarerías",
+      "nl": "Pottenbakkerijen",
+      "it": "Ceramiche / Vasai"
+    },
+    "tags": [
+      "craft=pottery"
+    ]
+  },
+  {
+    "title": "Riggers",
+    "translations": {
+      "de": "Relingbauer / Anschläger",
+      "fr": "Gréeurs",
+      "es": "Aparejadores",
+      "nl": "Tuigers",
+      "it": "Rigger / Attrezzatori"
+    },
+    "tags": [
+      "craft=rigger"
+    ]
+  },
+  {
+    "title": "Roofers",
+    "translations": {
+      "de": "Dachdecker",
+      "fr": "Couvreurs",
+      "es": "Techadores / Tejadistas",
+      "nl": "Dakdekkers",
+      "it": "Tetti / Lattonieri"
+    },
+    "tags": [
+      "craft=roofer"
+    ]
+  },
+  {
+    "title": "Saddlers",
+    "translations": {
+      "de": "Sattler",
+      "fr": "Selliers",
+      "es": "Guarnicioneros / Talabarteros",
+      "nl": "Zadelmakers",
+      "it": "Sellai"
+    },
+    "tags": [
+      "craft=saddler"
+    ]
+  },
+  {
+    "title": "Sail makers",
+    "translations": {
+      "de": "Segelmacher",
+      "fr": "Voiliers / Voileries",
+      "es": "Veleros (artesanos)",
+      "nl": "Zeilmakers",
+      "it": "Velaio"
+    },
+    "tags": [
+      "craft=sailmaker"
+    ]
+  },
+  {
+    "title": "Sawmills",
+    "translations": {
+      "de": "Sägewerke",
+      "fr": "Scieries",
+      "es": "Aserraderos",
+      "nl": "Zagerijen",
+      "it": "Segerie"
+    },
+    "tags": [
+      "craft=sawmill"
+    ]
+  },
+  {
+    "title": "Scaffolders",
+    "translations": {
+      "de": "Gerüstbauer",
+      "fr": "Échafaudeurs",
+      "es": "Andamios / Montadores de andamios",
+      "nl": "Steigerbouwers",
+      "it": "Puntellatori / Montatori di ponteggi"
+    },
+    "tags": [
+      "craft=scaffolder"
+    ]
+  },
+  {
+    "title": "Sculptors",
+    "translations": {
+      "de": "Bildhauer",
+      "fr": "Sculpteurs",
+      "es": "Escultores",
+      "nl": "Beeldhouwers",
+      "it": "Scultori"
+    },
+    "tags": [
+      "craft=sculptor"
+    ]
+  },
+  {
+    "title": "Shoemakers",
+    "translations": {
+      "de": "Schuhmacher",
+      "fr": "Cordonniers",
+      "es": "Zapateros (artesanos)",
+      "nl": "Schoenmakers",
+      "it": "Calzolai"
+    },
+    "tags": [
+      "craft=shoemaker"
+    ]
+  },
+  {
+    "title": "Stand builders",
+    "translations": {
+      "de": "Messebauer",
+      "fr": "Constructeurs de stands",
+      "es": "Montadores de stands",
+      "nl": "Standbouwers",
+      "it": "Allestitori di stand"
+    },
+    "tags": [
+      "craft=stand_builder"
+    ]
+  },
+  {
+    "title": "Stonemason",
+    "translations": {
+      "de": "Steinmetze",
+      "fr": "Tailleurs de pierre",
+      "es": "Canteros / Marmolistas",
+      "nl": "Steenhouwers",
+      "it": "Scalpellini / Marmisti"
+    },
+    "tags": [
+      "craft=stonemason"
+    ]
+  },
+  {
+    "title": "Sun protections",
+    "translations": {
+      "de": "Sonnenschutz",
+      "fr": "Protection solaire",
+      "es": "Protección solar (toldos y persianas)",
+      "nl": "Zonwering",
+      "it": "Protezione solare"
+    },
+    "tags": [
+      "craft=Sun protection"
+    ]
+  },
+  {
+    "title": "Sweeps",
+    "translations": {
+      "de": "Schornsteinfeger",
+      "fr": "Ramoneurs",
+      "es": "Hollinadores / Deshollinadores",
+      "nl": "Schoorsteenvegers",
+      "it": "Spazzacamini"
+    },
+    "tags": [
+      "craft=sweep"
+    ]
+  },
+  {
+    "title": "Tailors",
+    "translations": {
+      "de": "Schneider",
+      "fr": "Tailleurs",
+      "es": "Sastres",
+      "nl": "Kleermakers",
+      "it": "Sarti"
+    },
+    "tags": [
+      "craft=tailor"
+    ]
+  },
+  {
+    "title": "Tilers",
+    "translations": {
+      "de": "Fliesenleger",
+      "fr": "Carreleurs",
+      "es": "Alicatadores / Soladores",
+      "nl": "Tegelzetters",
+      "it": "Piastrellisti"
+    },
+    "tags": [
+      "craft=tiler"
+    ]
+  },
+  {
+    "title": "Tinsmiths",
+    "translations": {
+      "de": "Spengler / Klempner",
+      "fr": "Zingueurs / Ferblantiers",
+      "es": "Hojalateros",
+      "nl": "Loodgieters / Dakdekkers (metaal)",
+      "it": "Lattonieri"
+    },
+    "tags": [
+      "craft=tinsmith"
+    ]
+  },
+  {
+    "title": "Upholsterers",
+    "translations": {
+      "de": "Polsterer",
+      "fr": "Routiers / Tapissiers",
+      "es": "Tapiceros",
+      "nl": "Meubelstoffeerders",
+      "it": "Tappezzieri"
+    },
+    "tags": [
+      "craft=upholsterer"
+    ]
+  },
+  {
+    "title": "Watchmakers",
+    "translations": {
+      "de": "Uhrmacher",
+      "fr": "Horlogers",
+      "es": "Relojeros",
+      "nl": "Horlogemakers",
+      "it": "Orologiai"
+    },
+    "tags": [
+      "craft=watchmaker"
+    ]
+  },
+  {
+    "title": "Emergency",
+    "translations": {
+      "de": "Notfall",
+      "fr": "Urgence",
+      "es": "Emergencia",
+      "nl": "Noodgeval",
+      "it": "Emergenza"
+    },
+    "tags": []
+  },
+  {
+    "title": "Ambulance stations",
+    "translations": {
+      "de": "Rettungswachen",
+      "fr": "Stations d'ambulances",
+      "es": "Estaciones de ambulancias",
+      "nl": "Ambulanceposten",
+      "it": "Stazioni di ambulanza"
+    },
+    "tags": [
+      "emergency=ambulance_station"
+    ]
+  },
+  {
+    "title": "Fire extinguishers",
+    "translations": {
+      "de": "Feuerlöscher",
+      "fr": "Extincteurs",
+      "es": "Extintores",
+      "nl": "Brandblussers",
+      "it": "Estintori"
+    },
+    "tags": [
+      "emergency=fire_extinguisher"
+    ]
+  },
+  {
+    "title": "Fire flappers",
+    "translations": {
+      "de": "Feuerpatschen",
+      "fr": "Battes à feu",
+      "es": "Batefuegos",
+      "nl": "Bluszwepen",
+      "it": "Battifuoco"
+    },
+    "tags": [
+      "emergency=fire_flapper"
+    ]
+  },
+  {
+    "title": "Fire hoses",
+    "translations": {
+      "de": "Feuerwehrschläuche",
+      "fr": "Tuyaux d'incendie",
+      "es": "Mangueras de incendios",
+      "nl": "Brandweerslangen",
+      "it": "Manichette antincendio"
+    },
+    "tags": [
+      "emergency=Fire hose"
+    ]
+  },
+  {
+    "title": "Fire hydrants",
+    "translations": {
+      "de": "Über- und Unterflurhydranten",
+      "fr": "Bouches d'incendie",
+      "es": "Hidrantes",
+      "nl": "Brandkranen",
+      "it": "Idranti"
+    },
+    "tags": [
+      "emergency=fire_hydrant"
+    ]
+  },
+  {
+    "title": "Emergency phones",
+    "translations": {
+      "de": "Notruftelefone",
+      "fr": "Téléphones d'urgence",
+      "es": "Teléfonos de emergencia",
+      "nl": "Noodtelefoons",
+      "it": "Telefoni di emergenza"
+    },
+    "tags": [
+      "emergency=phone"
+    ]
+  },
+  {
+    "title": "SES stations",
+    "translations": {
+      "de": "SES-Stationen (Rettungsdienste)",
+      "fr": "Stations SES (Services d'urgence)",
+      "es": "Estaciones SES",
+      "nl": "SES-posten",
+      "it": "Stazioni SES"
+    },
+    "tags": [
+      "emergency=ses_station"
+    ]
+  },
+  {
+    "title": "Sirens",
+    "translations": {
+      "de": "Sirenen",
+      "fr": "Sirènes",
+      "es": "Sirenas",
+      "nl": "Sirenes",
+      "it": "Sirene"
+    },
+    "tags": [
+      "emergency=siren"
+    ]
+  },
+  {
+    "title": "Geological",
+    "translations": {
+      "de": "Geologisch",
+      "fr": "Géologique",
+      "es": "Geológico",
+      "nl": "Geologisch",
+      "it": "Geologico"
+    },
+    "tags": []
+  },
+  {
+    "title": "Outcrops",
+    "translations": {
+      "de": "Geologische Aufschlüsse",
+      "fr": "Affleurements",
+      "es": "Afloramientos",
+      "nl": "Dagzoom / Ontsluitingen",
+      "it": "Affioramenti"
+    },
+    "tags": [
+      "geological=outcrop"
+    ]
+  },
+  {
+    "title": "Paleontological sites",
+    "translations": {
+      "de": "Paläontologische Fundstellen",
+      "fr": "Sites paléontologiques",
+      "es": "Yacimientos paleontológicos",
+      "nl": "Paleontologische vindplaatsen",
+      "it": "Siti paleontologici"
+    },
+    "tags": [
+      "geological=paleontological"
+    ]
+  },
+  {
+    "title": "Highway",
+    "translations": {
+      "de": "Straßen",
+      "fr": "Voirie",
+      "es": "Carreteras y vías",
+      "nl": "Wegen",
+      "it": "Strade"
+    },
+    "tags": []
+  },
+  {
+    "title": "Bus stops",
+    "translations": {
+      "de": "Bushaltestellen",
+      "fr": "Arrêts de bus",
+      "es": "Paradas de autobús",
+      "nl": "Bushalte's",
+      "it": "Fermate dell'autobus"
+    },
+    "tags": [
+      "highway=bus_stop",
+      "highway=crossing",
+      "highway=emergency_access_point",
+      "highway=ford",
+      "highway=give_way",
+      "highway=mini_roundabout",
+      "highway=motorway_junction",
+      "highway=passing_place"
+    ]
+  },
+  {
+    "title": "Rest areas",
+    "translations": {
+      "de": "Rastplätze",
+      "fr": "Aires de repos",
+      "es": "Áreas de descanso",
+      "nl": "Rustplaatsen",
+      "it": "Aree di sosta"
+    },
+    "tags": [
+      "highway=rest_area"
+    ]
+  },
+  {
+    "title": "Speed cameras",
+    "translations": {
+      "de": "Blitzer / Geschwindigkeitsüberwachungen",
+      "fr": "Radars automatiques",
+      "es": "Radares de velocidad",
+      "nl": "Flitscamera's",
+      "it": "Autovelox"
+    },
+    "tags": [
+      "highway=speed_camera",
+      "highway=street_lamp",
+      "highway=stop",
+      "highway=traffic_signal",
+      "highway=turning_cycle",
+      "highway=bridleway",
+      "highway=bus_guideway",
+      "highway=byway",
+      "highway=construction",
+      "highway=cycleway",
+      "highway=footway",
+      "highway=living_street",
+      "highway=motorway",
+      "highway=motorway_link",
+      "highway=path",
+      "highway=pedestrian",
+      "highway=primary",
+      "highway=primary_link",
+      "highway=raceway",
+      "highway=residential",
+      "highway=road",
+      "highway=secondary",
+      "highway=secondary_link",
+      "highway=service",
+      "highway=steps",
+      "highway=tertiary",
+      "highway=tertiary_link",
+      "highway=track",
+      "highway=trunk",
+      "highway=trunk_link",
+      "highway=unclassified"
+    ]
+  },
+  {
+    "title": "Historic",
+    "translations": {
+      "de": "Historisch",
+      "fr": "Historique",
+      "es": "Histórico",
+      "nl": "Historisch",
+      "it": "Storico"
+    },
+    "tags": []
+  },
+  {
+    "title": "Archaeological sites",
+    "translations": {
+      "de": "Archäologische Stätten",
+      "fr": "Sites archéologiques",
+      "es": "Yacimientos arqueológicos",
+      "nl": "Archeologische vindplaatsen",
+      "it": "Siti archeologici"
+    },
+    "tags": [
+      "historic=archaeological_site"
+    ]
+  },
+  {
+    "title": "Battlefields",
+    "translations": {
+      "de": "Schlachtfelder",
+      "fr": "Champs de bataille",
+      "es": "Campos de batalla",
+      "nl": "Slagvelden",
+      "it": "Campi di battaglia"
+    },
+    "tags": [
+      "historic=battlefield"
+    ]
+  },
+  {
+    "title": "Boundary stones",
+    "translations": {
+      "de": "Grenzsteine",
+      "fr": "Bornes frontières",
+      "es": "Mojones / Piedras de límite",
+      "nl": "Grensstenen",
+      "it": "Cippi confinari"
+    },
+    "tags": [
+      "historic=Boundary stone"
+    ]
+  },
+  {
+    "title": "Castles",
+    "translations": {
+      "de": "Burgen und Schlösser",
+      "fr": "Châteaux",
+      "es": "Castillos",
+      "nl": "Kastelen",
+      "it": "Castelli"
+    },
+    "tags": [
+      "historic=castle"
+    ]
+  },
+  {
+    "title": "City gates",
+    "translations": {
+      "de": "Stadttore",
+      "fr": "Portes de ville",
+      "es": "Puertas de la ciudad",
+      "nl": "Stadspoorten",
+      "it": "Porte cittadine"
+    },
+    "tags": [
+      "historic=city gate"
+    ]
+  },
+  {
+    "title": "Forts",
+    "translations": {
+      "de": "Festungen",
+      "fr": "Forts",
+      "es": "Fortalezas",
+      "nl": "Forten",
+      "it": "Fortezze"
+    },
+    "tags": [
+      "historic=fort"
+    ]
+  },
+  {
+    "title": "Memorials",
+    "translations": {
+      "de": "Gedenkstätten / Denkmäler",
+      "fr": "Mémoriaux",
+      "es": "Monumentos conmemorativos",
+      "nl": "Gedenktekens",
+      "it": "Monumenti commemorativi"
+    },
+    "tags": [
+      "historic=memorial"
+    ]
+  },
+  {
+    "title": "Monuments",
+    "translations": {
+      "de": "Denkmäler",
+      "fr": "Monuments",
+      "es": "Monumentos",
+      "nl": "Monumenten",
+      "it": "Monumenti"
+    },
+    "tags": [
+      "historic=monument"
+    ]
+  },
+  {
+    "title": "Ruins",
+    "translations": {
+      "de": "Ruinen",
+      "fr": "Ruines",
+      "es": "Ruinas",
+      "nl": "Ruïnes",
+      "it": "Rovine"
+    },
+    "tags": [
+      "historic=ruins"
+    ]
+  },
+  {
+    "title": "Rune stones",
+    "translations": {
+      "de": "Runensteine",
+      "fr": "Pierres runiques",
+      "es": "Piedras rúnicas",
+      "nl": "Runestenen",
+      "it": "Pietre runiche"
+    },
+    "tags": [
+      "historic=runes_stone"
+    ]
+  },
+  {
+    "title": "Wayside crosses",
+    "translations": {
+      "de": "Wegkreuze",
+      "fr": "Croix de chemin",
+      "es": "Cruces de término / Cruceiros",
+      "nl": "Wegkruisen",
+      "it": "Croci viarie"
+    },
+    "tags": [
+      "historic=wayside_cross"
+    ]
+  },
+  {
+    "title": "Wayside shrines",
+    "translations": {
+      "de": "Bildstöcke / Marterln",
+      "fr": "Oratoires",
+      "es": "Hornacinas / Peirones",
+      "nl": "Veldkapelletjes / Wegkapellen",
+      "it": "Madonnine / Capitelli votivi"
+    },
+    "tags": [
+      "historic=wayside_shrine"
+    ]
+  },
+  {
+    "title": "Wrecks",
+    "translations": {
+      "de": "Schiffswracks",
+      "fr": "Épaves",
+      "es": "Pecios",
+      "nl": "Scheepswrakken",
+      "it": "Relitti"
+    },
+    "tags": [
+      "historic=wreck"
+    ]
+  },
+  {
+    "title": "Leisure",
+    "translations": {
+      "de": "Freizeit",
+      "fr": "Loisirs",
+      "es": "Ocio y tiempo libre",
+      "nl": "Recreatie",
+      "it": "Tempo libero"
+    },
+    "tags": [
+      "leisure=common"
+    ]
+  },
+  {
+    "title": "Dancing places",
+    "translations": {
+      "de": "Tanzlokale / Tanzflächen",
+      "fr": "Lieux de danse",
+      "es": "Lugares de baile",
+      "nl": "Dansgelegenheden",
+      "it": "Luoghi da ballo"
+    },
+    "tags": [
+      "leisure=dance"
+    ]
+  },
+  {
+    "title": "Dog parks",
+    "translations": {
+      "de": "Hundefreilaufflächen",
+      "fr": "Parcs pour chiens",
+      "es": "Zonas de esparcimiento canino",
+      "nl": "Hondenlosloopgebieden",
+      "it": "Aree cani"
+    },
+    "tags": [
+      "leisure=dog_park"
+    ]
+  },
+  {
+    "title": "Fishing sites",
+    "translations": {
+      "de": "Angelplätze",
+      "fr": "Sites de pêche",
+      "es": "Zonas de pesca",
+      "nl": "Visstekken",
+      "it": "Zone di pesca"
+    },
+    "tags": [
+      "leisure=fishing"
+    ]
+  },
+  {
+    "title": "Gardens",
+    "translations": {
+      "de": "Gärten / Parkgärten",
+      "fr": "Jardins",
+      "es": "Jardines",
+      "nl": "Tuinen",
+      "it": "Giardini"
+    },
+    "tags": [
+      "leisure=garden"
+    ]
+  },
+  {
+    "title": "Golf courses",
+    "translations": {
+      "de": "Golfplätze",
+      "fr": "Parcours de golf",
+      "es": "Campos de golf",
+      "nl": "Golfbanen",
+      "it": "Campi da golf"
+    },
+    "tags": [
+      "leisure=golf_course"
+    ]
+  },
+  {
+    "title": "Ice rinks",
+    "translations": {
+      "de": "Eisbahnen / Eislaufplätze",
+      "fr": "Patinoires",
+      "es": "Pistas de hielo",
+      "nl": "Ijsbanen",
+      "it": "Piste di pattinaggio su ghiaccio"
+    },
+    "tags": [
+      "leisure=ice_rink"
+    ]
+  },
+  {
+    "title": "Marinas",
+    "translations": {
+      "de": "Yachthäfen",
+      "fr": "Ports de plaisance",
+      "es": "Puertos deportivos",
+      "nl": "Jachthavens",
+      "it": "Porti turistici"
+    },
+    "tags": [
+      "leisure=marina"
+    ]
+  },
+  {
+    "title": "Miniature golf places",
+    "translations": {
+      "de": "Minigolfplätze",
+      "fr": "Mini-golfs",
+      "es": "Minigolf",
+      "nl": "Midgetgolfbanen",
+      "it": "Minigolf"
+    },
+    "tags": [
+      "leisure=miniature_golf"
+    ]
+  },
+  {
+    "title": "Nature reserves",
+    "translations": {
+      "de": "Naturschutzgebiete",
+      "fr": "Réserves naturelles",
+      "es": "Reservas naturales",
+      "nl": "Natuurreservaten",
+      "it": "Riserve naturali"
+    },
+    "tags": [
+      "leisure=nature_reserve"
+    ]
+  },
+  {
+    "title": "Parks",
+    "translations": {
+      "de": "Parks",
+      "fr": "Parcs",
+      "es": "Parques",
+      "nl": "Parken",
+      "it": "Parchi"
+    },
+    "tags": [
+      "leisure=park"
+    ]
+  },
+  {
+    "title": "Pitches",
+    "translations": {
+      "de": "Sportplätze",
+      "fr": "Terrains de sport",
+      "es": "Canchas deportivas",
+      "nl": "Sportvelden",
+      "it": "Campi sportivi"
+    },
+    "tags": [
+      "leisure=pitch"
+    ]
+  },
+  {
+    "title": "Playgrounds",
+    "translations": {
+      "de": "Spielplätze",
+      "fr": "Aires de jeux",
+      "es": "Parques infantiles",
+      "nl": "Speeltuinen",
+      "it": "Aree giochi"
+    },
+    "tags": [
+      "leisure=playground"
+    ]
+  },
+  {
+    "title": "Slipways",
+    "translations": {
+      "de": "Bootsslipanlagen",
+      "fr": "Cales de mise à l'eau",
+      "es": "Rampas para botes",
+      "nl": "Hellingbanen",
+      "it": "Scivoli per alaggio"
+    },
+    "tags": [
+      "leisure=slipway"
+    ]
+  },
+  {
+    "title": "Sports centres",
+    "translations": {
+      "de": "Sportzentren",
+      "fr": "Centres sportifs",
+      "es": "Polideportivos / Centros deportivos",
+      "nl": "Sportcentra",
+      "it": "Centri sportivi"
+    },
+    "tags": [
+      "leisure=sports_centre"
+    ]
+  },
+  {
+    "title": "Stadiums",
+    "translations": {
+      "de": "Stadien",
+      "fr": "Stades",
+      "es": "Estadios",
+      "nl": "Stadions",
+      "it": "Stadi"
+    },
+    "tags": [
+      "leisure=stadium"
+    ]
+  },
+  {
+    "title": "Swimming pools",
+    "translations": {
+      "de": "Schwimmbäder",
+      "fr": "Piscines",
+      "es": "Piscinas",
+      "nl": "Zwembaden",
+      "it": "Piscine"
+    },
+    "tags": [
+      "leisure=swimming_pool"
+    ]
+  },
+  {
+    "title": "Tracks",
+    "translations": {
+      "de": "Laufbahnen / Rennbahnen",
+      "fr": "Pistes d'athlétisme",
+      "es": "Pistas de atletismo",
+      "nl": "Hardloopbanen",
+      "it": "Piste di atletica"
+    },
+    "tags": [
+      "leisure=track"
+    ]
+  },
+  {
+    "title": "Water parks",
+    "translations": {
+      "de": "Wasserparks / Freizeitbäder",
+      "fr": "Parcs aquatiques",
+      "es": "Parques acuáticos",
+      "nl": "Waterparken",
+      "it": "Parchi acquatici"
+    },
+    "tags": [
+      "leisure=water_park"
+    ]
+  },
+  {
+    "title": "Man Made",
+    "translations": {
+      "de": "Künstlich angelegt / Bauwerke",
+      "fr": "Aménagements humains",
+      "es": "Estructuras artificiales",
+      "nl": "Door mens gemaakt",
+      "it": "Opere antropiche"
+    },
+    "tags": []
+  },
+  {
+    "title": "Adits",
+    "translations": {
+      "de": "Stollen",
+      "fr": "Galeries de mine / Portes de mine",
+      "es": "Galerías de mina / Bocaminas",
+      "nl": "Mijngangen / Adits",
+      "it": "Gallerie minerarie"
+    },
+    "tags": [
+      "man_made=adit"
+    ]
+  },
+  {
+    "title": "Beacons",
+    "translations": {
+      "de": "Feuerschiffe / Baken / Seezeichen",
+      "fr": "Balises",
+      "es": "Balizas",
+      "nl": "Baken",
+      "it": "Balise / Segnali marittimi"
+    },
+    "tags": [
+      "man_made=beacon"
+    ]
+  },
+  {
+    "title": "Chimneys",
+    "translations": {
+      "de": "Schornsteine",
+      "fr": "Cheminées d'usine",
+      "es": "Chimeneas",
+      "nl": "Schoorstenen",
+      "it": "Cimiteri / Ciminiere"
+    },
+    "tags": [
+      "man_made=chimney",
+      "man_made=crane",
+      "man_made=flagpole"
+    ]
+  },
+  {
+    "title": "Lighthouses",
+    "translations": {
+      "de": "Leuchttürme",
+      "fr": "Phares",
+      "es": "Faros",
+      "nl": "Vuurtorens",
+      "it": "Fari"
+    },
+    "tags": [
+      "man_made=lighthouse"
+    ]
+  },
+  {
+    "title": "Mineshafts",
+    "translations": {
+      "de": "Tagebaue / Schächte",
+      "fr": "Puits de mine",
+      "es": "Pozos de mina",
+      "nl": "Mijnschachten",
+      "it": "Pozzi minerari"
+    },
+    "tags": [
+      "man_made=mineshaft",
+      "man_made=monitoring_station"
+    ]
+  },
+  {
+    "title": "Petroleum wells",
+    "translations": {
+      "de": "Erdölquellen / Bohrungen",
+      "fr": "Puits de pétrole",
+      "es": "Pozos de petróleo",
+      "nl": "Oliebronnen",
+      "it": "Pozzi petroliferi"
+    },
+    "tags": [
+      "man_made=petroleum_well"
+    ]
+  },
+  {
+    "title": "Covered water reservoirs",
+    "translations": {
+      "de": "Überdeckte Wasserspeicher",
+      "fr": "Réservoirs d'eau couverts",
+      "es": "Depósitos de agua cubiertos",
+      "nl": "Overdekte waterreservoirs",
+      "it": "Serbatoi d'acqua coperti"
+    },
+    "tags": [
+      "man_made=reservoir_covered",
+      "man_made=storage tank",
+      "man_made=surveillance"
+    ]
+  },
+  {
+    "title": "Survey points",
+    "translations": {
+      "de": "Vermessungspunkte",
+      "fr": "Points géodésiques",
+      "es": "Puntos de triangulación / Vértices geodésicos",
+      "nl": "Meetpunten",
+      "it": "Punti trigonometrici / Vertici geodetici"
+    },
+    "tags": [
+      "man_made=survey_point"
+    ]
+  },
+  {
+    "title": "Towers",
+    "translations": {
+      "de": "Türme",
+      "fr": "Tours",
+      "es": "Torres",
+      "nl": "Torens",
+      "it": "Torri"
+    },
+    "tags": [
+      "man_made=tower",
+      "tower=communication",
+      "tower=observation"
+    ]
+  },
+  {
+    "title": "Wastewater plants",
+    "translations": {
+      "de": "Kläranlagen",
+      "fr": "Stations d'épuration",
+      "es": "Depuradoras / Plantas de aguas residuales",
+      "nl": "Rioleringswaterzuiveringsinstallaties",
+      "it": "Depuratori / Impianti di trattamento acque reflue"
+    },
+    "tags": [
+      "man_made=wastewater_plant"
+    ]
+  },
+  {
+    "title": "Watermills",
+    "translations": {
+      "de": "Wassermühlen",
+      "fr": "Moulins à eau",
+      "es": "Molinos de agua",
+      "nl": "Watermolens",
+      "it": "Mulini ad acqua"
+    },
+    "tags": [
+      "man_made=watermill"
+    ]
+  },
+  {
+    "title": "Water towers",
+    "translations": {
+      "de": "Wassertürme",
+      "fr": "Châteaux d'eau",
+      "es": "Torres de agua / Depósitos elevados",
+      "nl": "Watertorens",
+      "it": "Torri dell'acqua / Serbatoi pensili"
+    },
+    "tags": [
+      "man_made=water_tower"
+    ]
+  },
+  {
+    "title": "Water works",
+    "translations": {
+      "de": "Wasserwerke",
+      "fr": "Stations de traitement des eaux",
+      "es": "Instalaciones de tratamiento de agua",
+      "nl": "Waterzuiveringsbedrijven",
+      "it": "Acquedotti / Impianti idrici"
+    },
+    "tags": [
+      "man_made=water_works"
+    ]
+  },
+  {
+    "title": "Water well",
+    "translations": {
+      "de": "Brunnen / Wasserbohrungen",
+      "fr": "Puits d'eau",
+      "es": "Pozos de agua",
+      "nl": "Waterputten",
+      "it": "Pozzi d'acqua"
+    },
+    "tags": [
+      "man_made=water_well"
+    ]
+  },
+  {
+    "title": "Windmills",
+    "translations": {
+      "de": "Windmühlen",
+      "fr": "Moulins à vent",
+      "es": "Molinos de viento",
+      "nl": "Windmolens",
+      "it": "Mulini a vento"
+    },
+    "tags": [
+      "man_made=windmill",
+      "tower=windmill"
+    ]
+  },
+  {
+    "title": "Works",
+    "translations": {
+      "de": "Industrieanlagen / Werke",
+      "fr": "Sites industriels / Usines",
+      "es": "Instalaciones industriales / Fábricas",
+      "nl": "Fabrieken / Bedrijventerreinen",
+      "it": "Stabilimenti industriali / Opifici"
+    },
+    "tags": [
+      "man_made=works"
+    ]
+  },
+  {
+    "title": "Military",
+    "translations": {
+      "de": "Militär",
+      "fr": "Militaire",
+      "es": "Militar",
+      "nl": "Militair",
+      "it": "Militare"
+    },
+    "tags": []
+  },
+  {
+    "title": "Military Airfields",
+    "translations": {
+      "de": "Militärflugplätze",
+      "fr": "Aérodromes militaires",
+      "es": "Aeródromos militares",
+      "nl": "Militaire vliegvelden",
+      "it": "Aeroporti militari"
+    },
+    "tags": [
+      "military=airfield"
+    ]
+  },
+  {
+    "title": "Bunkers",
+    "translations": {
+      "de": "Bunker",
+      "fr": "Bunkers",
+      "es": "Búnkeres",
+      "nl": "Bunkers",
+      "it": "Bunker"
+    },
+    "tags": [
+      "military=bunker"
+    ]
+  },
+  {
+    "title": "Barracks",
+    "translations": {
+      "de": "Kasernen",
+      "fr": "Casernes",
+      "es": "Cuarteles",
+      "nl": "Kazernes",
+      "it": "Caserne"
+    },
+    "tags": [
+      "military=barrack"
+    ]
+  },
+  {
+    "title": "Dangerous Areas",
+    "translations": {
+      "de": "Militärische Sperrgebiete",
+      "fr": "Zones dangereuses / Zones militaires",
+      "es": "Zonas peligrosas (militares)",
+      "nl": "Gevaarlijke gebieden / Schietterreinen",
+      "it": "Aree pericolose / Zone militari"
+    },
+    "tags": [
+      "military=danger_area"
+    ]
+  },
+  {
+    "title": "Naval bases",
+    "translations": {
+      "de": "Marinebasen / Flottenstützpunkte",
+      "fr": "Bases navales",
+      "es": "Bases navales",
+      "nl": "Marinebases",
+      "it": "Basi navali"
+    },
+    "tags": [
+      "military=naval_base"
+    ]
+  },
+  {
+    "title": "Firing / bombing ranges",
+    "translations": {
+      "de": "Truppenübungsplätze / Schießplätze",
+      "fr": "Champs de tir / Zones d'exercice militaire",
+      "es": "Campos de tiro / Polígonos de tiro",
+      "nl": "Schietterreinen / Oefenterreinen",
+      "it": "Poligoni di tiro / Campi di esercitazione militare"
+    },
+    "tags": [
+      "military=range"
+    ]
+  },
+  {
+    "title": "Natural",
+    "translations": {
+      "de": "Natur",
+      "fr": "Naturel",
+      "es": "Natural",
+      "nl": "Natuurlijk",
+      "it": "Naturale"
+    },
+    "tags": []
+  },
+  {
+    "title": "Peak",
+    "translations": {
+      "de": "Gipfel",
+      "fr": "Sommet",
+      "es": "Cima / Pico",
+      "nl": "Bergtop",
+      "it": "Cima / Picco"
+    },
+    "tags": [
+      "natural=peak"
+    ]
+  },
+  {
+    "title": "Mountain pass",
+    "translations": {
+      "de": "Gebirgspass",
+      "fr": "Col de montagne",
+      "es": "Puerto de montaña",
+      "nl": "Bergpas",
+      "it": "Valico di montagna"
+    },
+    "tags": [
+      "mountain_pass=yes"
+    ]
+  },
+  {
+    "title": "Volcano",
+    "translations": {
+      "de": "Vulkan",
+      "fr": "Volcan",
+      "es": "Volcán",
+      "nl": "Vulkaan",
+      "it": "Vulcano"
+    },
+    "tags": [
+      "natural=volcano"
+    ]
+  },
+  {
+    "title": "Geyser",
+    "translations": {
+      "de": "Geysir",
+      "fr": "Geyser",
+      "es": "Géiser",
+      "nl": "Geiser",
+      "it": "Geyser"
+    },
+    "tags": [
+      "natural=geyser"
+    ]
+  },
+  {
+    "title": "Spring",
+    "translations": {
+      "de": "Quelle",
+      "fr": "Source",
+      "es": "Manantial / Fuente natural",
+      "nl": "Bron",
+      "it": "Sorgente"
+    },
+    "tags": [
+      "natural=spring"
+    ]
+  },
+  {
+    "title": "Office",
+    "translations": {
+      "de": "Büros",
+      "fr": "Bureaux",
+      "es": "Oficinas",
+      "nl": "Kantoren",
+      "it": "Uffici"
+    },
+    "tags": [
+      "office=accountant"
+    ]
+  },
+  {
+    "title": "Administrative",
+    "translations": {
+      "de": "Verwaltung",
+      "fr": "Administration",
+      "es": "Administración",
+      "nl": "Administratief",
+      "it": "Amministrazione"
+    },
+    "tags": [
+      "office=administrative",
+      "office=",
+      "office=camping",
+      "office=company",
+      "office=educational_institution",
+      "office=employment_agency",
+      "office=estate_agent"
+    ]
+  },
+  {
+    "title": "Government",
+    "translations": {
+      "de": "Behörden / Ämter",
+      "fr": "Services gouvernementaux",
+      "es": "Oficinas gubernamentales",
+      "nl": "Overheidsinstanties",
+      "it": "Uffici governativi"
+    },
+    "tags": [
+      "office=government",
+      "office=insurance",
+      "office=it",
+      "office=lawyer",
+      "office=newspaper",
+      "office=ngo",
+      "office=political_party",
+      "office=quango",
+      "office=research",
+      "office=telecommunication"
+    ]
+  },
+  {
+    "title": "Travel agents",
+    "translations": {
+      "de": "Reisebüros",
+      "fr": "Agences de voyage",
+      "es": "Agencias de viajes",
+      "nl": "Reisbureaus",
+      "it": "Agenzie di viaggi"
+    },
+    "tags": [
+      "office=travel_agent"
+    ]
+  },
+  {
+    "title": "Places",
+    "translations": {
+      "de": "Orte",
+      "fr": "Lieux / Localités",
+      "es": "Lugares / Poblaciones",
+      "nl": "Plaatsen",
+      "it": "Località / Luoghi"
+    },
+    "tags": []
+  },
+  {
+    "title": "Cities",
+    "translations": {
+      "de": "Großstädte",
+      "fr": "Villes",
+      "es": "Ciudades",
+      "nl": "Steden",
+      "it": "Città"
+    },
+    "tags": [
+      "place=city"
+    ]
+  },
+  {
+    "title": "Towns",
+    "translations": {
+      "de": "Städte / Kleinstädte",
+      "fr": "Villes / Bourgs",
+      "es": "Municipios / Pueblos grandes",
+      "nl": "Plaatsen / Vlekken",
+      "it": "Centri abitati / Cittadine"
+    },
+    "tags": [
+      "place=town",
+      "place=suburb",
+      "place=neighbourhood",
+      "place=neighborhood"
+    ]
+  },
+  {
+    "title": "Villages",
+    "translations": {
+      "de": "Dörfer",
+      "fr": "Villages",
+      "es": "Aldeas / Pueblos",
+      "nl": "Dorpen",
+      "it": "Villaggi / Paesi"
+    },
+    "tags": [
+      "place=village"
+    ]
+  },
+  {
+    "title": "Hamlets",
+    "translations": {
+      "de": "Weiler",
+      "fr": "Hameaux",
+      "es": "Pedanías / Caseríos",
+      "nl": "Buurtschappen",
+      "it": "Frazioni / Nuclei rurali"
+    },
+    "tags": [
+      "place=hamlet"
+    ]
+  },
+  {
+    "title": "Isolated dwellings",
+    "translations": {
+      "de": "Einzelhöfe / Einöden",
+      "fr": "Écarts / Habitations isolées",
+      "es": "Viviendas aisladas / Granjas",
+      "nl": "Alleenstaande huizen / Boerderijen",
+      "it": "Case sparse / Dimore isolate"
+    },
+    "tags": [
+      "place=isolated_dwelling",
+      "place=farm"
+    ]
+  },
+  {
+    "title": "Public Transport",
+    "translations": {
+      "de": "Öffentlicher Nahverkehr",
+      "fr": "Transport en commun",
+      "es": "Transporte público",
+      "nl": "Openbaar vervoer",
+      "it": "Trasporto pubblico"
+    },
+    "tags": []
+  },
+  {
+    "title": "Platforms",
+    "translations": {
+      "de": "Bahnsteige / Haltestellenbereiche",
+      "fr": "Quais",
+      "es": "Andenes / Paradas",
+      "nl": "Perrons / Haltes",
+      "it": "Banchine / Piattaforme"
+    },
+    "tags": [
+      "public_transport=platform"
+    ]
+  },
+  {
+    "title": "Stations",
+    "translations": {
+      "de": "Verkehrsstationen / Bahnhöfe",
+      "fr": "Stations",
+      "es": "Estaciones",
+      "nl": "Stations",
+      "it": "Stazioni"
+    },
+    "tags": [
+      "public_transport=station"
+    ]
+  },
+  {
+    "title": "Stop positions",
+    "translations": {
+      "de": "Haltepositionen",
+      "fr": "Positions d'arrêt",
+      "es": "Posiciones de parada",
+      "nl": "Stopplaatsen",
+      "it": "Posizioni di fermata"
+    },
+    "tags": [
+      "public_transport=stop_position"
+    ]
+  },
+  {
+    "title": "Shop",
+    "translations": {
+      "de": "Geschäfte",
+      "fr": "Magasins / Boutiques",
+      "es": "Comercios / Tiendas",
+      "nl": "Winkels",
+      "it": "Negozi"
+    },
+    "tags": []
+  },
+  {
+    "title": "Alcohol",
+    "translations": {
+      "de": "Spirituosenfachgeschäfte",
+      "fr": "Cavistes / Vente d'alcool",
+      "es": "Tiendas de bebidas alcohólicas",
+      "nl": "Slijterijen",
+      "it": "Enoteca / Liquori"
+    },
+    "tags": [
+      "shop=alcohol"
+    ]
+  },
+  {
+    "title": "Anime",
+    "translations": {
+      "de": "Anime-Shops",
+      "fr": "Boutiques d'anime / Manga",
+      "es": "Tiendas de anime y manga",
+      "nl": "Animewinkels",
+      "it": "Negozi di anime / Manga"
+    },
+    "tags": [
+      "shop=anime"
+    ]
+  },
+  {
+    "title": "Baby goods",
+    "translations": {
+      "de": "Babybedarf",
+      "fr": "Articles pour bébés",
+      "es": "Artículos para bebés",
+      "nl": "Babyartikelen",
+      "it": "Articoli per neonati"
+    },
+    "tags": [
+      "shop=baby_goods"
+    ]
+  },
+  {
+    "title": "Bakeries",
+    "translations": {
+      "de": "Bäckereien",
+      "fr": "Boulangeries",
+      "es": "Panaderías",
+      "nl": "Bakkerijen",
+      "it": "Panetterie"
+    },
+    "tags": [
+      "shop=bakery"
+    ]
+  },
+  {
+    "title": "Bathroom furnishing",
+    "translations": {
+      "de": "Badeinrichtung / Badmöbel",
+      "fr": "Équipement de salle de bains",
+      "es": "Muebles y accesorios de baño",
+      "nl": "Badkamerinrichting",
+      "it": "Arredo bagno"
+    },
+    "tags": [
+      "shop=bathroom_furnishing"
+    ]
+  },
+  {
+    "title": "Beauty",
+    "translations": {
+      "de": "Kosmetikstudios / Parfümerien",
+      "fr": "Instituts de beauté / Parfumeries",
+      "es": "Estética y perfumería",
+      "nl": "Schoonheidssalons",
+      "it": "Estetica / Profumerie"
+    },
+    "tags": [
+      "shop=beauty"
+    ]
+  },
+  {
+    "title": "Beds",
+    "translations": {
+      "de": "Bettenfachgeschäfte",
+      "fr": "Literie",
+      "es": "Tiendas de colchones y camas",
+      "nl": "Beddenwinkels",
+      "it": "Negozi di letti e materassi"
+    },
+    "tags": [
+      "shop=bed"
+    ]
+  },
+  {
+    "title": "Beverages",
+    "translations": {
+      "de": "Getränkemärkte",
+      "fr": "Magasins de boissons",
+      "es": "Bebidas (distribuidores)",
+      "nl": "Drankenhandels",
+      "it": "Bevande"
+    },
+    "tags": [
+      "shop=beverages"
+    ]
+  },
+  {
+    "title": "Bicycles",
+    "translations": {
+      "de": "Fahrradgeschäfte",
+      "fr": "Magasins de cycles",
+      "es": "Tiendas de bicicletas",
+      "nl": "Fietsenwinkeis",
+      "it": "Negozi di biciclette"
+    },
+    "tags": [
+      "shop=bicycle"
+    ]
+  },
+  {
+    "title": "Books",
+    "translations": {
+      "de": "Buchhandlungen",
+      "fr": "Librairies",
+      "es": "Librerías",
+      "nl": "Boekhandels",
+      "it": "Librerie"
+    },
+    "tags": [
+      "shop=books"
+    ]
+  },
+  {
+    "title": "Boutiques",
+    "translations": {
+      "de": "Boutiquen",
+      "fr": "Boutiques",
+      "es": "Boutiques / Tiendas de moda",
+      "nl": "Boetieks",
+      "it": "Boutique"
+    },
+    "tags": [
+      "shop=boutique"
+    ]
+  },
+  {
+    "title": "Butchers",
+    "translations": {
+      "de": "Metzgereien / Fleidereien",
+      "fr": "Boucheries",
+      "es": "Carnicerías",
+      "nl": "Slagerijen",
+      "it": "Macellerie"
+    },
+    "tags": [
+      "shop=butcher"
+    ]
+  },
+  {
+    "title": "Cars",
+    "translations": {
+      "de": "Autohäuser",
+      "fr": "Concessionnaires automobiles",
+      "es": "Concesionarios de automóviles",
+      "nl": "Autodealers",
+      "it": "Concessionarie auto"
+    },
+    "tags": [
+      "shop=car"
+    ]
+  },
+  {
+    "title": "Car repairs",
+    "translations": {
+      "de": "Autowerkstätten",
+      "fr": "Garages automobiles",
+      "es": "Talleres mecánicos",
+      "nl": "Autoreparatie",
+      "it": "Autofficine"
+    },
+    "tags": [
+      "shop=car_repair"
+    ]
+  },
+  {
+    "title": "Car parts",
+    "translations": {
+      "de": "Autoteilehandlungen",
+      "fr": "Pièces détachées auto",
+      "es": "Recambios y accesorios para automóviles",
+      "nl": "Autoonderdelen",
+      "it": "Ricambi auto"
+    },
+    "tags": [
+      "shop=car_parts"
+    ]
+  },
+  {
+    "title": "Carpets",
+    "translations": {
+      "de": "Teppichgeschäfte",
+      "fr": "Magasins de tapis",
+      "es": "Tiendas de alfombras",
+      "nl": "Tapijtwinkels",
+      "it": "Negozi di tappeti"
+    },
+    "tags": [
+      "shop=carpet"
+    ]
+  },
+  {
+    "title": "Charity",
+    "translations": {
+      "de": "Charity-Shops / Sozialkaufhäuser",
+      "fr": "Magasins solidaires / Caritatifs",
+      "es": "Tiendas benéficas / Solidarias",
+      "nl": "Kringloopwinkels / Goede-doelenwinkels",
+      "it": "Negozi di beneficenza"
+    },
+    "tags": [
+      "shop=charity"
+    ]
+  },
+  {
+    "title": "Chemists",
+    "translations": {
+      "de": "Drogerien",
+      "fr": "Drogueries / Parapharmacies",
+      "es": "Droguerías / Parafarmacias",
+      "nl": "Drogisterijen",
+      "it": "Drogherie / Profumerie e articoli per la casa"
+    },
+    "tags": [
+      "shop=chemist",
+      "shop=drugstore"
+    ]
+  },
+  {
+    "title": "Clothes",
+    "translations": {
+      "de": "Bekleidungsgeschäfte / Textilien",
+      "fr": "Magasins de vêtements",
+      "es": "Tiendas de ropa",
+      "nl": "Kledingwinkels",
+      "it": "Negozi di abbigliamento"
+    },
+    "tags": [
+      "shop=clothes"
+    ]
+  },
+  {
+    "title": "Computers",
+    "translations": {
+      "de": "Computerläden",
+      "fr": "Magasins d'informatique",
+      "es": "Tiendas de informática",
+      "nl": "Computerwinkels",
+      "it": "Negozi di computer"
+    },
+    "tags": [
+      "shop=computer"
+    ]
+  },
+  {
+    "title": "Confectionery shops",
+    "translations": {
+      "de": "Süßwarengeschäfte / Konditoreien",
+      "fr": "Confiseries",
+      "es": "Confiterías / Dulcerías",
+      "nl": "Banketbakkers / Snoepwinkels",
+      "it": "Confetterie / Dolciumi"
+    },
+    "tags": [
+      "shop=confectionery"
+    ]
+  },
+  {
+    "title": "Convenience",
+    "translations": {
+      "de": "Kioske / Tante-Emma-Läden / Minimärkte",
+      "fr": "Alimentation générale / Épiceries de proximité",
+      "es": "Ultramarinos / Tiendas de conveniencia",
+      "nl": "Buurtwinkels / Avondwinkels",
+      "it": "Alimentari / Minimarket"
+    },
+    "tags": [
+      "shop=convenience"
+    ]
+  },
+  {
+    "title": "Copyshops",
+    "translations": {
+      "de": "Copy-Shops / Copyshops",
+      "fr": "Magasins de photocopies / Reprographie",
+      "es": "Copisterías",
+      "nl": "Copyshops",
+      "it": "Copisterie"
+    },
+    "tags": [
+      "shop=copyshop"
+    ]
+  },
+  {
+    "title": "Curtains",
+    "translations": {
+      "de": "Gardinengeschäfte",
+      "fr": "Magasins de rideaux",
+      "es": "Tiendas de cortinas",
+      "nl": "Gordijnenwinkels",
+      "it": "Negozi di tende"
+    },
+    "tags": [
+      "shop=curtain"
+    ]
+  },
+  {
+    "title": "Delis",
+    "translations": {
+      "de": "Feinkostläden",
+      "fr": "Épiceries fines",
+      "es": "Tiendas gourmet / Delicatessen",
+      "nl": "Delicatessenwinkels",
+      "it": "Gastronomie / Prodotti alimentari pregiati"
+    },
+    "tags": [
+      "shop=deli"
+    ]
+  },
+  {
+    "title": "Department stores",
+    "translations": {
+      "de": "Kaufhäuser",
+      "fr": "Grands magasins",
+      "es": "Grandes almacenes",
+      "nl": "Warenhuizen",
+      "it": "Grandi magazzini"
+    },
+    "tags": [
+      "shop=department_store"
+    ]
+  },
+  {
+    "title": "Dives",
+    "translations": {
+      "de": "Tauchgeschäfte",
+      "fr": "Magasins de plongée",
+      "es": "Tiendas de submarinismo",
+      "nl": "Duikwinkels",
+      "it": "Negozi di subacquea"
+    },
+    "tags": [
+      "shop=dive"
+    ]
+  },
+  {
+    "title": "Dry cleaning",
+    "translations": {
+      "de": "Reinigung / Textilreinigung",
+      "fr": "Pressings / Nettoyage à sec",
+      "es": "Tintorerías",
+      "nl": "Stomerijen",
+      "it": "Tintorie"
+    },
+    "tags": [
+      "shop=dry_cleaning"
+    ]
+  },
+  {
+    "title": "DIY",
+    "translations": {
+      "de": "Baumärkte",
+      "fr": "Magasins de bricolage",
+      "es": "Ferreterías grandes / Bricolaje",
+      "nl": "Bouwmarkten",
+      "it": "Bricolage / Fai da te"
+    },
+    "tags": [
+      "shop=doityourself",
+      "shop=trade"
+    ]
+  },
+  {
+    "title": "Electronics",
+    "translations": {
+      "de": "Elektrofachmärkte",
+      "fr": "Magasins d'électronique",
+      "es": "Tiendas de electrónica",
+      "nl": "Elektronicawinkels",
+      "it": "Negozi di elettronica"
+    },
+    "tags": [
+      "shop=electronics"
+    ]
+  },
+  {
+    "title": "Erotic",
+    "translations": {
+      "de": "Erotikshops",
+      "fr": "Boutiques érotiques / Sex-shops",
+      "es": "Sex shops / Tiendas eróticas",
+      "nl": "Erotiekwinkels",
+      "it": "Sexy shop / Negozi erotici"
+    },
+    "tags": [
+      "shop=erotic"
+    ]
+  },
+  {
+    "title": "Fabric",
+    "translations": {
+      "de": "Stoffgeschäfte",
+      "fr": "Magasins de tissus",
+      "es": "Tiendas de telas / Telas y tejidos",
+      "nl": "Stoffenwinkels",
+      "it": "Negozi di tessuti"
+    },
+    "tags": [
+      "shop=fabric"
+    ]
+  },
+  {
+    "title": "Farms",
+    "translations": {
+      "de": "Hofläden",
+      "fr": "Magasins à la ferme",
+      "es": "Tiendas agrícolas / Venta en granjas",
+      "nl": "Boerderijwinkels",
+      "it": "Spacci aziendali / Vendita diretta in fattoria"
+    },
+    "tags": [
+      "shop=farm"
+    ]
+  },
+  {
+    "title": "Florists",
+    "translations": {
+      "de": "Blumenläden / Floristen",
+      "fr": "Fleuristes",
+      "es": "Floristerías",
+      "nl": "Bloemisten",
+      "it": "Fioristi"
+    },
+    "tags": [
+      "shop=florist"
+    ]
+  },
+  {
+    "title": "Frames",
+    "translations": {
+      "de": "Bilderrahmen-Geschäfte",
+      "fr": "Encadreurs / Magasins de cadres",
+      "es": "Marquerías / Tiendas de marcos",
+      "nl": "Lijstenmakers",
+      "it": "Corniciai / Negozi di cornici"
+    },
+    "tags": [
+      "shop=frame"
+    ]
+  },
+  {
+    "title": "Furnaces",
+    "translations": {
+      "de": "Ofen- und Kaminstudios",
+      "fr": "Magasins de poêles et cheminées",
+      "es": "Tiendas de estufas y chimeneas",
+      "nl": "Kachels- en haardenwinkels",
+      "it": "Negozi di stufe e caminetti"
+    },
+    "tags": [
+      "shop=furnace"
+    ]
+  },
+  {
+    "title": "Funeral directors",
+    "translations": {
+      "de": "Bestattungsunternehmen",
+      "fr": "Pompes funèbres",
+      "es": "Servicios funerarios / Funerarias",
+      "nl": "Uitvaartverzorgers",
+      "it": "Onoranze funebri"
+    },
+    "tags": [
+      "shop=funeral_directors"
+    ]
+  },
+  {
+    "title": "Furniture",
+    "translations": {
+      "de": "Möbelgeschäfte",
+      "fr": "Magasins de meubles",
+      "es": "Tiendas de muebles",
+      "nl": "Meubelzaken",
+      "it": "Negozi di mobili"
+    },
+    "tags": [
+      "shop=furniture"
+    ]
+  },
+  {
+    "title": "Garden centres",
+    "translations": {
+      "de": "Gartencenter",
+      "fr": "Jardineries",
+      "es": "Centros de jardinería",
+      "nl": "Tuincentra",
+      "it": "Centri di giardinaggio"
+    },
+    "tags": [
+      "shop=garden_centre"
+    ]
+  },
+  {
+    "title": "Gas",
+    "translations": {
+      "de": "Gashandel / Flüssiggas",
+      "fr": "Vente de gaz",
+      "es": "Venta de gas / Bombonas",
+      "nl": "Gasdistributeurs",
+      "it": "Vendita gas / Bombole"
+    },
+    "tags": [
+      "shop=gas"
+    ]
+  },
+  {
+    "title": "General",
+    "translations": {
+      "de": "Gemischtwarenläden",
+      "fr": "Magasins multiservices / Épiceries générales",
+      "es": "Tiendas de ultramarinos / Multiservicio",
+      "nl": "Algemene winkels",
+      "it": "Empori / Alimentari misti"
+    },
+    "tags": [
+      "shop=general"
+    ]
+  },
+  {
+    "title": "Gifts",
+    "translations": {
+      "de": "Geschenkartikel",
+      "fr": "Magasins de cadeaux",
+      "es": "Tiendas de regalos",
+      "nl": "Cadeauwinkels",
+      "it": "Negozi di articoli da regalo"
+    },
+    "tags": [
+      "shop=gift"
+    ]
+  },
+  {
+    "title": "Glazier shops",
+    "translations": {
+      "de": "Glaser",
+      "fr": "Vitriers",
+      "es": "Cristalerías",
+      "nl": "Glazenwassers / Glaszetters",
+      "it": "Vetrerie"
+    },
+    "tags": [
+      "shop=glaziery"
+    ]
+  },
+  {
+    "title": "Green grocers",
+    "translations": {
+      "de": "Obst- und Gemüsehandlungen",
+      "fr": "Marchands de fruits et légumes",
+      "es": "Fruterías",
+      "nl": "Groente- en fruitwinkels",
+      "it": "Fruttivendoli"
+    },
+    "tags": [
+      "shop=greengrocer"
+    ]
+  },
+  {
+    "title": "Hairdressers",
+    "translations": {
+      "de": "Friseure",
+      "fr": "Coiffeurs",
+      "es": "Peluquerías",
+      "nl": "Kappers",
+      "it": "Parrucchieri"
+    },
+    "tags": [
+      "shop=hairdresser"
+    ]
+  },
+  {
+    "title": "Hardware",
+    "translations": {
+      "de": "Eisenwarenhandlung / Baumarkt",
+      "fr": "Quincailleries",
+      "es": "Ferreterías",
+      "nl": "Ijzerwarenwinkels",
+      "it": "Ferramenta"
+    },
+    "tags": [
+      "shop=hardware"
+    ]
+  },
+  {
+    "title": "Hearing aids",
+    "translations": {
+      "de": "Hörgeräteakustiker",
+      "fr": "Appareils auditifs / Audioprothésistes",
+      "es": "Centros auditivos / Audífonos",
+      "nl": "Hoorhulpmiddelen",
+      "it": "Apparecchi acustici"
+    },
+    "tags": [
+      "shop=hearing_aids"
+    ]
+  },
+  {
+    "title": "Herbalists",
+    "translations": {
+      "de": "Kräuterläden / Reformhäuser",
+      "fr": "Herboristeries",
+      "es": "Herbolarios",
+      "nl": "Kruideniers / Reformwinkels",
+      "it": "Erboristerie"
+    },
+    "tags": [
+      "shop=herbalist"
+    ]
+  },
+  {
+    "title": "Hi-Fi",
+    "translations": {
+      "de": "Hi-Fi-Geschäfte / Unterhaltungselektronik",
+      "fr": "Magasins Hi-Fi",
+      "es": "Tiendas de alta fidelidad / Hi-Fi",
+      "nl": "Hifi-winkels",
+      "it": "Negozi Hi-Fi"
+    },
+    "tags": [
+      "shop=hifi"
+    ]
+  },
+  {
+    "title": "Hunting",
+    "translations": {
+      "de": "Jagdbedarf",
+      "fr": "Magasins de chasse",
+      "es": "Artículos de caza",
+      "nl": "Jachtwinkels",
+      "it": "Articoli per la caccia"
+    },
+    "tags": [
+      "shop=hunting"
+    ]
+  },
+  {
+    "title": "Interior decoration",
+    "translations": {
+      "de": "Inneneinrichtung / Dekoration",
+      "fr": "Décoration d'intérieur",
+      "es": "Decoración de interiores",
+      "nl": "Interieurdecoratie",
+      "it": "Decorazione d'interni"
+    },
+    "tags": [
+      "shop=interior_decoration"
+    ]
+  },
+  {
+    "title": "Jeweleries",
+    "translations": {
+      "de": "Juweliere / Schmuckgeschäfte",
+      "fr": "Bijouteries",
+      "es": "Joyerías",
+      "nl": "Juweliers",
+      "it": "Gioiellerie"
+    },
+    "tags": [
+      "shop=jewelery"
+    ]
+  },
+  {
+    "title": "Kiosks",
+    "translations": {
+      "de": "Kioske / Zeitschriftenläden",
+      "fr": "Kiosques à journaux",
+      "es": "Kioscos",
+      "nl": "Kiosken",
+      "it": "Edicole / Chioschi"
+    },
+    "tags": [
+      "shop=kiosk"
+    ]
+  },
+  {
+    "title": "Kitchens",
+    "translations": {
+      "de": "Küchenstudios",
+      "fr": "Magasins de cuisines",
+      "es": "Tiendas de cocinas",
+      "nl": "Keukenwinkels",
+      "it": "Negozi di cucine"
+    },
+    "tags": [
+      "shop=kitchen"
+    ]
+  },
+  {
+    "title": "Laundries",
+    "translations": {
+      "de": "Waschsalons",
+      "fr": "Laveries automatiques",
+      "es": "Lavanderías de autoservicio",
+      "nl": "Wasserettes",
+      "it": "Lavanderie a gettone / Self-service"
+    },
+    "tags": [
+      "shop=laundry"
+    ]
+  },
+  {
+    "title": "Malls",
+    "translations": {
+      "de": "Einkaufszentren / Malls",
+      "fr": "Centres commerciaux",
+      "es": "Centros comerciales",
+      "nl": "Winkelcentra",
+      "it": "Centri commerciali"
+    },
+    "tags": [
+      "shop=mall"
+    ]
+  },
+  {
+    "title": "Massages",
+    "translations": {
+      "de": "Massagepraxen",
+      "fr": "Salons de massage",
+      "es": "Salones de masaje",
+      "nl": "Massage-salons",
+      "it": "Centri massaggi"
+    },
+    "tags": [
+      "shop=massage"
+    ]
+  },
+  {
+    "title": "Mobile phones",
+    "translations": {
+      "de": "Mobiltelefongeschäfte / Handyshops",
+      "fr": "Boutiques de téléphonie mobile",
+      "es": "Tiendas de telefonía móvil",
+      "nl": "Telekommunicatiewinkels / Telefoonwinkels",
+      "it": "Negozi di telefonia mobile"
+    },
+    "tags": [
+      "shop=mobile_phone"
+    ]
+  },
+  {
+    "title": "Money lenders",
+    "translations": {
+      "de": "Pfandhäuser / Kreditinstitute",
+      "fr": "Prêteurs sur gages / Sociétés de crédit",
+      "es": "Casas de empeño / Prestamistas",
+      "nl": "Kredietverstrekkers / Pandhuizen",
+      "it": "Prestiti / Agenzie di credito"
+    },
+    "tags": [
+      "shop=money_lender"
+    ]
+  },
+  {
+    "title": "Motorcycles",
+    "translations": {
+      "de": "Motorradgeschäfte und -werkstätten",
+      "fr": "Magasins et réparation de motos",
+      "es": "Tiendas y talleres de motocicletas",
+      "nl": "Motorwinkels en -reparatie",
+      "it": "Concessionarie e officine moto"
+    },
+    "tags": [
+      "shop=motorcycle",
+      "shop=motorcycle_repair"
+    ]
+  },
+  {
+    "title": "Musical instruments",
+    "translations": {
+      "de": "Musikalienhandlungen",
+      "fr": "Magasins d'instruments de musique",
+      "es": "Tiendas de instrumentos musicales",
+      "nl": "Muziekwinkels",
+      "it": "Negozi di strumenti musicali"
+    },
+    "tags": [
+      "shop=musical_instrument"
+    ]
+  },
+  {
+    "title": "Newsagents",
+    "translations": {
+      "de": "Zeitschriftenhändler",
+      "fr": "Marchands de journaux",
+      "es": "Estancos / Kioscos de prensa",
+      "nl": "Krantenverkopers",
+      "it": "Rivendite di giornali e riviste"
+    },
+    "tags": [
+      "shop=newsagent"
+    ]
+  },
+  {
+    "title": "Optician shops",
+    "translations": {
+      "de": "Optiker",
+      "fr": "Opticiens",
+      "es": "Ópticas",
+      "nl": "Opticiens",
+      "it": "Ottica"
+    },
+    "tags": [
+      "shop=optician"
+    ]
+  },
+  {
+    "title": "Organics",
+    "translations": {
+      "de": "Bioläden",
+      "fr": "Magasins de produits bio",
+      "es": "Tiendas de productos ecológicos / Herbolarios ecológicos",
+      "nl": "Biologische winkels",
+      "it": "Negozi di prodotti biologici"
+    },
+    "tags": [
+      "shop=organic"
+    ]
+  },
+  {
+    "title": "Outdoor",
+    "translations": {
+      "de": "Outdoor-Ausrüster",
+      "fr": "Magasins d'articles de sport et plein air",
+      "es": "Tiendas de montaña y aire libre",
+      "nl": "Outdoorwinkels",
+      "it": "Negozi di articoli da montagna e outdoor"
+    },
+    "tags": [
+      "shop=outdoor"
+    ]
+  },
+  {
+    "title": "Paints",
+    "translations": {
+      "de": "Farbenfachgeschäfte",
+      "fr": "Magasins de peintures",
+      "es": "Tiendas de pinturas",
+      "nl": "Verfwinkels",
+      "it": "Negozi di vernici"
+    },
+    "tags": [
+      "shop=paint"
+    ]
+  },
+  {
+    "title": "Pawnbrokers",
+    "translations": {
+      "de": "Pfandleiher",
+      "fr": "Prêteurs sur gages",
+      "es": "Casas de empeño",
+      "nl": "Pandhuizen",
+      "it": "Pegni / Compro oro"
+    },
+    "tags": [
+      "shop=pawnbroker"
+    ]
+  },
+  {
+    "title": "Pets",
+    "translations": {
+      "de": "Zoohandlungen",
+      "fr": "Animaleries",
+      "es": "Tiendas de animales / Mascotas",
+      "nl": "Dierenwinkels",
+      "it": "Negozi di articoli per animali"
+    },
+    "tags": [
+      "shop=pet"
+    ]
+  },
+  {
+    "title": "Radio technics",
+    "translations": {
+      "de": "Funk- und Elektronikwerkstätten",
+      "fr": "Magasins de radio-technique",
+      "es": "Tiendas de radio y electrónica",
+      "nl": "Radiotechniek",
+      "it": "Negozi di radiotecnica"
+    },
+    "tags": [
+      "shop=radiotechnics"
+    ]
+  },
+  {
+    "title": "Seafood / Fish",
+    "translations": {
+      "de": "Fischgeschäfte / Fischhandlungen",
+      "fr": "Poissonneries",
+      "es": "Pescaderías",
+      "nl": "Viswinkels",
+      "it": "Pescherie"
+    },
+    "tags": [
+      "shop=seafood",
+      "shop=fish"
+    ]
+  },
+  {
+    "title": "Second hand",
+    "translations": {
+      "de": "Second-Hand-Läden",
+      "fr": "Magasins d'occasion",
+      "es": "Tiendas de segunda mano",
+      "nl": "Tweedehands winkels",
+      "it": "Negozi di seconda mano / Usato"
+    },
+    "tags": [
+      "shop=second_hand"
+    ]
+  },
+  {
+    "title": "Shoes",
+    "translations": {
+      "de": "Schuhgeschäfte",
+      "fr": "Magasins de chaussures",
+      "es": "Zapaterías",
+      "nl": "Schoenwinkels",
+      "it": "Negozi di calzature / Scarpe"
+    },
+    "tags": [
+      "shop=shoes"
+    ]
+  },
+  {
+    "title": "Sports",
+    "translations": {
+      "de": "Sportgeschäfte",
+      "fr": "Magasins de sport",
+      "es": "Tiendas de deportes",
+      "nl": "Sportwinkels",
+      "it": "Negozi di articoli sportivi"
+    },
+    "tags": [
+      "shop=sports"
+    ]
+  },
+  {
+    "title": "Stationeries",
+    "translations": {
+      "de": "Schreibwarengeschäfte",
+      "fr": "Papeteries",
+      "es": "Papelerías",
+      "nl": "Papierwarenwinkels",
+      "it": "Cartolerie"
+    },
+    "tags": [
+      "shop=stationery"
+    ]
+  },
+  {
+    "title": "Supermarkets",
+    "translations": {
+      "de": "Supermärkte",
+      "fr": "Supermarchés",
+      "es": "Supermercados",
+      "nl": "Supermarkten",
+      "it": "Supermercati"
+    },
+    "tags": [
+      "shop=supermarket"
+    ]
+  },
+  {
+    "title": "Tattoos",
+    "translations": {
+      "de": "Tätowierstudios",
+      "fr": "Salons de tatouage",
+      "es": "Estudios de tatuaje",
+      "nl": "Tatoeagesalons",
+      "it": "Studi di tatuaggi"
+    },
+    "tags": [
+      "shop=tattoo"
+    ]
+  },
+  {
+    "title": "Tickets",
+    "translations": {
+      "de": "Ticketverkaufsstellen",
+      "fr": "Billetteries",
+      "es": "Puntos de venta de entradas / Taquillas",
+      "nl": "Kaartverkoop",
+      "it": "Biglietterie"
+    },
+    "tags": [
+      "shop=ticket"
+    ]
+  },
+  {
+    "title": "Tobacco",
+    "translations": {
+      "de": "Tabakwaren / Tabakläden",
+      "fr": "Buralistes / Tabacs",
+      "es": "Estancos / Tabaquerías",
+      "nl": "Tabakswinkels",
+      "it": "Tabaccherie"
+    },
+    "tags": [
+      "shop=tobacco"
+    ]
+  },
+  {
+    "title": "Toys",
+    "translations": {
+      "de": "Spielwarengeschäfte",
+      "fr": "Magasins de jouets",
+      "es": "Jugueterías",
+      "nl": "Speelgoedwinkels",
+      "it": "Negozi di giocattoli"
+    },
+    "tags": [
+      "shop=toys",
+      "shop=vacant"
+    ]
+  },
+  {
+    "title": "Vacuum cleaners",
+    "translations": {
+      "de": "Staubsauger-Fachgeschäfte",
+      "fr": "Magasins d'aspirateurs",
+      "es": "Tiendas de aspiradoras",
+      "nl": "Stofzuigerwinkels",
+      "it": "Negozi di aspirapolvere"
+    },
+    "tags": [
+      "shop=vacuum_cleaner",
+      "shop=variety_store"
+    ]
+  },
+  {
+    "title": "Videos",
+    "translations": {
+      "de": "Videotheken",
+      "fr": "Vidéoclubs",
+      "es": "Videoclubs",
+      "nl": "Videotheken",
+      "it": "Videoteche"
+    },
+    "tags": [
+      "shop=video"
+    ]
+  },
+  {
+    "title": "Window blinds",
+    "translations": {
+      "de": "Rollos und Jalousien",
+      "fr": "Stores et volets",
+      "es": "Persianas y estores",
+      "nl": "Jaloezieën en zonwering",
+      "it": "Tapparelle e tende da sole"
+    },
+    "tags": [
+      "shop=window_blind"
+    ]
+  },
+  {
+    "title": "Sport",
+    "translations": {
+      "de": "Sport",
+      "fr": "Sport",
+      "es": "Deporte",
+      "nl": "Sport",
+      "it": "Sport"
+    },
+    "tags": []
+  },
+  {
+    "title": "Bowling",
+    "translations": {
+      "de": "Kegeln und Bowling",
+      "fr": "Bowling et quilles",
+      "es": "Bolos / Bowling",
+      "nl": "Bowling en kegelen",
+      "it": "Bowling e bocce"
+    },
+    "tags": [
+      "sport=9-pin",
+      "sport=10-pin"
+    ]
+  },
+  {
+    "title": "American football",
+    "translations": {
+      "de": "American Football",
+      "fr": "Football américain",
+      "es": "Fútbol americano",
+      "nl": "Amerikaans voetbal",
+      "it": "Football americano"
+    },
+    "tags": [
+      "sport=american_football"
+    ]
+  },
+  {
+    "title": "Archery",
+    "translations": {
+      "de": "Bogenschießen",
+      "fr": "Tir à l'arc",
+      "es": "Tiro con arco",
+      "nl": "Boogschieten",
+      "it": "Tiro con l'arco"
+    },
+    "tags": [
+      "sport=archery"
+    ]
+  },
+  {
+    "title": "Athletics",
+    "translations": {
+      "de": "Leichtathletik",
+      "fr": "Athlétisme",
+      "es": "Atletismo",
+      "nl": "Atletiek",
+      "it": "Atletica leggera"
+    },
+    "tags": [
+      "sport=athletics"
+    ]
+  },
+  {
+    "title": "Australian football",
+    "translations": {
+      "de": "Australian Football",
+      "fr": "Football australien",
+      "es": "Fútbol australiano",
+      "nl": "Australisch voetbal",
+      "it": "Football australiano"
+    },
+    "tags": [
+      "sport=australian_football"
+    ]
+  },
+  {
+    "title": "BASE jumping",
+    "translations": {
+      "de": "BASE-Jumping",
+      "fr": "Base-jump",
+      "es": "Salto BASE",
+      "nl": "Basejumpen",
+      "it": "BASE jumping"
+    },
+    "tags": [
+      "sport=base"
+    ]
+  },
+  {
+    "title": "Badminton",
+    "translations": {
+      "de": "Badminton",
+      "fr": "Badminton",
+      "es": "Bádminton",
+      "nl": "Badminton",
+      "it": "Badminton"
+    },
+    "tags": [
+      "sport=badminton"
+    ]
+  },
+  {
+    "title": "Baseball",
+    "translations": {
+      "de": "Baseball",
+      "fr": "Baseball",
+      "es": "Béisbol",
+      "nl": "Honkbal",
+      "it": "Baseball"
+    },
+    "tags": [
+      "sport=baseball"
+    ]
+  },
+  {
+    "title": "Basketball",
+    "translations": {
+      "de": "Basketball",
+      "fr": "Basket-ball",
+      "es": "Baloncesto",
+      "nl": "Basketbal",
+      "it": "Pallacanestro"
+    },
+    "tags": [
+      "sport=basketball"
+    ]
+  },
+  {
+    "title": "Beach volleyball",
+    "translations": {
+      "de": "Beachvolleyball",
+      "fr": "Beach-volley",
+      "es": "Vóley playa",
+      "nl": "Beachvolleybal",
+      "it": "Beach volley"
+    },
+    "tags": [
+      "sport=beachvolleyball"
+    ]
+  },
+  {
+    "title": "BMX",
+    "translations": {
+      "de": "BMX",
+      "fr": "BMX",
+      "es": "BMX",
+      "nl": "BMX",
+      "it": "BMX"
+    },
+    "tags": [
+      "sport=bmx"
+    ]
+  },
+  {
+    "title": "Boules",
+    "translations": {
+      "de": "Boule / Boccia / Pétanque",
+      "fr": "Boules / Pétanque",
+      "es": "Petanca / Bolos criollos",
+      "nl": "Jeu de boules",
+      "it": "Bocce"
+    },
+    "tags": [
+      "sport=boules"
+    ]
+  },
+  {
+    "title": "Bowls",
+    "translations": {
+      "de": "Rasenkugeln / Bowls",
+      "fr": "Jeu de boules (anglais) / Bowls",
+      "es": "Bolos sobre césped / Bowls",
+      "nl": "Bowls",
+      "it": "Bowls"
+    },
+    "tags": [
+      "sport=bowls"
+    ]
+  },
+  {
+    "title": "Canadian football",
+    "translations": {
+      "de": "Canadian Football",
+      "fr": "Football canadien",
+      "es": "Fútbol canadiense",
+      "nl": "Canadees voetbal",
+      "it": "Football canadese"
+    },
+    "tags": [
+      "sport=canadian_football"
+    ]
+  },
+  {
+    "title": "Canoe",
+    "translations": {
+      "de": "Kanusport",
+      "fr": "Canoë-kayak",
+      "es": "Piragüismo / Canotaje",
+      "nl": "Kanoën",
+      "it": "Canoa"
+    },
+    "tags": [
+      "sport=canoe"
+    ]
+  },
+  {
+    "title": "Chess",
+    "translations": {
+      "de": "Schach",
+      "fr": "Échecs",
+      "es": "Ajedrez",
+      "nl": "Schaken",
+      "it": "Scacchi"
+    },
+    "tags": [
+      "sport=chess"
+    ]
+  },
+  {
+    "title": "Climbing",
+    "translations": {
+      "de": "Klettern",
+      "fr": "Escalade",
+      "es": "Escalada",
+      "nl": "Klimmen",
+      "it": "Arrampicata"
+    },
+    "tags": [
+      "sport=climbing"
+    ]
+  },
+  {
+    "title": "Cricket",
+    "translations": {
+      "de": "Cricket",
+      "fr": "Cricket",
+      "es": "Críquet",
+      "nl": "Cricket",
+      "it": "Cricket"
+    },
+    "tags": [
+      "sport=cricket"
+    ]
+  },
+  {
+    "title": "Cricket nets",
+    "translations": {
+      "de": "Cricket-Trainingsnetze",
+      "fr": "Filets de cricket",
+      "es": "Redes de críquet",
+      "nl": "Cricketnetten",
+      "it": "Gabbie da cricket"
+    },
+    "tags": [
+      "sport=cricket_nets"
+    ]
+  },
+  {
+    "title": "Croquet",
+    "translations": {
+      "de": "Krocket",
+      "fr": "Croquet",
+      "es": "Croquet",
+      "nl": "Croquet",
+      "it": "Croquet"
+    },
+    "tags": [
+      "sport=croquet"
+    ]
+  },
+  {
+    "title": "Cycling",
+    "translations": {
+      "de": "Radfahren / Radsport",
+      "fr": "Cyclisme",
+      "es": "Ciclismo",
+      "nl": "Wielrennen",
+      "it": "Ciclismo"
+    },
+    "tags": [
+      "sport=cycling"
+    ]
+  },
+  {
+    "title": "Diving",
+    "translations": {
+      "de": "Wasserspringen",
+      "fr": "Plongeon",
+      "es": "Saltos / Clavados",
+      "nl": "Schoonspringen",
+      "it": "Tuffi"
+    },
+    "tags": [
+      "sport=diving"
+    ]
+  },
+  {
+    "title": "Dog racing",
+    "translations": {
+      "de": "Hunderennen",
+      "fr": "Courses de lévriers",
+      "es": "Carreras de galgos",
+      "nl": "Windhondenrennen",
+      "it": "Corsa di levrieri"
+    },
+    "tags": [
+      "sport=dog_racing"
+    ]
+  },
+  {
+    "title": "Fencing",
+    "translations": {
+      "de": "Fechten",
+      "fr": "Escrime",
+      "es": "Esgrima",
+      "nl": "Schermen",
+      "it": "Scherma"
+    },
+    "tags": [
+      "sport=fencing"
+    ]
+  },
+  {
+    "title": "Equestrian",
+    "translations": {
+      "de": "Reitsport",
+      "fr": "Sports équestres",
+      "es": "Hípica / Deportes ecuestres",
+      "nl": "Paardensport",
+      "it": "Sport equestri"
+    },
+    "tags": [
+      "sport=equestrian"
+    ]
+  },
+  {
+    "title": "Gaelic games",
+    "translations": {
+      "de": "Gälische Spiele",
+      "fr": "Sports gaéliques",
+      "es": "Deportes gaélicos",
+      "nl": "Gaelic games",
+      "it": "Sport gaelici"
+    },
+    "tags": [
+      "sport=gaelic_games"
+    ]
+  },
+  {
+    "title": "Golf",
+    "translations": {
+      "de": "Golf",
+      "fr": "Golf",
+      "es": "Golf",
+      "nl": "Golf",
+      "it": "Golf"
+    },
+    "tags": [
+      "sport=golf"
+    ]
+  },
+  {
+    "title": "Gymnastics",
+    "translations": {
+      "de": "Turnen / Gymnastik",
+      "fr": "Gymnastique",
+      "es": "Gimnasia",
+      "nl": "Gymnastiek",
+      "it": "Ginnastica"
+    },
+    "tags": [
+      "sport=gymnastics"
+    ]
+  },
+  {
+    "title": "Hockey",
+    "translations": {
+      "de": "Hockey",
+      "fr": "Hockey",
+      "es": "Hockey",
+      "nl": "Hockey",
+      "it": "Hockey"
+    },
+    "tags": [
+      "sport=hockey"
+    ]
+  },
+  {
+    "title": "Horseshoes",
+    "translations": {
+      "de": "Hufeisenwerfen",
+      "fr": "Jeu de fers à cheval",
+      "es": "Lanzamiento de herradura",
+      "nl": "Hoefijzerwerpen",
+      "it": "Lancio del ferro di cavallo"
+    },
+    "tags": [
+      "sport=horseshoes"
+    ]
+  },
+  {
+    "title": "Horse racing",
+    "translations": {
+      "de": "Pferderennen",
+      "fr": "Courses hippiques",
+      "es": "Carreras de caballos",
+      "nl": "Paardenrennen",
+      "it": "Ippica / Corse di cavalli"
+    },
+    "tags": [
+      "sport=horse_racing"
+    ]
+  },
+  {
+    "title": "Ice stock",
+    "translations": {
+      "de": "Eisschießen / Stockschießen",
+      "fr": "Stock-sport / Curling sur glace",
+      "es": "Deporte de ponchov / Curling bávaro",
+      "nl": "Ijsstokschieten",
+      "it": "Stock sport / Eisstock"
+    },
+    "tags": [
+      "sport=ice_stock"
+    ]
+  },
+  {
+    "title": "Karting",
+    "translations": {
+      "de": "Kartfahren",
+      "fr": "Karting",
+      "es": "Karts / Karting",
+      "nl": "Karten",
+      "it": "Karting"
+    },
+    "tags": [
+      "sport=karting"
+    ]
+  },
+  {
+    "title": "Korfball",
+    "translations": {
+      "de": "Korfball",
+      "fr": "Korfbal",
+      "es": "Korfbal",
+      "nl": "Korfbal",
+      "it": "Korfball"
+    },
+    "tags": [
+      "sport=korfball"
+    ]
+  },
+  {
+    "title": "Motor",
+    "translations": {
+      "de": "Motorsport",
+      "fr": "Sports mécaniques",
+      "es": "Deportes de motor",
+      "nl": "Motorsport",
+      "it": "Motorsport"
+    },
+    "tags": [
+      "sport=motor"
+    ]
+  },
+  {
+    "title": "Multi",
+    "translations": {
+      "de": "Mehrzweck / Multisport",
+      "fr": "Multisport",
+      "es": "Multideporte",
+      "nl": "Multi-sport",
+      "it": "Multisport"
+    },
+    "tags": [
+      "sport=multi"
+    ]
+  },
+  {
+    "title": "Orienteering",
+    "translations": {
+      "de": "Orientierungslauf",
+      "fr": "Course d'orientation",
+      "es": "Orientación",
+      "nl": "Oriëntatieloop",
+      "it": "Orientamento"
+    },
+    "tags": [
+      "sport=orienteering"
+    ]
+  },
+  {
+    "title": "Paddle tennis",
+    "translations": {
+      "de": "Padel-Tennis",
+      "fr": "Padel",
+      "es": "Pádel",
+      "nl": "Padel",
+      "it": "Padel"
+    },
+    "tags": [
+      "sport=paddle_tennis"
+    ]
+  },
+  {
+    "title": "Paragliding",
+    "translations": {
+      "de": "Gleitschirmfliegen",
+      "fr": "Parapente",
+      "es": "Parapente",
+      "nl": "Paragliding",
+      "it": "Parapendio"
+    },
+    "tags": [
+      "sport=paragliding"
+    ]
+  },
+  {
+    "title": "Free flying",
+    "translations": {
+      "de": "Freiflug / Drachenfliegen",
+      "fr": "Vol libre",
+      "es": "Vuelo libre",
+      "nl": "Vrij vliegen",
+      "it": "Volo libero"
+    },
+    "tags": [
+      "sport=free_flying"
+    ]
+  },
+  {
+    "title": "Pelota",
+    "translations": {
+      "de": "Baskische Pelota",
+      "fr": "Pelote basque",
+      "es": "Pelota vasca",
+      "nl": "Pelota",
+      "it": "Pelota basca"
+    },
+    "tags": [
+      "sport=pelota"
+    ]
+  },
+  {
+    "title": "Racquet",
+    "translations": {
+      "de": "Rückschlagspiele",
+      "fr": "Sports de raquette",
+      "es": "Deportes de raqueta",
+      "nl": "Racketsporten",
+      "it": "Sport con racchetta"
+    },
+    "tags": [
+      "sport=racquet"
+    ]
+  },
+  {
+    "title": "Rowing",
+    "translations": {
+      "de": "Rudern",
+      "fr": "Aviron",
+      "es": "Remo",
+      "nl": "Roeien",
+      "it": "Canottaggio"
+    },
+    "tags": [
+      "sport=rowing"
+    ]
+  },
+  {
+    "title": "Rugby",
+    "translations": {
+      "de": "Rugby",
+      "fr": "Rugby",
+      "es": "Rugby",
+      "nl": "Rugby",
+      "it": "Rugby"
+    },
+    "tags": [
+      "sport=rugby_league",
+      "sport=rugby_union"
+    ]
+  },
+  {
+    "title": "Shooting",
+    "translations": {
+      "de": "Schießsport",
+      "fr": "Tir sportif",
+      "es": "Tiro deportivo",
+      "nl": "Schietsport",
+      "it": "Tiro a segno / Tiro a volo"
+    },
+    "tags": [
+      "sport=shooting"
+    ]
+  },
+  {
+    "title": "Ice skating",
+    "translations": {
+      "de": "Eislauf",
+      "fr": "Patinage sur glace",
+      "es": "Patinaje sobre hielo",
+      "nl": "Schaatsen",
+      "it": "Pattinaggio su ghiaccio"
+    },
+    "tags": [
+      "sport=skating"
+    ]
+  },
+  {
+    "title": "Skateboarding",
+    "translations": {
+      "de": "Skateboarding",
+      "fr": "Skateboard",
+      "es": "Skateboarding / Monopatín",
+      "nl": "Skateboarding",
+      "it": "Skateboarding"
+    },
+    "tags": [
+      "sport=skateboard"
+    ]
+  },
+  {
+    "title": "Skiing",
+    "translations": {
+      "de": "Skisport",
+      "fr": "Ski",
+      "es": "Esquí",
+      "nl": "Skiën",
+      "it": "Sci"
+    },
+    "tags": [
+      "sport=skiing"
+    ]
+  },
+  {
+    "title": "Soccer",
+    "translations": {
+      "de": "Fußball",
+      "fr": "Football",
+      "es": "Fútbol",
+      "nl": "Voetbal",
+      "it": "Calcio"
+    },
+    "tags": [
+      "sport=soccer"
+    ]
+  },
+  {
+    "title": "Surfing",
+    "translations": {
+      "de": "Surfen",
+      "fr": "Surf",
+      "es": "Surf",
+      "nl": "Surfen",
+      "it": "Surf"
+    },
+    "tags": [
+      "sport=surfing"
+    ]
+  },
+  {
+    "title": "Swimming",
+    "translations": {
+      "de": "Schwimmen",
+      "fr": "Natation",
+      "es": "Natación",
+      "nl": "Zwemmen",
+      "it": "Nuoto"
+    },
+    "tags": [
+      "sport=swimming"
+    ]
+  },
+  {
+    "title": "Table tennis",
+    "translations": {
+      "de": "Tischtennis",
+      "fr": "Tennis de table",
+      "es": "Tenis de mesa / Ping-pong",
+      "nl": "Tafeltennis",
+      "it": "Tennistavolo / Ping-pong"
+    },
+    "tags": [
+      "sport=table_tennis"
+    ]
+  },
+  {
+    "title": "Handball",
+    "translations": {
+      "de": "Handball",
+      "fr": "Handball",
+      "es": "Balonmano",
+      "nl": "Handbal",
+      "it": "Pallamano"
+    },
+    "tags": [
+      "sport=team_handball"
+    ]
+  },
+  {
+    "title": "Tennis courts",
+    "translations": {
+      "de": "Tennis",
+      "fr": "Tennis",
+      "es": "Tenis",
+      "nl": "Tennis",
+      "it": "Tennis"
+    },
+    "tags": [
+      "sport=tennis"
+    ]
+  },
+  {
+    "title": "Toboggan",
+    "translations": {
+      "de": "Rodeln",
+      "fr": "Luge",
+      "es": "Trineo",
+      "nl": "Rodelen",
+      "it": "Slittino"
+    },
+    "tags": [
+      "sport=toboggan"
+    ]
+  },
+  {
+    "title": "Volleyball",
+    "translations": {
+      "de": "Volleyball",
+      "fr": "Volleyball",
+      "es": "Voleibol",
+      "nl": "Volleybal",
+      "it": "Pallavolo"
+    },
+    "tags": [
+      "sport=volleyball"
+    ]
+  },
+  {
+    "title": "Water ski",
+    "translations": {
+      "de": "Wasserski",
+      "fr": "Ski nautique",
+      "es": "Esquí acuático",
+      "nl": "Waterskiën",
+      "it": "Sci nautico"
+    },
+    "tags": [
+      "sport=water_ski"
+    ]
+  },
+  {
+    "title": "Tourism",
+    "translations": {
+      "de": "Tourismus",
+      "fr": "Tourisme",
+      "es": "Turismo",
+      "nl": "Toerisme",
+      "it": "Turismo"
+    },
+    "tags": []
+  },
+  {
+    "title": "Alpine huts",
+    "translations": {
+      "de": "Alpenhütten",
+      "fr": "Refuges de montagne",
+      "es": "Refugios de montaña / Cabañas alpinas",
+      "nl": "Alpenhutten",
+      "it": "Rifugi alpini / Rifugi di montagna"
+    },
+    "tags": [
+      "tourism=alpine_hut"
+    ]
+  },
+  {
+    "title": "Attractions",
+    "translations": {
+      "de": "Sehenswürdigkeiten",
+      "fr": "Attractions",
+      "es": "Atracciones turísticas",
+      "nl": "Bezienswaardigheden",
+      "it": "Attrazioni turistiche"
+    },
+    "tags": [
+      "tourism=attraction"
+    ]
+  },
+  {
+    "title": "Artworks",
+    "translations": {
+      "de": "Kunstwerke",
+      "fr": "Œuvres d'art",
+      "es": "Obras de arte / Monumentos artísticos",
+      "nl": "Kunstwerken",
+      "it": "Opere d'arte"
+    },
+    "tags": [
+      "tourism=artwork"
+    ]
+  },
+  {
+    "title": "Camp sites",
+    "translations": {
+      "de": "Campingplätze",
+      "fr": "Terrains de camping",
+      "es": "Campings / Áreas de acampada",
+      "nl": "Campings",
+      "it": "Campeggi"
+    },
+    "tags": [
+      "tourism=camp_site"
+    ]
+  },
+  {
+    "title": "Caravan sites",
+    "translations": {
+      "de": "Wohnmobilstellplätze",
+      "fr": "Aires pour camping-cars",
+      "es": "Áreas para autocaravanas",
+      "nl": "Camperplaatsen",
+      "it": "Aree sosta camper"
+    },
+    "tags": [
+      "tourism=caravan_site",
+      "amenity=water_point"
+    ]
+  },
+  {
+    "title": "Chalets",
+    "translations": {
+      "de": "Chalets / Ferienhütten",
+      "fr": "Chalets",
+      "es": "Chalets / Cabañas turísticas",
+      "nl": "Chalets",
+      "it": "Chalet"
+    },
+    "tags": [
+      "tourism=chalet"
+    ]
+  },
+  {
+    "title": "Guest houses",
+    "translations": {
+      "de": "Gästehäuser / Pensionen",
+      "fr": "Maisons d'hôtes / Gîtes",
+      "es": "Casas de huéspedes / Pensiones",
+      "nl": "Gastenverblijven / Pensions",
+      "it": "Affittacamere / Guest house"
+    },
+    "tags": [
+      "tourism=guest_house"
+    ]
+  },
+  {
+    "title": "Hostels",
+    "translations": {
+      "de": "Hostels / Jugendherbergen",
+      "fr": "Auberges de jeunesse",
+      "es": "Hostales / Albergues juveniles",
+      "nl": "Hostels / Jeugdherbergen",
+      "it": "Ostelli della gioventù"
+    },
+    "tags": [
+      "tourism=hostel"
+    ]
+  },
+  {
+    "title": "Hotels",
+    "translations": {
+      "de": "Hotels",
+      "fr": "Hôtels",
+      "es": "Hoteles",
+      "nl": "Hotels",
+      "it": "Hotel / Alberghi"
+    },
+    "tags": [
+      "tourism=hotel"
+    ]
+  },
+  {
+    "title": "Information",
+    "translations": {
+      "de": "Informationen / Infotafeln",
+      "fr": "Informations touristiques",
+      "es": "Información turística",
+      "nl": "Informatie",
+      "it": "Informazioni turistiche"
+    },
+    "tags": [
+      "tourism=information"
+    ]
+  },
+  {
+    "title": "Motels",
+    "translations": {
+      "de": "Motels",
+      "fr": "Motels",
+      "es": "Moteles",
+      "nl": "Motels",
+      "it": "Motel"
+    },
+    "tags": [
+      "tourism=motel"
+    ]
+  },
+  {
+    "title": "Museums",
+    "translations": {
+      "de": "Museen",
+      "fr": "Musées",
+      "es": "Museos",
+      "nl": "Musea",
+      "it": "Musei"
+    },
+    "tags": [
+      "tourism=museum"
+    ]
+  },
+  {
+    "title": "Picnic sites",
+    "translations": {
+      "de": "Picknickplätze",
+      "fr": "Sites de pique-nique",
+      "es": "Merenderos / Áreas de pícnic",
+      "nl": "Picknickplaatsen",
+      "it": "Aree di picnic"
+    },
+    "tags": [
+      "tourism=picnic_site"
+    ]
+  },
+  {
+    "title": "Theme parks",
+    "translations": {
+      "de": "Freizeitparks",
+      "fr": "Parcs d'attractions",
+      "es": "Parques temáticos / Parques de atracciones",
+      "nl": "Pretparken",
+      "it": "Parchi di divertimento"
+    },
+    "tags": [
+      "tourism=theme_park"
+    ]
+  },
+  {
+    "title": "Viewpoints",
+    "translations": {
+      "de": "Aussichtspunkte",
+      "fr": "Points de vue",
+      "es": "Miradores",
+      "nl": "Uitzichtpunten",
+      "it": "Punti panoramici"
+    },
+    "tags": [
+      "tourism=viewpoint"
+    ]
+  },
+  {
+    "title": "Wildlife parks",
+    "translations": {
+      "de": "Wildparks / Tierparks",
+      "fr": "Parcs animaliers",
+      "es": "Parques de animales / Reservas de fauna",
+      "nl": "Dierenparken",
+      "it": "Parchi faunistici / Riserve animali"
+    },
+    "tags": [
+      "tourism=wildlife_park"
+    ]
+  },
+  {
+    "title": "Zoo",
+    "translations": {
+      "de": "Zoos / Tiergärten",
+      "fr": "Zoos",
+      "es": "Zoológicos",
+      "nl": "Dierentuinen",
+      "it": "Giardini zoologici / Zoo"
+    },
+    "tags": [
+      "tourism=zoo",
+      "amenity=museum"
+    ]
+  },
+  {
+    "title": "Picnic sites",
+    "translations": {
+      "de": "Picknickplätze",
+      "fr": "Sites de pique-nique",
+      "es": "Merenderos / Áreas de pícnic",
+      "nl": "Picknickplaatsen",
+      "it": "Aree di picnic"
+    },
+    "tags": [
+      "tourism=picnic_site"
+    ]
+  },
+  {
+    "title": "Theme parks",
+    "translations": {
+      "de": "Freizeitparks",
+      "fr": "Parcs d'attractions",
+      "es": "Parques temáticos / Parques de atracciones",
+      "nl": "Pretparken",
+      "it": "Parchi di divertimento"
+    },
+    "tags": [
+      "tourism=theme park"
+    ]
+  },
+  {
+    "title": "Viewpoints",
+    "translations": {
+      "de": "Aussichtspunkte",
+      "fr": "Points de vue",
+      "es": "Miradores",
+      "nl": "Uitzichtpunten",
+      "it": "Punti panoramici"
+    },
+    "tags": [
+      "tourism=viewpoint"
+    ]
+  },
+  {
+    "title": "Zoos",
+    "translations": {
+      "de": "Zoos / Tiergärten",
+      "fr": "Zoos",
+      "es": "Zoológicos",
+      "nl": "Dierentuinen",
+      "it": "Giardini zoologici / Zoo"
+    },
+    "tags": [
+      "tourism=zoo",
+      "tourism=yes"
+    ]
+  },
+  {
+    "title": "Waterways",
+    "translations": {
+      "de": "Gewässer / Wasserwege",
+      "fr": "Voies d'eau / Cours d'eau",
+      "es": "Cursos de agua / Vías fluviales",
+      "nl": "Waterwegen",
+      "it": "Corsi d'acqua / Vie d'acqua"
+    },
+    "tags": []
+  },
+  {
+    "title": "Rapids",
+    "translations": {
+      "de": "Stromschnellen",
+      "fr": "Rapides",
+      "es": "Rápidos",
+      "nl": "Stroomversnellingen",
+      "it": "Rapide"
+    },
+    "tags": [
+      "waterway=rapids",
+      "natural=rapids"
+    ]
+  },
+  {
+    "title": "Waterfalls",
+    "translations": {
+      "de": "Wasserfälle",
+      "fr": "Cascades",
+      "es": "Cascadas / Cataratas",
+      "nl": "Watervallen",
+      "it": "Cascate"
+    },
+    "tags": [
+      "waterway=waterfall",
+      "natural=waterfall"
+    ]
+  },
+  {
+    "title": "Water points",
+    "translations": {
+      "de": "Wasserstellen / Trinkwasser",
+      "fr": "Points d'eau",
+      "es": "Puntos de agua / Fuente de agua potable",
+      "nl": "Waterpunten",
+      "it": "Punti acqua / Fontanelle"
+    },
+    "tags": [
+      "waterway=water_point",
+      "amenity=water_point"
+    ]
+  },
+  {
+    "title": "Bicycle related",
+    "translations": {
+      "de": "Fahrrad / Radfahren",
+      "fr": "Cyclisme / Vélos",
+      "es": "Relacionado con la bicicleta",
+      "nl": "Fietsgerelateerd",
+      "it": "Servizi per biciclette"
+    },
+    "tags": []
+  },
+  {
+    "title": "Cycle parking places",
+    "translations": {
+      "de": "Fahrradabstellplätze / Fahrradständer",
+      "fr": "Parkings à vélos",
+      "es": "Aparcabicis / Estacionamiento de bicicletas",
+      "nl": "Fietsenstallingen",
+      "it": "Parcheggi per biciclette"
+    },
+    "tags": [
+      "amenity=bicycle_parking"
+    ]
+  },
+  {
+    "title": "Cycle rental stations",
+    "translations": {
+      "de": "Fahrradverleih",
+      "fr": "Stations de location de vélos",
+      "es": "Alquiler de bicicletas / Estaciones de bicicletas",
+      "nl": "Fietsverhuur",
+      "it": "Noleggio biciclette"
+    },
+    "tags": [
+      "amenity=bicycle_rental"
+    ]
+  },
+  {
+    "title": "Cycle shops",
+    "translations": {
+      "de": "Fahrradläden",
+      "fr": "Magasins de vélos",
+      "es": "Tiendas de bicicletas",
+      "nl": "Fietsenwinkels",
+      "it": "Negozi di biciclette"
+    },
+    "tags": [
+      "shop=bicycle"
+    ]
+  },
+  {
+    "title": "Cycle vending",
+    "translations": {
+      "de": "Fahrradschlauch-Automaten",
+      "fr": "Distributeurs de chambres à air",
+      "es": "Expendedoras de cámaras de bicicleta",
+      "nl": "Bandenautomaten",
+      "it": "Distributori automatici di camere d'aria"
+    },
+    "tags": [
+      "vending=bicycle_tube"
+    ]
+  },
+  {
+    "title": "Cycle self repair",
+    "translations": {
+      "de": "Fahrrad-Reparaturstationen",
+      "fr": "Stations de réparation de vélos",
+      "es": "Estaciones de reparación de bicicletas",
+      "nl": "Fietsreparatiestation",
+      "it": "Colonnine di riparazione biciclette"
+    },
+    "tags": [
+      "amenity=bicycle_repair_station",
+      "addr:street",
+      "addr:housenumber",
+      "addr:postcode"
+    ]
+  }
+]
