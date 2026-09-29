@@ -1,0 +1,5113 @@
+[
+  {
+    "title": "root",
+    "translations": {},
+    "tags": []
+  },
+    {
+    "title": "Amenities",
+    "translations": {
+      "ru": "Удобства",
+      "cs": "Vybavení",
+      "pt": "Comodidades",
+      "sv": "Bekvämligheter"
+    },
+    "tags": []
+  },
+  {
+    "title": "Food",
+    "translations": {
+      "ru": "Еда",
+      "cs": "Jídlo",
+      "pt": "Alimentação",
+      "sv": "Mat"
+    },
+    "tags": []
+  },
+  {
+    "title": "Restaurants",
+    "translations": {
+      "ru": "Рестораны",
+      "cs": "Restaurace",
+      "pt": "Restaurantes",
+      "sv": "Restauranger"
+    },
+    "tags": [
+      "amenity=restaurant"
+    ]
+  },
+  {
+    "title": "Food counter areas",
+    "translations": {
+      "ru": "Фуд-корты",
+      "cs": "Jídelní zóny (food court)",
+      "pt": "Praças de alimentação",
+      "sv": "Food courts"
+    },
+    "tags": [
+      "amenity=food_court"
+    ]
+  },
+
+    {
+    "title": "Fast food restaurants",
+    "translations": {
+      "ru": "Рестораны быстрого питания",
+      "cs": "Rychlé občerstvení",
+      "pt": "Restaurantes de fast-food",
+      "sv": "Snabbmatsrestauranger"
+    },
+    "tags": [
+      "amenity=fast_food"
+    ]
+  },
+  {
+    "title": "Drinking water sources",
+    "translations": {
+      "ru": "Питьевая вода",
+      "cs": "Pitná voda",
+      "pt": "Fontes de água potável",
+      "sv": "Dricksvatten"
+    },
+    "tags": [
+      "amenity=drinking_water"
+    ]
+  },
+  {
+    "title": "Public grills",
+    "translations": {
+      "ru": "Общественные мангалы (барбекю)",
+      "cs": "Veřejné grily",
+      "pt": "Churrasqueiras públicas",
+      "sv": "Offentliga grillplatser"
+    },
+    "tags": [
+      "amenity=bbq"
+    ]
+  },
+  {
+    "title": "Pubs",
+    "translations": {
+      "ru": "Пабы",
+      "cs": "Hospody",
+      "pt": "Pubs",
+      "sv": "Pubar"
+    },
+    "tags": [
+      "amenity=pub"
+    ]
+  },
+  {
+    "title": "Bars",
+    "translations": {
+      "ru": "Бары",
+      "cs": "Bary",
+      "pt": "Bares",
+      "sv": "Barer"
+    },
+    "tags": [
+      "amenity=bar"
+    ]
+  },
+  {
+    "title": "Cafes",
+    "translations": {
+      "ru": "Кафе",
+      "cs": "Kavárny",
+      "pt": "Cafés",
+      "sv": "Kaféer"
+    },
+    "tags": [
+      "amenity=cafe"
+    ]
+  },
+  {
+    "title": "Beer gardens",
+    "translations": {
+      "ru": "Пивные сады",
+      "cs": "Pivní zahrádky",
+      "pt": "Esplanadas cervejeiras",
+      "sv": "Uteserveringar / Ölträdgårdar"
+    },
+    "tags": [
+      "amenity=biergarten",
+      "amenity=beer_garden"
+    ]
+  },
+  {
+    "title": "Ice cream shops",
+    "translations": {
+      "ru": "Кафе-мороженое",
+      "cs": "Zmrzlinárny",
+      "pt": "Sorveterias",
+      "sv": "Glassbarer"
+    },
+    "tags": [
+      "amenity=ice_cream",
+      "shop=ice_cream"
+    ]
+  },
+  {
+    "title": "Education institutes",
+    "translations": {
+      "ru": "Учебные заведения",
+      "cs": "Vzdělávací instituce",
+      "pt": "Institutos de educação",
+      "sv": "Utbildningsinstitutioner"
+    },
+    "tags": []
+  },
+  {
+    "title": "Kindergartens",
+    "translations": {
+      "ru": "Детские сады",
+      "cs": "Mateřské školy",
+      "pt": "Jardins de infância",
+      "sv": "Förskolor"
+    },
+    "tags": [
+      "amenity=kindergarten"
+    ]
+  },
+  {
+    "title": "School grounds",
+    "translations": {
+      "ru": "Школы",
+      "cs": "Školy",
+      "pt": "Escolas",
+      "sv": "Skolor"
+    },
+    "tags": [
+      "amenity=school"
+    ]
+  },
+
+    {
+    "title": "College campus or buildings",
+    "translations": {
+      "ru": "Колледжи и университетские городки",
+      "cs": "Vysoké školy (koleje a budovy)",
+      "pt": "Campus ou edifícios universitários",
+      "sv": "Högskolor och campusområden"
+    },
+    "tags": [
+      "amenity=college"
+    ]
+  },
+  {
+    "title": "Public libraries",
+    "translations": {
+      "ru": "Публичные библиотеки",
+      "cs": "Veřejné knihovny",
+      "pt": "Bibliotecas públicas",
+      "sv": "Offentliga bibliotek"
+    },
+    "tags": [
+      "amenity=library"
+    ]
+  },
+  {
+    "title": "University campus or buildings",
+    "translations": {
+      "ru": "Университеты",
+      "cs": "Univerzitní campus nebo budovy",
+      "pt": "Campus ou edifícios universitários",
+      "sv": "Universitetscampus eller byggnader"
+    },
+    "tags": [
+      "amenity=university"
+    ]
+  },
+  {
+    "title": "Transportation",
+    "translations": {
+      "ru": "Транспорт",
+      "cs": "Doprava",
+      "pt": "Transportes",
+      "sv": "Transport"
+    },
+    "tags": []
+  },
+  {
+    "title": "Ferry terminals",
+    "translations": {
+      "ru": "Паромные переправы",
+      "cs": "Trajektové terminály",
+      "pt": "Terminais de ferry",
+      "sv": "Färjeterminaler"
+    },
+    "tags": [
+      "amenity=ferry_terminal"
+    ]
+  },
+  {
+    "title": "Bicycle parking places",
+    "translations": {
+      "ru": "Велосипедные парковки",
+      "cs": "Stojany na kola",
+      "pt": "Estacionamentos de bicicletas",
+      "sv": "Cykelparkeringar"
+    },
+    "tags": [
+      "amenity=bicycle_parking"
+    ]
+  },
+  {
+    "title": "Bicycle rental stations",
+    "translations": {
+      "ru": "Прокат велосипедов",
+      "cs": "Půjčovny kol",
+      "pt": "Aluguer de bicicletas",
+      "sv": "Cykeluthyrning"
+    },
+    "tags": [
+      "amenity=bicycle_rental"
+    ]
+  },
+  {
+    "title": "Bus stations",
+    "translations": {
+      "ru": "Автовокзалы",
+      "cs": "Autobusová nádraží",
+      "pt": "Estações de autocarros",
+      "sv": "Busstationer"
+    },
+    "tags": [
+      "amenity=bus_station"
+    ]
+  },
+  {
+    "title": "Car rental stations",
+    "translations": {
+      "ru": "Прокат автомобилей",
+      "cs": "Autopůjčovny",
+      "pt": "Aluguer de carros",
+      "sv": "Biluthyrning"
+    },
+    "tags": [
+      "amenity=car_rental"
+    ]
+  },
+  {
+    "title": "Car sharing stations",
+    "translations": {
+      "ru": "Каршеринг",
+      "cs": "Carsharing (sdílení aut)",
+      "pt": "Car sharing / Partilha de carros",
+      "sv": "Bilpool / Carsharing"
+    },
+    "tags": [
+      "amenity=car_sharing"
+    ]
+  },
+
+    {
+    "title": "Car washing stations",
+    "translations": {
+      "ru": "Автомойки",
+      "cs": "Automyčky",
+      "pt": "Lavagens de carros",
+      "sv": "Tvätthallar / biltvättar"
+    },
+    "tags": [
+      "amenity=car_wash"
+    ]
+  },
+  {
+    "title": "Fuel stations",
+    "translations": {
+      "ru": "АЗС (Заправочные станции)",
+      "cs": "Čerpací stanice",
+      "pt": "Postos de combustível",
+      "sv": "Bensinstationer"
+    },
+    "tags": [
+      "amenity=fuel",
+      "amenity=grit_bin"
+    ]
+  },
+  {
+    "title": "Car parking places",
+    "translations": {
+      "ru": "Автомобильные парковки",
+      "cs": "Parkoviště pro auta",
+      "pt": "Parques de estacionamento",
+      "sv": "Bilparkeringar"
+    },
+    "tags": [
+      "amenity=parking"
+    ]
+  },
+  {
+    "title": "Motorcycle parking places",
+    "translations": {
+      "ru": "Мотоциклетные парковки",
+      "cs": "Parkoviště pro motocykly",
+      "pt": "Estacionamentos para motociclos",
+      "sv": "Motorcykelparkeringar"
+    },
+    "tags": [
+      "amenity=motorcycle_parking",
+      "amenity=parking_space",
+      "amenity=parking_entrance"
+    ]
+  },
+  {
+    "title": "Taxi stands",
+    "translations": {
+      "ru": "Стоянки такси",
+      "cs": "Stanoviště taxi",
+      "pt": "Praças de táxis",
+      "sv": "Taxistationer"
+    },
+    "tags": [
+      "amenity=taxi"
+    ]
+  },
+
+    {
+    "title": "Electric vehicle charging facilities",
+    "translations": {
+      "ru": "Зарядные станции для электромобилей",
+      "cs": "Dobíjecí stanice pro elektromobily",
+      "pt": "Postos de carregamento para veículos elétricos",
+      "sv": "Laddstationer för elfordon"
+    },
+    "tags": [
+      "amenity=charging_station",
+      "amenity=ev_charging"
+    ]
+  },
+  {
+    "title": "Financial institutes",
+    "translations": {
+      "ru": "Финансовые учреждения",
+      "cs": "Finanční instituce",
+      "pt": "Instituições financeiras",
+      "sv": "Finansiella institut"
+    },
+    "tags": []
+  },
+  {
+    "title": "ATMs and cash points",
+    "translations": {
+      "ru": "Банкоматы",
+      "cs": "Bankomaty",
+      "pt": "Multibancos / Caixas automáticos",
+      "sv": "Bankomater"
+    },
+    "tags": [
+      "amenity=atm"
+    ]
+  },
+  {
+    "title": "Banks",
+    "translations": {
+      "ru": "Банки",
+      "cs": "Banky",
+      "pt": "Bancos",
+      "sv": "Banker"
+    },
+    "tags": [
+      "amenity=bank"
+    ]
+  },
+  {
+    "title": "Currency exchange places",
+    "translations": {
+      "ru": "Обмен валюты",
+      "cs": "Směnárny",
+      "pt": "Casas de câmbio",
+      "sv": "Växlingskontor"
+    },
+    "tags": [
+      "amenity=bureau_de_change"
+    ]
+  },
+  {
+    "title": "Health care",
+    "translations": {
+      "ru": "Здравоохранение",
+      "cs": "Zdravotní péče",
+      "pt": "Cuidados de saúde",
+      "sv": "Sjukvård"
+    },
+    "tags": []
+  },
+  {
+    "title": "Pharmacies",
+    "translations": {
+      "ru": "Аптеки",
+      "cs": "Lékárny",
+      "pt": "Farmácias",
+      "sv": "Apotek"
+    },
+    "tags": [
+      "amenity=pharmacy"
+    ]
+  },
+  {
+    "title": "Hospitals",
+    "translations": {
+      "ru": "Больницы",
+      "cs": "Nemocnice",
+      "pt": "Hospitais",
+      "sv": "Sjukhus"
+    },
+    "tags": [
+      "amenity=hospital",
+      "amenity=clinic"
+    ]
+  },
+
+    {
+    "title": "Places to drop babies for remorse",
+    "translations": {
+      "ru": "Бэби-боксы",
+      "cs": "Hnízda záchrany / Babybox",
+      "pt": "Rodas dos expostos / Caixas de bebés",
+      "sv": "Babylucka"
+    },
+    "tags": [
+      "amenity=baby_hatch"
+    ]
+  },
+  {
+    "title": "Dentists",
+    "translations": {
+      "ru": "Стоматологии",
+      "cs": "Zubní ordinace",
+      "pt": "Dentistas / Clínicas dentárias",
+      "sv": "Tandläkare"
+    },
+    "tags": [
+      "amenity=dentist"
+    ]
+  },
+  {
+    "title": "Doctor practices",
+    "translations": {
+      "ru": "Врачебные кабинеты",
+      "cs": "Lékařské ordinace",
+      "pt": "Consultórios médicos",
+      "sv": "Läkarmottagningar"
+    },
+    "tags": [
+      "amenity=doctors"
+    ]
+  },
+  {
+    "title": "Nursing homes",
+    "translations": {
+      "ru": "Дома престарелых",
+      "cs": "Domovy s pečovatelskou službou",
+      "pt": "Lar de idosos",
+      "sv": "Vårdhem / Äldreboende"
+    },
+    "tags": [
+      "amenity=nursing_home",
+      "amenity=social_facility"
+    ]
+  },
+  {
+    "title": "Veterinary clinics",
+    "translations": {
+      "ru": "Ветеринарные клиники",
+      "cs": "Veterinární kliniky",
+      "pt": "Clínicas veterinárias",
+      "sv": "Veterinärkliniker"
+    },
+    "tags": [
+      "amenity=veterinary"
+    ]
+  },
+  {
+    "title": "Entertainment, arts and culture",
+    "translations": {
+      "ru": "Развлечения, искусство и культура",
+      "cs": "Zábava, umění a kultura",
+      "pt": "Entretenimento, artes e cultura",
+      "sv": "Underhållning, konst och kultur"
+    },
+    "tags": []
+  },
+
+    {
+    "title": "Arts centers",
+    "translations": {
+      "ru": "Центры искусств",
+      "cs": "Kulturní a umělecká centra",
+      "pt": "Centros de artes",
+      "sv": "Kulturcentra"
+    },
+    "tags": [
+      "amenity=arts_centre"
+    ]
+  },
+  {
+    "title": "Cinemas",
+    "translations": {
+      "ru": "Кинотеатры",
+      "cs": "Kina",
+      "pt": "Cinemas",
+      "sv": "Biografer"
+    },
+    "tags": [
+      "amenity=cinema"
+    ]
+  },
+  {
+    "title": "Community centers",
+    "translations": {
+      "ru": "Общественные центры",
+      "cs": "Komunitní centra",
+      "pt": "Centros comunitários",
+      "sv": "Folkets hus / Bygdegårdar / Samlingslokaler"
+    },
+    "tags": [
+      "amenity=community_centre",
+      "amenity=social_centre"
+    ]
+  },
+  {
+    "title": "Fountains",
+    "translations": {
+      "ru": "Фонтаны",
+      "cs": "Kašny a fontány",
+      "pt": "Fontes / Chafarizes",
+      "sv": "Fontäner"
+    },
+    "tags": [
+      "amenity=fountain"
+    ]
+  },
+  {
+    "title": "Nightclubs (Dancing)",
+    "translations": {
+      "ru": "Ночные клубы (дискотеки)",
+      "cs": "Noční kluby (diskotéky)",
+      "pt": "Discotecas / Clubes nocturnos",
+      "sv": "Nattklubbar"
+    },
+    "tags": [
+      "amenity=nightclub"
+    ]
+  },
+  {
+    "title": "Strip clubs",
+    "translations": {
+      "ru": "Стрип-клубы",
+      "cs": "Striptýzové bary",
+      "pt": "Strip clubs",
+      "sv": "Stripklubbar"
+    },
+    "tags": [
+      "amenity=stripclub",
+      "amenity=studio"
+    ]
+  },
+  {
+    "title": "Theatres and operas",
+    "translations": {
+      "ru": "Театры и оперы",
+      "cs": "Divadla a opery",
+      "pt": "Teatros e óperas",
+      "sv": "Teatrar och operor"
+    },
+    "tags": [
+      "amenity=theatre"
+    ]
+  },
+  {
+    "title": "Other amenities",
+    "translations": {
+      "ru": "Прочие удобства",
+      "cs": "Ostatní vybavení",
+      "pt": "Outras comodidades",
+      "sv": "Övriga bekvämligheter"
+    },
+    "tags": [
+      "amenity=bench"
+    ]
+  },
+
+    {
+    "title": "Brothels",
+    "translations": {
+      "ru": "Бордели",
+      "cs": "Nevěstince",
+      "pt": "Bordéis",
+      "sv": "Bordeller"
+    },
+    "tags": [
+      "amenity=brothel",
+      "amenity=clock"
+    ]
+  },
+  {
+    "title": "Court houses",
+    "translations": {
+      "ru": "Суды",
+      "cs": "Soudní budovy",
+      "pt": "Tribunais",
+      "sv": "Domstolar"
+    },
+    "tags": [
+      "amenity=court_house"
+    ]
+  },
+  {
+    "title": "Crematoriums",
+    "translations": {
+      "ru": "Крематории",
+      "cs": "Krematoria",
+      "pt": "Crematórios",
+      "sv": "Krematorier"
+    },
+    "tags": [
+      "amenity=crematorium"
+    ]
+  },
+  {
+    "title": "Embassies",
+    "translations": {
+      "ru": "Посольства",
+      "cs": "Velvyslanectví",
+      "pt": "Embaixadas",
+      "sv": "Ambassader"
+    },
+    "tags": [
+      "amenity=embassy"
+    ]
+  },
+  {
+    "title": "Fire stations",
+    "translations": {
+      "ru": "Пожарные станции",
+      "cs": "Hasičské stanice",
+      "pt": "Quartéis de bombeiros",
+      "sv": "Brandstationer"
+    },
+    "tags": [
+      "amenity=fire_station"
+    ]
+  },
+  {
+    "title": "Grave yards",
+    "translations": {
+      "ru": "Кладбища",
+      "cs": "Hřbitovy",
+      "pt": "Cemitérios",
+      "sv": "Kyrkogårdar"
+    },
+    "tags": [
+      "amenity=grave_yard"
+    ]
+  },
+
+    {
+    "title": "Hunting stands",
+    "translations": {
+      "ru": "Охотничьи вышки",
+      "cs": "Posedy",
+      "pt": "Postos de caça / Púlpitos de caça",
+      "sv": "Jaktorn"
+    },
+    "tags": [
+      "amenity=hunting_stand"
+    ]
+  },
+  {
+    "title": "Marketplaces",
+    "translations": {
+      "ru": "Рыночные площади",
+      "cs": "Tržiště",
+      "pt": "Mercados / Praças de mercado",
+      "sv": "Torg / Marknadsplatser"
+    },
+    "tags": [
+      "amenity=market_place"
+    ]
+  },
+  {
+    "title": "Churches, mosques, temples",
+    "translations": {
+      "ru": "Культовые сооружения (храмы, мечети, церкви)",
+      "cs": "Místa bohoslužeb (kostely, mešity, chrámy)",
+      "pt": "Locais de culto (igrejas, mesquitas, templos)",
+      "sv": "Gudstjänstlokaler (kyrkor, moskéer, tempel)"
+    },
+    "tags": [
+      "amenity=place_of_worship"
+    ]
+  },
+  {
+    "title": "Police stations",
+    "translations": {
+      "ru": "Полицейские участки",
+      "cs": "Policejní stanice",
+      "pt": "Esquadras de polícia",
+      "sv": "Polisstationer"
+    },
+    "tags": [
+      "amenity=police"
+    ]
+  },
+  {
+    "title": "Post boxes",
+    "translations": {
+      "ru": "Почтовые ящики",
+      "cs": "Poštovní schránky",
+      "pt": "Caixas de correio",
+      "sv": "Brevlådor"
+    },
+    "tags": [
+      "amenity=post_box"
+    ]
+  },
+  {
+    "title": "Post offices",
+    "translations": {
+      "ru": "Почтовые отделения",
+      "cs": "Pošty",
+      "pt": "Correios / Estações de correio",
+      "sv": "Postkontor"
+    },
+    "tags": [
+      "amenity=post_office"
+    ]
+  },
+  {
+    "title": "Prisons",
+    "translations": {
+      "ru": "Тюрьмы",
+      "cs": "Věznice",
+      "pt": "Prisões / Estabelecimentos prisionais",
+      "sv": "Fängelser"
+    },
+    "tags": [
+      "amenity=prison",
+      "amenity=public_building"
+    ]
+  },
+
+    {
+    "title": "Recycling facilities",
+    "translations": {
+      "ru": "Пункты переработки отходов",
+      "cs": "Recyklační místa",
+      "pt": "Instalações de reciclagem",
+      "sv": "Återvinningsstationer"
+    },
+    "tags": [
+      "amenity=recycling"
+    ]
+  },
+  {
+    "title": "Saunas",
+    "translations": {
+      "ru": "Сауны",
+      "cs": "Sauny",
+      "pt": "Saunas",
+      "sv": "Bastu"
+    },
+    "tags": [
+      "amenity=sauna"
+    ]
+  },
+  {
+    "title": "Bad weather shelters",
+    "translations": {
+      "ru": "Укрытия от непогоды",
+      "cs": "Últraky / Přístřešky",
+      "pt": "Abrigos contra intempéries",
+      "sv": "Väderleks- / Vindskydd"
+    },
+    "tags": [
+      "amenity=shelter"
+    ]
+  },
+  {
+    "title": "Public telephones",
+    "translations": {
+      "ru": "Таксофоны",
+      "cs": "Veřejné telefony",
+      "pt": "Telefones públicos",
+      "sv": "Offentliga telefoner"
+    },
+    "tags": [
+      "amenity=telephone"
+    ]
+  },
+  {
+    "title": "Public toilets",
+    "translations": {
+      "ru": "Общественные туалеты",
+      "cs": "Veřejné toalety",
+      "pt": "Sanitas públicas / W.C.",
+      "sv": "Offentliga toaletter"
+    },
+    "tags": [
+      "amenity=toilets"
+    ]
+  },
+  {
+    "title": "Town halls",
+    "translations": {
+      "ru": "Мэрии и административные здания",
+      "cs": "Radnice",
+      "pt": "Câmaras municipais / Paços do concelho",
+      "sv": "Stadshus / Kommunhus"
+    },
+    "tags": [
+      "amenity=townhall",
+      "amenity=vending_machine",
+      "amenity=waste_basket",
+      "amenity=waste_disposal",
+      "amenity=watering_place"
+    ]
+  },
+  {
+    "title": "Airport POIs",
+    "translations": {
+      "ru": "Объекты в аэропортах",
+      "cs": "Letištní body zájmu",
+      "pt": "POIs de aeroportos",
+      "sv": "Flygplats-POI"
+    },
+    "tags": []
+  },
+  {
+    "title": "Airports",
+    "translations": {
+      "ru": "Аэропорты",
+      "cs": "Letiště",
+      "pt": "Aeroportos",
+      "sv": "Flygplatser"
+    },
+    "tags": [
+      "aeroway=aerodrome",
+      "aeroway=airport"
+    ]
+  },
+  {
+    "title": "Airport terminals",
+    "translations": {
+      "ru": "Терминалы аэропортов",
+      "cs": "Letištní terminály",
+      "pt": "Terminais de aeroportos",
+      "sv": "Flygplatsterminaler"
+    },
+    "tags": [
+      "aeroway=terminal"
+    ]
+  },
+
+    {
+    "title": "Airport gates",
+    "translations": {
+      "ru": "Выходы на посадку",
+      "cs": "Letištní brány (gates)",
+      "pt": "Portas de embarque",
+      "sv": "Gater / Incheckningsgater"
+    },
+    "tags": [
+      "aeroway=gate"
+    ]
+  },
+  {
+    "title": "Helipads",
+    "translations": {
+      "ru": "Вертолетные площадки",
+      "cs": "Helipady / Vertporty",
+      "pt": "Heliportos",
+      "sv": "Helikopterplattor"
+    },
+    "tags": [
+      "aeroway=helipad"
+    ]
+  },
+  {
+    "title": "Terminals",
+    "translations": {
+      "ru": "Терминалы",
+      "cs": "Terminály",
+      "pt": "Terminais",
+      "sv": "Terminaler"
+    },
+    "tags": [
+      "aeroway=terminal"
+    ]
+  },
+  {
+    "title": "Barriers",
+    "translations": {
+      "ru": "Бордюры / Ограничители",
+      "cs": "Obrubníky",
+      "pt": "Lancis / Rebaixos de passeio",
+      "sv": "Trottoarer / Kantstenar"
+    },
+    "tags": [
+      "barrier=kerb"
+    ]
+  },
+  {
+    "title": "Blocks",
+    "translations": {
+      "ru": "Дорожные блоки",
+      "cs": "Zátarasy / Bloky",
+      "pt": "Blocos de trânsito",
+      "sv": "Betongsuggor / Trafikhinder"
+    },
+    "tags": [
+      "barrier=block"
+    ]
+  },
+  {
+    "title": "Bollards",
+    "translations": {
+      "ru": "Болларды (дорожные столбики)",
+      "cs": "Pevné sloupky / Patníky",
+      "pt": "Pilaretes / Pioneses",
+      "sv": "Trafikstolpar / Pollare"
+    },
+    "tags": [
+      "barrier=bollard"
+    ]
+  },
+  {
+    "title": "Border controls",
+    "translations": {
+      "ru": "Пограничный контроль",
+      "cs": "Hraniční kontroly",
+      "pt": "Controlos fronteiriços",
+      "sv": "Gränskontroller"
+    },
+    "tags": [
+      "barrier=border_control",
+      "barrier=cattle_grid"
+    ]
+  },
+  {
+    "title": "Chains",
+    "translations": {
+      "ru": "Цепные ограждения",
+      "cs": "Řetězové zábrany",
+      "pt": "Correntes de delimitação",
+      "sv": "Kättingbarriärer"
+    },
+    "tags": [
+      "barrier=chain"
+    ]
+  },
+  {
+    "title": "Cycle barriers",
+    "translations": {
+      "ru": "Велосипедные заграждения",
+      "cs": "Zábrany pro jízdní kola",
+      "pt": "Barreiras para bicicletas",
+      "sv": "Cykelslangar / Cykelspärrar"
+    },
+    "tags": [
+      "barrier=cycle_barrier"
+    ]
+  },
+
+    {
+    "title": "Motorcycle barriers",
+    "translations": {
+      "ru": "Заграждения для мотоциклов",
+      "cs": "Zábrany pro motocykly",
+      "pt": "Barreiras para motociclos",
+      "sv": "Motorcykelspärrar"
+    },
+    "tags": [
+      "barrier=motorcycle_barrier"
+    ]
+  },
+  {
+    "title": "Debris barriers",
+    "translations": {
+      "ru": "Защитные барьеры от мусора / селей",
+      "cs": "Zábrany proti sutini / nečistotám",
+      "pt": "Barreiras de detritos",
+      "sv": "Ras- / skräpbarriärer"
+    },
+    "tags": [
+      "barrier=debris"
+    ]
+  },
+  {
+    "title": "Entrance barriers",
+    "translations": {
+      "ru": "Входные барьеры",
+      "cs": "Vstupní zábrany",
+      "pt": "Barreiras de entrada",
+      "sv": "Entrégrejer / Inpasseringsspärrar"
+    },
+    "tags": [
+      "barrier=entrance"
+    ]
+  },
+  {
+    "title": "Full-height turnstiles",
+    "translations": {
+      "ru": "Полноростовые турникеты",
+      "cs": "Turnikety plné výšky",
+      "pt": "Torniquetes de altura total",
+      "sv": "Helhöjda vändkors"
+    },
+    "tags": [
+      "barrier=full-height_turnstile"
+    ]
+  },
+  {
+    "title": "Gates",
+    "translations": {
+      "ru": "Ворота",
+      "cs": "Vrata / Brány",
+      "pt": "Portões",
+      "sv": "Grindar"
+    },
+    "tags": [
+      "barrier=gate"
+    ]
+  },
+  {
+    "title": "Horse stiles",
+    "translations": {
+      "ru": "Конские переходы (проходы для лошадей)",
+      "cs": "Průchody pro koně (stile)",
+      "pt": "Passagens para cavalos",
+      "sv": "Häststättor"
+    },
+    "tags": [
+      "barrier=horse_stile"
+    ]
+  },
+  {
+    "title": "Jersey barriers",
+    "translations": {
+      "ru": "Дорожные блоки Нью-Джерси",
+      "cs": "Betonové svodidla (Jersey)",
+      "pt": "Barreiras New Jersey",
+      "sv": "New Jersey-barriärer"
+    },
+    "tags": [
+      "barrier=jersey_barrier"
+    ]
+  },
+  {
+    "title": "Kent carriage gap",
+    "translations": {
+      "ru": "Проезжие зазоры Кента",
+      "cs": "Kentova mezera pro kočáry",
+      "pt": "Passagem de carruagens Kent",
+      "sv": "Kentska vagnspalter"
+    },
+    "tags": [
+      "barrier=kent_carriage_gap"
+    ]
+  },
+  {
+    "title": "Kissing gates",
+    "translations": {
+      "ru": "Калитки с круговым барьером (поцелуйные ворота)",
+      "cs": "Otočné branky (kissing gates)",
+      "pt": "Cancelas basculantes / Portões rotativos",
+      "sv": "Vändgrindar"
+    },
+    "tags": [
+      "barrier=kissing_gate"
+    ]
+  },
+  {
+    "title": "Lift gate",
+    "translations": {
+      "ru": "Шлагбаумы",
+      "cs": "Zvedací závory (šraňky)",
+      "pt": "Cancelas de levantar",
+      "sv": "Bommar / Lyftbommar"
+    },
+    "tags": [
+      "barrier=lift_gate"
+    ]
+  },
+
+    {
+    "title": "Logs",
+    "translations": {
+      "ru": "Бревна (заграждения из бревен)",
+      "cs": "Kmeny (bariéry z kmenů)",
+      "pt": "Troncos de madeira",
+      "sv": "Stockar"
+    },
+    "tags": [
+      "barrier=log"
+    ]
+  },
+  {
+    "title": "Ropes",
+    "translations": {
+      "ru": "Канаты / Верёвочные ограждения",
+      "cs": "Lana / Provazové zábrany",
+      "pt": "Cordas",
+      "sv": "Repbarriärer"
+    },
+    "tags": [
+      "barrier=rope"
+    ]
+  },
+  {
+    "title": "Sally Ports",
+    "translations": {
+      "ru": "Шлюзовые ворота (проходные пункты)",
+      "cs": "Bezpečnostní průchody (sally ports)",
+      "pt": "Portas de segurança / Sally ports",
+      "sv": "Slussportar"
+    },
+    "tags": [
+      "barrier=sally_port"
+    ]
+  },
+  {
+    "title": "Spikes",
+    "translations": {
+      "ru": "Шипы / Защитные колючие элементы",
+      "cs": "Hroty",
+      "pt": "Espigões / Picos de segurança",
+      "sv": "Taggar / Spikar"
+    },
+    "tags": [
+      "barrier=spike"
+    ]
+  },
+  {
+    "title": "Stiles",
+    "translations": {
+      "ru": "Перелазы (лесенки через забор)",
+      "cs": "Přeběhy / Schůdky přes plot",
+      "pt": "Passadiços de cerca / Stile",
+      "sv": "Stättor"
+    },
+    "tags": [
+      "barrier=stile"
+    ]
+  },
+  {
+    "title": "Swing gates",
+    "translations": {
+      "ru": "Распашные ворота",
+      "cs": "Otočné brány / Křídlová vrata",
+      "pt": "Portões de batente",
+      "sv": "Grindar / Svänggrindar"
+    },
+    "tags": [
+      "barrier=swing_gate"
+    ]
+  },
+  {
+    "title": "Toll booths",
+    "translations": {
+      "ru": "Пункты оплаты сборов",
+      "cs": "Mýtné brány",
+      "pt": "Portagens",
+      "sv": "Tullstationer"
+    },
+    "tags": [
+      "barrier=toll_booth"
+    ]
+  },
+  {
+    "title": "Turnstiles",
+    "translations": {
+      "ru": "Турникеты",
+      "cs": "Turnikety",
+      "pt": "Torniquetes",
+      "sv": "Vändkors"
+    },
+    "tags": [
+      "barrier=turnstile"
+    ]
+  },
+  {
+    "title": "Crafting",
+    "translations": {
+      "ru": "Ремесла и промыслы",
+      "cs": "Řemesla",
+      "pt": "Artesanato / Ofícios",
+      "sv": "Hantverk"
+    },
+    "tags": []
+  },
+
+    {
+    "title": "Agricultural engines",
+    "translations": {
+      "ru": "Сельскохозяйственные двигатели и техника",
+      "cs": "Zemědělské motory",
+      "pt": "Motores agrícolas",
+      "sv": "Jordbruksmotorer"
+    },
+    "tags": [
+      "craft=agricultural_engines"
+    ]
+  },
+  {
+    "title": "Basket makers",
+    "translations": {
+      "ru": "Корзинщики (плетение из лозы)",
+      "cs": "Košíkáři",
+      "pt": "Cesteiros",
+      "sv": "Korgmakare"
+    },
+    "tags": [
+      "craft=basket_maker"
+    ]
+  },
+  {
+    "title": "Beekeepers",
+    "translations": {
+      "ru": "Пчеловоды",
+      "cs": "Včelaři",
+      "pt": "Apicultores",
+      "sv": "Biodlare"
+    },
+    "tags": [
+      "craft=beekeeper"
+    ]
+  },
+  {
+    "title": "Blacksmiths",
+    "translations": {
+      "ru": "Кузнецы",
+      "cs": "Kováři",
+      "pt": "Ferreiros",
+      "sv": "Smeder"
+    },
+    "tags": [
+      "craft=blacksmith"
+    ]
+  },
+  {
+    "title": "Breweries",
+    "translations": {
+      "ru": "Пивоварни",
+      "cs": "Pivovary",
+      "pt": "Cervejarias",
+      "sv": "Bryggerier"
+    },
+    "tags": [
+      "craft=brewery"
+    ]
+  },
+  {
+    "title": "Boat builders",
+    "translations": {
+      "ru": "Судостроители / Судоремонтники",
+      "cs": "Lodní stavitelé",
+      "pt": "Construtores navais",
+      "sv": "Båtbyggare"
+    },
+    "tags": [
+      "craft=boatbuilder"
+    ]
+  },
+  {
+    "title": "Bonfires",
+    "translations": {
+      "ru": "Места для костров",
+      "cs": "Místa pro táborové ohně",
+      "pt": "Fogueiras",
+      "sv": "Eldstäder / Brasa"
+    },
+    "tags": [
+      "craft=bonfire"
+    ]
+  },
+  {
+    "title": "Bookbinders",
+    "translations": {
+      "ru": "Переплетчики",
+      "cs": "Knihaři",
+      "pt": "Encadernadores",
+      "sv": "Bokbindare"
+    },
+    "tags": [
+      "craft=bookbinder"
+    ]
+  },
+  {
+    "title": "Carpenters",
+    "translations": {
+      "ru": "Плотники",
+      "cs": "Tesaři",
+      "pt": "Carpinteiros",
+      "sv": "Snickare"
+    },
+    "tags": [
+      "craft=carpenter"
+    ]
+  },
+
+    {
+    "title": "Carpet layers",
+    "translations": {
+      "ru": "Укладчики ковровых покрытий",
+      "cs": "Podlaháři (pokladači koberců)",
+      "pt": "Instaladores de alcatifas / tapetes",
+      "sv": "Mattläggare"
+    },
+    "tags": [
+      "craft=carpet_layer"
+    ]
+  },
+  {
+    "title": "Caterers",
+    "translations": {
+      "ru": "Службы кейтеринга",
+      "cs": "Cateringové služby",
+      "pt": "Serviços de catering / Fornecedores de refeições",
+      "sv": "Cateringfirmor"
+    },
+    "tags": [
+      "craft=caterer"
+    ]
+  },
+  {
+    "title": "Clockmakers",
+    "translations": {
+      "ru": "Часовщики",
+      "cs": "Hodináři",
+      "pt": "Relojoeiros",
+      "sv": "Urmakare"
+    },
+    "tags": [
+      "craft=clockmaker"
+    ]
+  },
+  {
+    "title": "Confectioneries",
+    "translations": {
+      "ru": "Кондитеры",
+      "cs": "Cukráři",
+      "pt": "Confeitarias",
+      "sv": "Konditorer / Konfektyrtillverkare"
+    },
+    "tags": [
+      "craft=confectionery"
+    ]
+  },
+  {
+    "title": "Dressmakers",
+    "translations": {
+      "ru": "Портные / Модельеры одежды",
+      "cs": "Krejčí",
+      "pt": "Costureiros / Alfaiates",
+      "sv": "Sömmerskor / Skräddare"
+    },
+    "tags": [
+      "craft=dressmaker"
+    ]
+  },
+  {
+    "title": "Electricians",
+    "translations": {
+      "ru": "Электрики",
+      "cs": "Elektrikáři",
+      "pt": "Eletricistas",
+      "sv": "Elektriker"
+    },
+    "tags": [
+      "craft=electrician"
+    ]
+  },
+  {
+    "title": "Gardeners",
+    "translations": {
+      "ru": "Садовники",
+      "cs": "Zahradníci",
+      "pt": "Jardineiros",
+      "sv": "Trädgårdsmästare"
+    },
+    "tags": [
+      "craft=gardener"
+    ]
+  },
+  {
+    "title": "Glaziers",
+    "translations": {
+      "ru": "Стекольщики",
+      "cs": "Sklenáři",
+      "pt": "Vidraceiros",
+      "sv": "Glasmästare"
+    },
+    "tags": [
+      "craft=glaziery"
+    ]
+  },
+
+    {
+    "title": "Handicrafts",
+    "translations": {
+      "ru": "Народные промыслы и ремесла",
+      "cs": "Řemeslné výrobky / Rukodělné práce",
+      "pt": "Artesanato",
+      "sv": "Hantverk / Slöjd"
+    },
+    "tags": [
+      "craft=handicraft"
+    ]
+  },
+  {
+    "title": "Heating, Ventilating and Air Condition",
+    "translations": {
+      "ru": "Отопление, вентиляция и кондиционирование",
+      "cs": "Topení, ventilace a klimatizace (TZB)",
+      "pt": "Aquecimento, ventilação e ar condicionado (HVAC)",
+      "sv": "Värme, ventilation och luftkonditionering (VS / HVAC)"
+    },
+    "tags": [
+      "craft=hvac"
+    ]
+  },
+  {
+    "title": "Insulations",
+    "translations": {
+      "ru": "Изоляционные работы",
+      "cs": "Izolace",
+      "pt": "Isolamentos",
+      "sv": "Isolering"
+    },
+    "tags": [
+      "craft=insulation"
+    ]
+  },
+  {
+    "title": "Jewellers",
+    "translations": {
+      "ru": "Ювелирные мастерские",
+      "cs": "Zlatnictví a klenotnictví",
+      "pt": "Joalheiros",
+      "sv": "Juvelerare"
+    },
+    "tags": [
+      "craft=jeweller"
+    ]
+  },
+  {
+    "title": "Locksmiths",
+    "translations": {
+      "ru": "Слесари / Изготовление ключей и замков",
+      "cs": "Zámečníci",
+      "pt": "Serralheiros mecânicos",
+      "sv": "Låssmeder"
+    },
+    "tags": [
+      "craft=locksmith"
+    ]
+  },
+  {
+    "title": "Key cutters",
+    "translations": {
+      "ru": "Изготовление ключей",
+      "cs": "Klíčová služba",
+      "pt": "Duplicação de chaves",
+      "sv": "Nyckeltillverkning"
+    },
+    "tags": [
+      "craft=key_cutter"
+    ]
+  },
+  {
+    "title": "Metal constructions",
+    "translations": {
+      "ru": "Металлоконструкции",
+      "cs": "Kovové konstrukce",
+      "pt": "Construções metálicas",
+      "sv": "Metallkonstruktioner"
+    },
+    "tags": [
+      "craft=metal_construction"
+    ]
+  },
+  {
+    "title": "Opticians",
+    "translations": {
+      "ru": "Оптика",
+      "cs": "Optici",
+      "pt": "Óticos",
+      "sv": "Optiker"
+    },
+    "tags": [
+      "craft=optician"
+    ]
+  },
+  {
+    "title": "Painters",
+    "translations": {
+      "ru": "Маляры",
+      "cs": "Malíři pokojů",
+      "pt": "Pintores (construção)",
+      "sv": "Målare"
+    },
+    "tags": [
+      "craft=painter"
+    ]
+  },
+
+    {
+    "title": "Parquet layers",
+    "translations": {
+      "ru": "Укладчики паркета",
+      "cs": "Parketáři",
+      "pt": "Instaladores de parquet",
+      "sv": "Golvläggare / Parkettläggare"
+    },
+    "tags": [
+      "craft=parquet_layer"
+    ]
+  },
+  {
+    "title": "Photographers",
+    "translations": {
+      "ru": "Фотографы",
+      "cs": "Fotografové",
+      "pt": "Fotógrafos",
+      "sv": "Fotografer"
+    },
+    "tags": [
+      "craft=photographer"
+    ]
+  },
+  {
+    "title": "Photographic laboratory",
+    "translations": {
+      "ru": "Фотолаборатории",
+      "cs": "Fotolaboratoře",
+      "pt": "Laboratórios fotográficos",
+      "sv": "Fotolaboratorier"
+    },
+    "tags": [
+      "craft=photographic_laboratory"
+    ]
+  },
+  {
+    "title": "Plasterers",
+    "translations": {
+      "ru": "Штукатуры",
+      "cs": "Štukatéři / Omítkáři",
+      "pt": "Estucadores / Rebocadores",
+      "sv": "Putsare"
+    },
+    "tags": [
+      "craft=plasterer"
+    ]
+  },
+  {
+    "title": "Plumbers",
+    "translations": {
+      "ru": "Сантехники",
+      "cs": "Instalatéři",
+      "pt": "Canalizadores",
+      "sv": "Rörläggare / VVS-montörer"
+    },
+    "tags": [
+      "craft=plumber"
+    ]
+  },
+  {
+    "title": "Potteries",
+    "translations": {
+      "ru": "Гончарные мастерские",
+      "cs": "Hrnčířství / Keramické dílny",
+      "pt": "Olarias / Cerâmicas",
+      "sv": "Krukmakare"
+    },
+    "tags": [
+      "craft=pottery"
+    ]
+  },
+  {
+    "title": "Riggers",
+    "translations": {
+      "ru": "Такелажники",
+      "cs": "Riggeři (lanoví a zdvihací technika)",
+      "pt": "Aparelhadores / Mestres de takelagem",
+      "sv": "Riggare"
+    },
+    "tags": [
+      "craft=rigger"
+    ]
+  },
+  {
+    "title": "Roofers",
+    "translations": {
+      "ru": "Кровельщики",
+      "cs": "Pokrývači",
+      "pt": "Telhadores / Aplicadores de coberturas",
+      "sv": "Takläggare"
+    },
+    "tags": [
+      "craft=roofer"
+    ]
+  },
+  {
+    "title": "Saddlers",
+    "translations": {
+      "ru": "Шорники / Шорно-седельные мастера",
+      "cs": "Sedláři",
+      "pt": "Seleiros",
+      "sv": "Sadelmakare"
+    },
+    "tags": [
+      "craft=saddler"
+    ]
+  },
+
+    {
+    "title": "Sail makers",
+    "translations": {
+      "ru": "Шорники-парусники / Изготовление парусов",
+      "cs": "Vinaři plachet / Výrobci plachet",
+      "pt": "Veleiros / Fabricantes de velas",
+      "sv": "Segelmakare"
+    },
+    "tags": [
+      "craft=sailmaker"
+    ]
+  },
+  {
+    "title": "Sawmills",
+    "translations": {
+      "ru": "Лесопилки",
+      "cs": "Pily",
+      "pt": "Serras / Serrações",
+      "sv": "Sågverk"
+    },
+    "tags": [
+      "craft=sawmill"
+    ]
+  },
+  {
+    "title": "Scaffolders",
+    "translations": {
+      "ru": "Монтажники строительных лесов",
+      "cs": "Lešenáři",
+      "pt": "Montadores de andaimes",
+      "sv": "Ställningsbyggare"
+    },
+    "tags": [
+      "craft=scaffolder"
+    ]
+  },
+  {
+    "title": "Sculptors",
+    "translations": {
+      "ru": "Скульпторы",
+      "cs": "Sochaři",
+      "pt": "Escultores",
+      "sv": "Skulptörer"
+    },
+    "tags": [
+      "craft=sculptor"
+    ]
+  },
+  {
+    "title": "Shoemakers",
+    "translations": {
+      "ru": "Сапожники / Мастера по обуви",
+      "cs": "Obuvníci",
+      "pt": "Sapateiros",
+      "sv": "Skomakare"
+    },
+    "tags": [
+      "craft=shoemaker"
+    ]
+  },
+  {
+    "title": "Stand builders",
+    "translations": {
+      "ru": "Застройщики выставочных стендов",
+      "cs": "Stavebníci výstavních stánků",
+      "pt": "Construtores de stands",
+      "sv": "Monterbyggare"
+    },
+    "tags": [
+      "craft=stand_builder"
+    ]
+  },
+  {
+    "title": "Stonemason",
+    "translations": {
+      "ru": "Камнетесы",
+      "cs": "Kamenináři / Kamenosochaři",
+      "pt": "Mestres canteiros / Talhadores de pedra",
+      "sv": "Stenhuggare"
+    },
+    "tags": [
+      "craft=stonemason"
+    ]
+  },
+  {
+    "title": "Sun protections",
+    "translations": {
+      "ru": "Системы солнцезащиты (маркизы, жалюзи)",
+      "cs": "Protisluneční ochrana (markýzy, žaluzie)",
+      "pt": "Proteção solar / Toldos e estores",
+      "sv": "Solskydd (markiser, persienner)"
+    },
+    "tags": [
+      "craft=Sun protection"
+    ]
+  },
+
+    {
+    "title": "Sweeps",
+    "translations": {
+      "ru": "Трубочисты",
+      "cs": "Kominíci",
+      "pt": "Chaminés / Limpadores de chaminés",
+      "sv": "Sotare"
+    },
+    "tags": [
+      "craft=sweep"
+    ]
+  },
+  {
+    "title": "Tailors",
+    "translations": {
+      "ru": "Портные",
+      "cs": "Krejčí",
+      "pt": "Alfaiates",
+      "sv": "Skräddare"
+    },
+    "tags": [
+      "craft=tailor"
+    ]
+  },
+  {
+    "title": "Tilers",
+    "translations": {
+      "ru": "Плиточники",
+      "cs": "Obkladači",
+      "pt": "Azulejadores / Aplicadores de ladrilhos",
+      "sv": "Plattsättare"
+    },
+    "tags": [
+      "craft=tiler"
+    ]
+  },
+  {
+    "title": "Tinsmiths",
+    "translations": {
+      "ru": "Жестянщики",
+      "cs": "Klempíři",
+      "pt": "Ferreiros de lata / Latoeiros",
+      "sv": "Plåtslagare"
+    },
+    "tags": [
+      "craft=tinsmith"
+    ]
+  },
+  {
+    "title": "Upholsterers",
+    "translations": {
+      "ru": "Обойщики мебели",
+      "cs": "Čalouníci",
+      "pt": "Estofadores",
+      "sv": "Tapetserare"
+    },
+    "tags": [
+      "craft=upholsterer"
+    ]
+  },
+  {
+    "title": "Watchmakers",
+    "translations": {
+      "ru": "Часовые мастера",
+      "cs": "Hodináři",
+      "pt": "Relojoeiros",
+      "sv": "Urmakare"
+    },
+    "tags": [
+      "craft=watchmaker"
+    ]
+  },
+  {
+    "title": "Emergency",
+    "translations": {
+      "ru": "Чрезвычайные ситуации и экстренная помощь",
+      "cs": "Pohotovost / Nouzové situace",
+      "pt": "Emergência",
+      "sv": "Nödsituationer"
+    },
+    "tags": []
+  },
+  {
+    "title": "Ambulance stations",
+    "translations": {
+      "ru": "Станции скорой помощи",
+      "cs": "Stanice záchranné služby",
+      "pt": "Postos de ambulâncias",
+      "sv": "Ambulansstationer"
+    },
+    "tags": [
+      "emergency=ambulance_station"
+    ]
+  },
+  {
+    "title": "Fire extinguishers",
+    "translations": {
+      "ru": "Огнетушители",
+      "cs": "Hasičské přístroje",
+      "pt": "Extintores de incêndio",
+      "sv": "Brandsläckare"
+    },
+    "tags": [
+      "emergency=fire_extinguisher"
+    ]
+  },
+
+    {
+    "title": "Fire flappers",
+    "translations": {
+      "ru": "Хлопушки для тушения пожаров (противопожарные хлопушки)",
+      "cs": "Požární plácačky",
+      "pt": "Abafadores de fogo",
+      "sv": "Brandmockar / Eldmockor"
+    },
+    "tags": [
+      "emergency=fire_flapper"
+    ]
+  },
+  {
+    "title": "Fire hoses",
+    "translations": {
+      "ru": "Пожарные рукава",
+      "cs": "Požární hadice",
+      "pt": "Mangueiras de incêndio",
+      "sv": "Brandslangar"
+    },
+    "tags": [
+      "emergency=Fire hose"
+    ]
+  },
+  {
+    "title": "Fire hydrants",
+    "translations": {
+      "ru": "Пожарные гидранты",
+      "cs": "Požární hydranty",
+      "pt": "Hidrantes de incêndio",
+      "sv": "Brandpost"
+    },
+    "tags": [
+      "emergency=fire_hydrant"
+    ]
+  },
+  {
+    "title": "Emergency phones",
+    "translations": {
+      "ru": "Телефоны экстренной связи",
+      "cs": "Hlásky tísňového volání",
+      "pt": "Telefones de emergência",
+      "sv": "Nödtelefoner"
+    },
+    "tags": [
+      "emergency=phone"
+    ]
+  },
+  {
+    "title": "SES stations",
+    "translations": {
+      "ru": "Станции аварийно-спасательной службы (SES)",
+      "cs": "Stanice záchranné služby (SES)",
+      "pt": "Postos de serviços de emergência (SES)",
+      "sv": "Räddningskårstationer (SES)"
+    },
+    "tags": [
+      "emergency=ses_station"
+    ]
+  },
+  {
+    "title": "Sirens",
+    "translations": {
+      "ru": "Сирены тревоги",
+      "cs": "Poplachové sirény",
+      "pt": "Sirenes de alarme",
+      "sv": "Varningssirener"
+    },
+    "tags": [
+      "emergency=siren"
+    ]
+  },
+  {
+    "title": "Geological",
+    "translations": {
+      "ru": "Геологические объекты",
+      "cs": "Geologické prvky",
+      "pt": "Geologia",
+      "sv": "Geologiska objekt"
+    },
+    "tags": []
+  },
+  {
+    "title": "Outcrops",
+    "translations": {
+      "ru": "Геологические обнажения",
+      "cs": "Skalní výchozy",
+      "pt": "Afloramentos geológicos",
+      "sv": "Hällar / Berghällar"
+    },
+    "tags": [
+      "geological=outcrop"
+    ]
+  },
+  {
+    "title": "Paleontological sites",
+    "translations": {
+      "ru": "Палеонтологические памятники",
+      "cs": "Paleontologická naleziště",
+      "pt": "Sítios paleontológicos",
+      "sv": "Paleontologiska platser"
+    },
+    "tags": [
+      "geological=paleontological"
+    ]
+  },
+  {
+    "title": "Highway",
+    "translations": {
+      "ru": "Дорожная сеть и автомагистрали",
+      "cs": "Silniční síť",
+      "pt": "Rede viária / Rodovias",
+      "sv": "Vägar och motorvägar"
+    },
+    "tags": []
+  },
+
+    {
+    "title": "Bus stops",
+    "translations": {
+      "ru": "Остановки автобусов",
+      "cs": "Autobusové zastávky",
+      "pt": "Paragens de autocarro",
+      "sv": "Busshållplatser"
+    },
+    "tags": [
+      "highway=bus_stop",
+      "highway=crossing",
+      "highway=emergency_access_point",
+      "highway=ford",
+      "highway=give_way",
+      "highway=mini_roundabout",
+      "highway=motorway_junction",
+      "highway=passing_place"
+    ]
+  },
+  {
+    "title": "Rest areas",
+    "translations": {
+      "ru": "Зоны отдыха",
+      "cs": "Odpočívadla",
+      "pt": "Áreas de descanso",
+      "sv": "Rastplatser"
+    },
+    "tags": [
+      "highway=rest_area"
+    ]
+  },
+  {
+    "title": "Speed cameras",
+    "translations": {
+      "ru": "Камеры контроля скорости",
+      "cs": "Radarové měření rychlosti",
+      "pt": "Radar de controlo de velocidade",
+      "sv": "Fartkameror"
+    },
+    "tags": [
+      "highway=speed_camera",
+      "highway=street_lamp",
+      "highway=stop",
+      "highway=traffic_signal",
+      "highway=turning_cycle",
+      "highway=bridleway",
+      "highway=bus_guideway",
+      "highway=byway",
+      "highway=construction",
+      "highway=cycleway",
+      "highway=footway",
+      "highway=living_street",
+      "highway=motorway",
+      "highway=motorway_link",
+      "highway=path",
+      "highway=pedestrian",
+      "highway=primary",
+      "highway=primary_link",
+      "highway=raceway",
+      "highway=residential",
+      "highway=road",
+      "highway=secondary",
+      "highway=secondary_link",
+      "highway=service",
+      "highway=steps",
+      "highway=tertiary",
+      "highway=tertiary_link",
+      "highway=track",
+      "highway=trunk",
+      "highway=trunk_link",
+      "highway=unclassified"
+    ]
+  },
+  {
+    "title": "Historic",
+    "translations": {
+      "ru": "Исторические объекты",
+      "cs": "Historické památky",
+      "pt": "Histórico",
+      "sv": "Historiskt"
+    },
+    "tags": []
+  },
+  {
+    "title": "Archaeological sites",
+    "translations": {
+      "ru": "Археологические памятники",
+      "cs": "Archeologická naleziště",
+      "pt": "Sítios arqueológicos",
+      "sv": "Fornlämningar / Arkeologiska platser"
+    },
+    "tags": [
+      "historic=archaeological_site"
+    ]
+  },
+
+    {
+    "title": "Battlefields",
+    "translations": {
+      "ru": "Поля сражений",
+      "cs": "Bojiště",
+      "pt": "Campos de batalha",
+      "sv": "Slagfält"
+    },
+    "tags": [
+      "historic=battlefield"
+    ]
+  },
+  {
+    "title": "Boundary stones",
+    "translations": {
+      "ru": "Пограничные камни",
+      "cs": "Hraniční kameny",
+      "pt": "Marcos de fronteira / Pedras de limite",
+      "sv": "Röse / Gränsstenar"
+    },
+    "tags": [
+      "historic=Boundary stone"
+    ]
+  },
+  {
+    "title": "Castles",
+    "translations": {
+      "ru": "Замки",
+      "cs": "Hrady",
+      "pt": "Castelos",
+      "sv": "Borgar / Slott"
+    },
+    "tags": [
+      "historic=castle"
+    ]
+  },
+  {
+    "title": "City gates",
+    "translations": {
+      "ru": "Городские ворота",
+      "cs": "Městské brány",
+      "pt": "Portas da cidade",
+      "sv": "Stadsportar"
+    },
+    "tags": [
+      "historic=city gate"
+    ]
+  },
+  {
+    "title": "Forts",
+    "translations": {
+      "ru": "Форты / Крепости",
+      "cs": "Pevnosti / Fortifikace",
+      "pt": "Fortes",
+      "sv": "Fästningar / Fort"
+    },
+    "tags": [
+      "historic=fort"
+    ]
+  },
+  {
+    "title": "Memorials",
+    "translations": {
+      "ru": "Мемориалы / Памятные знаки",
+      "cs": "Památníky",
+      "pt": "Monumentos comemorativos / Memoriais",
+      "sv": "Minnesmärken"
+    },
+    "tags": [
+      "historic=memorial"
+    ]
+  },
+  {
+    "title": "Monuments",
+    "translations": {
+      "ru": "Монументы",
+      "cs": "Monumenty / Sochy",
+      "pt": "Monumentos",
+      "sv": "Monument"
+    },
+    "tags": [
+      "historic=monument"
+    ]
+  },
+  {
+    "title": "Ruins",
+    "translations": {
+      "ru": "Руины",
+      "cs": "Zříceniny",
+      "pt": "Ruínas",
+      "sv": "Ruin"
+    },
+    "tags": [
+      "historic=ruins"
+    ]
+  },
+
+    {
+    "title": "Rune stones",
+    "translations": {
+      "ru": "Рунные камни",
+      "cs": "Runové kameny",
+      "pt": "Pedras rúnicas",
+      "sv": "Runstenar"
+    },
+    "tags": [
+      "historic=runes_stone"
+    ]
+  },
+  {
+    "title": "Wayside crosses",
+    "translations": {
+      "ru": "Придорожные кресты",
+      "cs": "Boží muka / Kříže u cesty",
+      "pt": "Cruzes de caminho",
+      "sv": "Vägkors"
+    },
+    "tags": [
+      "historic=wayside_cross"
+    ]
+  },
+  {
+    "title": "Wayside shrines",
+    "translations": {
+      "ru": "Придорожные часовни / Святилища",
+      "cs": "Kapličky / Boží muka u cesty",
+      "pt": "Alminhas / Ermidas de caminho",
+      "sv": "Bönehus / Vägkapell"
+    },
+    "tags": [
+      "historic=wayside_shrine"
+    ]
+  },
+  {
+    "title": "Wrecks",
+    "translations": {
+      "ru": "Затонувшие корабли (обломки судов)",
+      "cs": "Vraky",
+      "pt": "Naufrágios / Destroços",
+      "sv": "Vrak"
+    },
+    "tags": [
+      "historic=wreck"
+    ]
+  },
+  {
+    "title": "Leisure",
+    "translations": {
+      "ru": "Отдых и досуг",
+      "cs": "Volný čas / Rekreace",
+      "pt": "Lazer",
+      "sv": "Friluftsliv och rekreation"
+    },
+    "tags": [
+      "leisure=common"
+    ]
+  },
+  {
+    "title": "Dancing places",
+    "translations": {
+      "ru": "Площадки для танцев",
+      "cs": "Taneční parkety / Místa k tanci",
+      "pt": "Locais de dança",
+      "sv": "Dansbanor"
+    },
+    "tags": [
+      "leisure=dance"
+    ]
+  },
+  {
+    "title": "Dog parks",
+    "translations": {
+      "ru": "Площадки для выгула собак",
+      "cs": "Výběhy pro psy",
+      "pt": "Parques para cães",
+      "sv": "Hundrastgårdar"
+    },
+    "tags": [
+      "leisure=dog_park"
+    ]
+  },
+  {
+    "title": "Fishing sites",
+    "translations": {
+      "ru": "Места для рыбалки",
+      "cs": "Rybářská místa",
+      "pt": "Locais de pesca",
+      "sv": "Fiskeplatser"
+    },
+    "tags": [
+      "leisure=fishing"
+    ]
+  },
+  {
+    "title": "Gardens",
+    "translations": {
+      "ru": "Сады и парки",
+      "cs": "Zahrady",
+      "pt": "Jardins",
+      "sv": "Trädgårdar"
+    },
+    "tags": [
+      "leisure=garden"
+    ]
+  },
+
+    {
+    "title": "Golf courses",
+    "translations": {
+      "ru": "Поля для гольфа",
+      "cs": "Golfová hřiště",
+      "pt": "Campos de golfe",
+      "sv": "Golfbanor"
+    },
+    "tags": [
+      "leisure=golf_course"
+    ]
+  },
+  {
+    "title": "Ice rinks",
+    "translations": {
+      "ru": "Катки",
+      "cs": "Zimní stadiony / Kluziště",
+      "pt": "Pistas de gelo",
+      "sv": "Ishallar / Skridskobanor"
+    },
+    "tags": [
+      "leisure=ice_rink"
+    ]
+  },
+  {
+    "title": "Marinas",
+    "translations": {
+      "ru": "Яхтенные порты и марины",
+      "cs": "Jachetní přístavy (mariny)",
+      "pt": "Marinas / Portos de recreio",
+      "sv": "Gästhamnar / Marina"
+    },
+    "tags": [
+      "leisure=marina"
+    ]
+  },
+  {
+    "title": "Miniature golf places",
+    "translations": {
+      "ru": "Мини-гольф",
+      "cs": "Minigolfová hřiště",
+      "pt": "Minigolfe",
+      "sv": "Minigolfbanor"
+    },
+    "tags": [
+      "leisure=miniature_golf"
+    ]
+  },
+  {
+    "title": "Nature reserves",
+    "translations": {
+      "ru": "Природные заповедники",
+      "cs": "Přírodní rezervace",
+      "pt": "Reservas naturais",
+      "sv": "Naturreservat"
+    },
+    "tags": [
+      "leisure=nature_reserve"
+    ]
+  },
+  {
+    "title": "Parks",
+    "translations": {
+      "ru": "Парки",
+      "cs": "Parky",
+      "pt": "Parques",
+      "sv": "Parker"
+    },
+    "tags": [
+      "leisure=park"
+    ]
+  },
+  {
+    "title": "Pitches",
+    "translations": {
+      "ru": "Спортивные площадки (поля для игр)",
+      "cs": "Sportovní hřiště",
+      "pt": "Campos de jogos / Desportivos",
+      "sv": "Idrottsplaner / Bollplaner"
+    },
+    "tags": [
+      "leisure=pitch"
+    ]
+  },
+  {
+    "title": "Playgrounds",
+    "translations": {
+      "ru": "Детские площадки",
+      "cs": "Dětská hřiště",
+      "pt": "Parques infantiles / Parques de diversão infantil",
+      "sv": "Lekplatser"
+    },
+    "tags": [
+      "leisure=playground"
+    ]
+  },
+  {
+    "title": "Slipways",
+    "translations": {
+      "ru": "Лодочные слипы (спуска на воду)",
+      "cs": "Lodní sjezdy (slipy)",
+      "pt": "Placas de lançamento de barcos / Slipways",
+      "sv": "Båtslippar"
+    },
+    "tags": [
+      "leisure=slipway"
+    ]
+  },
+
+    {
+    "title": "Sports centres",
+    "translations": {
+      "ru": "Спортивные центры",
+      "cs": "Sportovní centra",
+      "pt": "Centros desportivos",
+      "sv": "Idrottsanläggningar / Sportcentra"
+    },
+    "tags": [
+      "leisure=sports_centre"
+    ]
+  },
+  {
+    "title": "Stadiums",
+    "translations": {
+      "ru": "Стадионы",
+      "cs": "Stadiony",
+      "pt": "Estádios",
+      "sv": "Stadion / Arenor"
+    },
+    "tags": [
+      "leisure=stadium"
+    ]
+  },
+  {
+    "title": "Swimming pools",
+    "translations": {
+      "ru": "Бассейны",
+      "cs": "Plavecké bazény",
+      "pt": "Piscinas",
+      "sv": "Simbassänger / Badhus"
+    },
+    "tags": [
+      "leisure=swimming_pool"
+    ]
+  },
+  {
+    "title": "Tracks",
+    "translations": {
+      "ru": "Беговые и спортивные дорожки",
+      "cs": "Sportovní dráhy / Okruhy",
+      "pt": "Pistas de corrida / Desportivas",
+      "sv": "Löpbanor / Idrottsspår"
+    },
+    "tags": [
+      "leisure=track"
+    ]
+  },
+  {
+    "title": "Water parks",
+    "translations": {
+      "ru": "Аквапарки",
+      "cs": "Akvaparky",
+      "pt": "Parques aquáticos",
+      "sv": "Äventyrsbad / Vattenland"
+    },
+    "tags": [
+      "leisure=water_park"
+    ]
+  },
+  {
+    "title": "Man Made",
+    "translations": {
+      "ru": "Искусственные сооружения",
+      "cs": "Utvařené stavby / Lidské výtvory",
+      "pt": "Estruturas artificiais",
+      "sv": "Människorskapat"
+    },
+    "tags": []
+  },
+  {
+    "title": "Adits",
+    "translations": {
+      "ru": "Горные штольни",
+      "cs": "Důlní štoly",
+      "pt": "Galerias de minas / Adições",
+      "sv": "Stollar / Gruvgångar"
+    },
+    "tags": [
+      "man_made=adit"
+    ]
+  },
+  {
+    "title": "Beacons",
+    "translations": {
+      "ru": "Навигационные знаки / Маяки",
+      "cs": "Navigační majáky / Sdělovače",
+      "pt": "Faróis de navegação / Balizas",
+      "sv": "Båkar / Navigationsmärken"
+    },
+    "tags": [
+      "man_made=beacon"
+    ]
+  },
+  {
+    "title": "Chimneys",
+    "translations": {
+      "ru": "Промышленные трубы и мачты",
+      "cs": "Komíny a průmyslové věže",
+      "pt": "Chaminés industriais",
+      "sv": "Industriskorstenar"
+    },
+    "tags": [
+      "man_made=chimney",
+      "man_made=crane",
+      "man_made=flagpole"
+    ]
+  },
+
+    {
+    "title": "Lighthouses",
+    "translations": {
+      "ru": "Маяки",
+      "cs": "Majáky",
+      "pt": "Faróis",
+      "sv": "Fyrar"
+    },
+    "tags": [
+      "man_made=lighthouse"
+    ]
+  },
+  {
+    "title": "Mineshafts",
+    "translations": {
+      "ru": "Шактовые стволы и мониторинговые станции",
+      "cs": "Důlní šachty a měřicí stanice",
+      "pt": "Poços de mina / Estações de monitorização",
+      "sv": "Gruvschakt och mätstationer"
+    },
+    "tags": [
+      "man_made=mineshaft",
+      "man_made=monitoring_station"
+    ]
+  },
+  {
+    "title": "Petroleum wells",
+    "translations": {
+      "ru": "Нефтяные скважины",
+      "cs": "Ropné vrty",
+      "pt": "Poços de petróleo",
+      "sv": "Oljekällor / Oljeborrningshål"
+    },
+    "tags": [
+      "man_made=petroleum_well"
+    ]
+  },
+  {
+    "title": "Covered water reservoirs",
+    "translations": {
+      "ru": "Крытые резервуары для воды и хранилища",
+      "cs": "Kryté vodní nádrže a zásobníky",
+      "pt": "Reservatórios de água cobertos / Tanques",
+      "sv": "Täckta vattenreservoarer och cisterner"
+    },
+    "tags": [
+      "man_made=reservoir_covered",
+      "man_made=storage tank",
+      "man_made=surveillance"
+    ]
+  },
+  {
+    "title": "Survey points",
+    "translations": {
+      "ru": "Геодезические пункты",
+      "cs": "Geodetické body",
+      "pt": "Pontos geodésicos / Marcos topográficos",
+      "sv": "Triangelpunkter / Fixpunkter"
+    },
+    "tags": [
+      "man_made=survey_point"
+    ]
+  },
+  {
+    "title": "Towers",
+    "translations": {
+      "ru": "Башни, вышки связи и наблюдения",
+      "cs": "Věže, komunikační a vyhlídkové věže",
+      "pt": "Torres de comunicação e observação",
+      "sv": "Torn, kommunikations- och utsiktstorn"
+    },
+    "tags": [
+      "man_made=tower",
+      "tower=communication",
+      "tower=observation"
+    ]
+  },
+  {
+    "title": "Wastewater plants",
+    "translations": {
+      "ru": "Очистные сооружения",
+      "cs": "Čistírny odpadních vod",
+      "pt": "Estações de tratamento de águas residuais (ETAR)",
+      "sv": "Reningsverk"
+    },
+    "tags": [
+      "man_made=wastewater_plant"
+    ]
+  },
+  {
+    "title": "Watermills",
+    "translations": {
+      "ru": "Водяные мельницы",
+      "cs": "Vodní mlýny",
+      "pt": "Azenhas / Moinhos de água",
+      "sv": "Vattenkvarnar"
+    },
+    "tags": [
+      "man_made=watermill"
+    ]
+  },
+  {
+    "title": "Water towers",
+    "translations": {
+      "ru": "Водонапорные башни",
+      "cs": "Vodárenské věže",
+      "pt": "Torres de água",
+      "sv": "Vattentorn"
+    },
+    "tags": [
+      "man_made=water_tower"
+    ]
+  },
+
+    {
+    "title": "Water works",
+    "translations": {
+      "ru": "Водоочистные станции / Водопроводные сооружения",
+      "cs": "Úpravny vody / Vodárny",
+      "pt": "Estações de tratamento de água / ETAP",
+      "sv": "Vattenverk"
+    },
+    "tags": [
+      "man_made=water_works"
+    ]
+  },
+  {
+    "title": "Water well",
+    "translations": {
+      "ru": "Водяные скважины / Колодцы",
+      "cs": "Vodní vrt / Studna",
+      "pt": "Poço de água",
+      "sv": "Vattenbrunn"
+    },
+    "tags": [
+      "man_made=water_well"
+    ]
+  },
+  {
+    "title": "Windmills",
+    "translations": {
+      "ru": "Ветряные мельницы",
+      "cs": "Větrné mlýny",
+      "pt": "Moinhos de vento",
+      "sv": "Väderkvarnar"
+    },
+    "tags": [
+      "man_made=windmill",
+      "tower=windmill"
+    ]
+  },
+  {
+    "title": "Works",
+    "translations": {
+      "ru": "Промышленные предприятия / Заводы",
+      "cs": "Průmyslový závod / Továrna",
+      "pt": "Instalações industriais / Fábricas",
+      "sv": "Industrianläggning / Fabrik"
+    },
+    "tags": [
+      "man_made=works"
+    ]
+  },
+  {
+    "title": "Military",
+    "translations": {
+      "ru": "Военные объекты",
+      "cs": "Vojenské objekty",
+      "pt": "Militar",
+      "sv": "Militärt"
+    },
+    "tags": []
+  },
+  {
+    "title": "Military Airfields",
+    "translations": {
+      "ru": "Военные аэродромы",
+      "cs": "Vojenská letiště",
+      "pt": "Aeródromos militares",
+      "sv": "Militära flygfält"
+    },
+    "tags": [
+      "military=airfield"
+    ]
+  },
+  {
+    "title": "Bunkers",
+    "translations": {
+      "ru": "Бункеры",
+      "cs": "Bunkry",
+      "pt": "Bunkers",
+      "sv": "Bunkrar"
+    },
+    "tags": [
+      "military=bunker"
+    ]
+  },
+  {
+    "title": "Barracks",
+    "translations": {
+      "ru": "Казармы",
+      "cs": "Vojenské kasárny",
+      "pt": "Quarteis / Quartéis militares",
+      "sv": "Kasern / Militärförläggning"
+    },
+    "tags": [
+      "military=barrack"
+    ]
+  },
+
+    {
+    "title": "Dangerous Areas",
+    "translations": {
+      "ru": "Опасные зоны / Военные полигоны",
+      "cs": "Nebezpečné oblasti",
+      "pt": "Áreas perigosas / Zonas militares restritas",
+      "sv": "Farliga områden"
+    },
+    "tags": [
+      "military=danger_area"
+    ]
+  },
+  {
+    "title": "Naval bases",
+    "translations": {
+      "ru": "Военно-морские базы",
+      "cs": "Námorné základny",
+      "pt": "Bases navais",
+      "sv": "Flrlogen / Örlogsbaser"
+    },
+    "tags": [
+      "military=naval_base"
+    ]
+  },
+  {
+    "title": "Firing / bombing ranges",
+    "translations": {
+      "ru": "Стрельбища и полигоны для бомбометания",
+      "cs": "Střelnice a bombardovací cvičiště",
+      "pt": "Campos de tiro / Polígonos de tiro e bombardeamento",
+      "sv": "Skjutbanor / Militära skjutfält"
+    },
+    "tags": [
+      "military=range"
+    ]
+  },
+  {
+    "title": "Natural",
+    "translations": {
+      "ru": "Природные объекты",
+      "cs": "Přírodní útvary",
+      "pt": "Natural",
+      "sv": "Natur"
+    },
+    "tags": []
+  },
+  {
+    "title": "Peak",
+    "translations": {
+      "ru": "Горные вершины",
+      "cs": "Horský vrchol",
+      "pt": "Pico / Cume",
+      "sv": "Bergstopp / Fjälltopp"
+    },
+    "tags": [
+      "natural=peak"
+    ]
+  },
+  {
+    "title": "Mountain pass",
+    "translations": {
+      "ru": "Горные перевалы",
+      "cs": "Horské sedlo",
+      "pt": "Passo de montanha / Col",
+      "sv": "Bergspass"
+    },
+    "tags": [
+      "mountain_pass=yes"
+    ]
+  },
+  {
+    "title": "Volcano",
+    "translations": {
+      "ru": "Вулканы",
+      "cs": "Sopka / Vulkán",
+      "pt": "Vulcão",
+      "sv": "Vulkan"
+    },
+    "tags": [
+      "natural=volcano"
+    ]
+  },
+  {
+    "title": "Geyser",
+    "translations": {
+      "ru": "Гейзеры",
+      "cs": "Gejzír",
+      "pt": "Geiser",
+      "sv": "Gejser"
+    },
+    "tags": [
+      "natural=geyser"
+    ]
+  },
+  {
+    "title": "Spring",
+    "translations": {
+      "ru": "Природные родники и источники",
+      "cs": "Přírodní pramen",
+      "pt": "Nascente / Fonte natural",
+      "sv": "Källa / Vattenkälla"
+    },
+    "tags": [
+      "natural=spring"
+    ]
+  },
+  {
+    "title": "Office",
+    "translations": {
+      "ru": "Офисы (бухгалтерия и услуги)",
+      "cs": "Kanceláře (účetní a služby)",
+      "pt": "Escritórios (contabilidade)",
+      "sv": "Kontor (redovisning)"
+    },
+    "tags": [
+      "office=accountant"
+    ]
+  },
+
+    {
+    "title": "Administrative",
+    "translations": {
+      "ru": "Административные офисы",
+      "cs": "Administrativní kanceláře",
+      "pt": "Escritórios administrativos",
+      "sv": "Administrativa kontor"
+    },
+    "tags": [
+      "office=administrative",
+      "office=",
+      "office=camping",
+      "office=company",
+      "office=educational_institution",
+      "office=employment_agency",
+      "office=estate_agent"
+    ]
+  },
+  {
+    "title": "Government",
+    "translations": {
+      "ru": "Государственные учреждения и компании",
+      "cs": "Vládní a firemní kanceláře",
+      "pt": "Governo e empresas",
+      "sv": "Statliga och företagsrelaterade kontor"
+    },
+    "tags": [
+      "office=government",
+      "office=insurance",
+      "office=it",
+      "office=lawyer",
+      "office=newspaper",
+      "office=ngo",
+      "office=political_party",
+      "office=quango",
+      "office=research",
+      "office=telecommunication"
+    ]
+  },
+  {
+    "title": "Travel agents",
+    "translations": {
+      "ru": "Туристические агентства",
+      "cs": "Cestovní kanceláře",
+      "pt": "Agências de viagens",
+      "sv": "Resebyråer"
+    },
+    "tags": [
+      "office=travel_agent"
+    ]
+  },
+  {
+    "title": "Places",
+    "translations": {
+      "ru": "Населенные пункты и места",
+      "cs": "Místa a sídla",
+      "pt": "Lugares",
+      "sv": "Platser"
+    },
+    "tags": []
+  },
+  {
+    "title": "Cities",
+    "translations": {
+      "ru": "Города",
+      "cs": "Velkoměsta / Města",
+      "pt": "Cidades",
+      "sv": "Städer"
+    },
+    "tags": [
+      "place=city"
+    ]
+  },
+  {
+    "title": "Towns",
+    "translations": {
+      "ru": "Малые города и районы",
+      "cs": "Města a městské čtvrti",
+      "pt": "Vilas / Cidades de menor porte e bairros",
+      "sv": "Tätorter och stadsdelar"
+    },
+    "tags": [
+      "place=town",
+      "place=suburb",
+      "place=neighbourhood",
+      "place=neighborhood"
+    ]
+  },
+  {
+    "title": "Villages",
+    "translations": {
+      "ru": "Деревни и селки",
+      "cs": "Vsi / Vesnice",
+      "pt": "Aldeias",
+      "sv": "Byar"
+    },
+    "tags": [
+      "place=village"
+    ]
+  },
+  {
+    "title": "Hamlets",
+    "translations": {
+      "ru": "Хутора и выселки",
+      "cs": "Osady / Samoty",
+      "pt": "Lugarejos / Povoados",
+      "sv": "Småorter / Hemman"
+    },
+    "tags": [
+      "place=hamlet"
+    ]
+  },
+  {
+    "title": "Isolated dwellings",
+    "translations": {
+      "ru": "Уединенные жилища и фермы",
+      "cs": "Samoty a farmy",
+      "pt": "Habitações isoladas e quintas",
+      "sv": "Enstaka gårdar och bostäder"
+    },
+    "tags": [
+      "place=isolated_dwelling",
+      "place=farm"
+    ]
+  },
+  {
+    "title": "Public Transport",
+    "translations": {
+      "ru": "Общественный транспорт",
+      "cs": "Veřejná doprava",
+      "pt": "Transportes públicos",
+      "sv": "Kollektivtrafik"
+    },
+    "tags": []
+  },
+
+    {
+    "title": "Platforms",
+    "translations": {
+      "ru": "Платформы (остановочные платформы)",
+      "cs": "Nástupiště",
+      "pt": "Plataformas",
+      "sv": "Perronger / plattformar"
+    },
+    "tags": [
+      "public_transport=platform"
+    ]
+  },
+  {
+    "title": "Stations",
+    "translations": {
+      "ru": "Станции (транспортные узлы)",
+      "cs": "Dopravní stanice",
+      "pt": "Estações",
+      "sv": "Stationer"
+    },
+    "tags": [
+      "public_transport=station"
+    ]
+  },
+  {
+    "title": "Stop positions",
+    "translations": {
+      "ru": "Точки остановки транспорта",
+      "cs": "Pozice zastávek",
+      "pt": "Posições de paragem",
+      "sv": "Hållplatspositioner"
+    },
+    "tags": [
+      "public_transport=stop_position"
+    ]
+  },
+  {
+    "title": "Shop",
+    "translations": {
+      "ru": "Магазины и торговые точки",
+      "cs": "Obchody a prodejny",
+      "pt": "Lojas / Comércio",
+      "sv": "Butiker och affärer"
+    },
+    "tags": []
+  },
+  {
+    "title": "Alcohol",
+    "translations": {
+      "ru": "Магазины алкогольных напитков",
+      "cs": "Prodejny alkoholu",
+      "pt": "Loja de bebidas alcoólicas",
+      "sv": "Systembolag / Spirituosaaffärer"
+    },
+    "tags": [
+      "shop=alcohol"
+    ]
+  },
+  {
+    "title": "Anime",
+    "translations": {
+      "ru": "Магазины аниме и манги",
+      "cs": "Obchody s anime a mangou",
+      "pt": "Lojas de anime",
+      "sv": "Animebutiker"
+    },
+    "tags": [
+      "shop=anime"
+    ]
+  },
+  {
+    "title": "Baby goods",
+    "translations": {
+      "ru": "Товары для детей и младенцев",
+      "cs": "Potřeby pro děti / Kojenecké potřeby",
+      "pt": "Artigos para bebé",
+      "sv": "Babyartiklar"
+    },
+    "tags": [
+      "shop=baby_goods"
+    ]
+  },
+  {
+    "title": "Bakeries",
+    "translations": {
+      "ru": "Пекарни",
+      "cs": "Pekařství",
+      "pt": "Padarias",
+      "sv": "Bagerier"
+    },
+    "tags": [
+      "shop=bakery"
+    ]
+  },
+  {
+    "title": "Bathroom furnishing",
+    "translations": {
+      "ru": "Сантехника и товары для ванных комнат",
+      "cs": "Vybavení koupelen / Koupelnové studia",
+      "pt": "Equipamentos para casas de banho",
+      "sv": "Badrumsinredning"
+    },
+    "tags": [
+      "shop=bathroom_furnishing"
+    ]
+  },
+
+    {
+    "title": "Beauty",
+    "translations": {
+      "ru": "Салоны красоты и косметика",
+      "cs": "Kosmetický salon / Krása",
+      "pt": "Beleza / Salão de beleza",
+      "sv": "Skönhetssalong / Skönhetsvård"
+    },
+    "tags": [
+      "shop=beauty"
+    ]
+  },
+  {
+    "title": "Beds",
+    "translations": {
+      "ru": "Магазины матрасов и кроватей",
+      "cs": "Prodejny postelí a matrací",
+      "pt": "Lojas de camas e colchões",
+      "sv": "Sängaffärer / Sängvaruhus"
+    },
+    "tags": [
+      "shop=bed"
+    ]
+  },
+  {
+    "title": "Beverages",
+    "translations": {
+      "ru": "Магазины напитков",
+      "cs": "Prodejny nápojů",
+      "pt": "Lojas de bebidas",
+      "sv": "Dryckesaffärer"
+    },
+    "tags": [
+      "shop=beverages"
+    ]
+  },
+  {
+    "title": "Bicycles",
+    "translations": {
+      "ru": "Веломагазины",
+      "cs": "Cyklistické potřeby / Prodej kol",
+      "pt": "Lojas de bicicletas",
+      "sv": "Cykelaffärer"
+    },
+    "tags": [
+      "shop=bicycle"
+    ]
+  },
+  {
+    "title": "Books",
+    "translations": {
+      "ru": "Книжные магазины",
+      "cs": "Knihkupectví",
+      "pt": "Livrarias",
+      "sv": "Bokhandlar"
+    },
+    "tags": [
+      "shop=books"
+    ]
+  },
+  {
+    "title": "Boutiques",
+    "translations": {
+      "ru": "Бутики и модная одежда",
+      "cs": "Butiky",
+      "pt": "Butiques",
+      "sv": "Boutiquer"
+    },
+    "tags": [
+      "shop=boutique"
+    ]
+  },
+  {
+    "title": "Butchers",
+    "translations": {
+      "ru": "Мясные лавки",
+      "cs": "Řeznictví",
+      "pt": "Talhos",
+      "sv": "Slakterier / Charkuterier"
+    },
+    "tags": [
+      "shop=butcher"
+    ]
+  },
+  {
+    "title": "Cars",
+    "translations": {
+      "ru": "Автосалоны",
+      "cs": "Autosalony",
+      "pt": "Stand de automóveis / Concessionários",
+      "sv": "Bilaffärer / Bilhandlare"
+    },
+    "tags": [
+      "shop=car"
+    ]
+  },
+  {
+    "title": "Car repairs",
+    "translations": {
+      "ru": "Автомастерские и ремонт автомобилей",
+      "cs": "Autoservisy",
+      "pt": "Oficinas de automóveis",
+      "sv": "Bilverkstäder"
+    },
+    "tags": [
+      "shop=car_repair"
+    ]
+  },
+  {
+    "title": "Car parts",
+    "translations": {
+      "ru": "Автозапчасти",
+      "cs": "Autodíly",
+      "pt": "Peças para automóveis",
+      "sv": "Bildelar"
+    },
+    "tags": [
+      "shop=car_parts"
+    ]
+  },
+
+    {
+    "title": "Carpets",
+    "translations": {
+      "ru": "Магазины ковров",
+      "cs": "Prodejny koberců",
+      "pt": "Lojas de tapetes",
+      "sv": "Mattaffärer / Mattor"
+    },
+    "tags": [
+      "shop=carpet"
+    ]
+  },
+  {
+    "title": "Charity",
+    "translations": {
+      "ru": "Благотворительные магазины",
+      "cs": "Charitativní obchody",
+      "pt": "Lojas de solidariedade / Instituições de caridade",
+      "sv": "Second hand / Välgörenhetsbutiker"
+    },
+    "tags": [
+      "shop=charity"
+    ]
+  },
+  {
+    "title": "Chemists",
+    "translations": {
+      "ru": "Магазины бытовой химии и аптечные товары",
+      "cs": "Drogérie",
+      "pt": "Drogaria e perfumaria",
+      "sv": "Droghandel / Apotek"
+    },
+    "tags": [
+      "shop=chemist",
+      "shop=drugstore"
+    ]
+  },
+  {
+    "title": "Clothes",
+    "translations": {
+      "ru": "Магазины одежды",
+      "cs": "Obchody s oblečením",
+      "pt": "Lojas de vestuário / Roupa",
+      "sv": "Klädbutiker"
+    },
+    "tags": [
+      "shop=clothes"
+    ]
+  },
+  {
+    "title": "Computers",
+    "translations": {
+      "ru": "Компьютерные магазины",
+      "cs": "Počítačové obchody",
+      "pt": "Lojas de informática",
+      "sv": "Datoraffärer"
+    },
+    "tags": [
+      "shop=computer"
+    ]
+  },
+  {
+    "title": "Confectionery shops",
+    "translations": {
+      "ru": "Кондитерские магазины",
+      "cs": "Cukrárny / Prodejny cukrovinek",
+      "pt": "Confeitarias / Lojas de doces",
+      "sv": "Konfektyraffärer / Godisbutiker"
+    },
+    "tags": [
+      "shop=confectionery"
+    ]
+  },
+  {
+    "title": "Convenience",
+    "translations": {
+      "ru": "Магазины у дома / Продукты",
+      "cs": "Smíšené zboží / Večerky",
+      "pt": "Lojas de conveniência / Mercearias",
+      "sv": "Närbutiker / Livsmedelsbutiker"
+    },
+    "tags": [
+      "shop=convenience"
+    ]
+  },
+  {
+    "title": "Copyshops",
+    "translations": {
+      "ru": "Копировальные центры и печать",
+      "cs": "Kopírovací centrum / Copycentrum",
+      "pt": "Centros de cópias / Reprografias",
+      "sv": "Kopieringsbyråer / Copy shopen"
+    },
+    "tags": [
+      "shop=copyshop"
+    ]
+  },
+
+    {
+    "title": "Curtains",
+    "translations": {
+      "ru": "Салоны штор и портьер",
+      "cs": "Prodejny záclon a závěsů",
+      "pt": "Lojas de cortinados",
+      "sv": "Gardinaffärer"
+    },
+    "tags": [
+      "shop=curtain"
+    ]
+  },
+  {
+    "title": "Delis",
+    "translations": {
+      "ru": "Деликатесы и гастрономия",
+      "cs": "Lahůdky",
+      "pt": "Delicatessens / Charcutarias finas",
+      "sv": "Delikatessaffärer"
+    },
+    "tags": [
+      "shop=deli"
+    ]
+  },
+  {
+    "title": "Department stores",
+    "translations": {
+      "ru": "Универмаги",
+      "cs": "Obchodní domy",
+      "pt": "Grandes armazéns / Lojas de departamento",
+      "sv": "Varuhus"
+    },
+    "tags": [
+      "shop=department_store"
+    ]
+  },
+  {
+    "title": "Dives",
+    "translations": {
+      "ru": "Магазины снаряжения для дайвинга",
+      "cs": "Potápěčské potřeby",
+      "pt": "Lojas de mergulho",
+      "sv": "Dykutrustning / Dykaffärer"
+    },
+    "tags": [
+      "shop=dive"
+    ]
+  },
+  {
+    "title": "Dry cleaning",
+    "translations": {
+      "ru": "Химчистки",
+      "cs": "Čistírny oděvů",
+      "pt": "Limpeza a seco / Lavandarias",
+      "sv": "Kemtvätt"
+    },
+    "tags": [
+      "shop=dry_cleaning"
+    ]
+  },
+  {
+    "title": "DIY",
+    "translations": {
+      "ru": "Магазины «Сделай сам» / Строительные гипермаркеты",
+      "cs": "Hobby markety / Udělej si sám",
+      "pt": "Bricolage / Lojas de bricolage e materiais",
+      "sv": "Gör-det-själv / Byggvaruhus"
+    },
+    "tags": [
+      "shop=doityourself",
+      "shop=trade"
+    ]
+  },
+  {
+    "title": "Electronics",
+    "translations": {
+      "ru": "Магазины электроники",
+      "cs": "Prodejny elektroniky",
+      "pt": "Lojas de eletrónica",
+      "sv": "Elektronikaffärer"
+    },
+    "tags": [
+      "shop=electronics"
+    ]
+  },
+
+    {
+    "title": "Erotic",
+    "translations": {
+      "ru": "Секс-шопы / Магазины для взрослых",
+      "cs": "Erotické pomůcky / Sexshop",
+      "pt": "Lojas eróticas / Sex shops",
+      "sv": "Sexbutiker"
+    },
+    "tags": [
+      "shop=erotic"
+    ]
+  },
+  {
+    "title": "Fabric",
+    "translations": {
+      "ru": "Магазины тканей",
+      "cs": "Prodejny látek a textilu",
+      "pt": "Lojas de tecidos",
+      "sv": "Tygaffärer"
+    },
+    "tags": [
+      "shop=fabric"
+    ]
+  },
+  {
+    "title": "Farms",
+    "translations": {
+      "ru": "Фермерские магазины / Продажа с ферм",
+      "cs": "Farmářské obchody / Prodej ze dvora",
+      "pt": "Lojas agrícolas / Venda direta da quinta",
+      "sv": "Gårdsbutiker"
+    },
+    "tags": [
+      "shop=farm"
+    ]
+  },
+  {
+    "title": "Florists",
+    "translations": {
+      "ru": "Цветочные магазины",
+      "cs": "Květinářství",
+      "pt": "Floristas",
+      "sv": "Blomsteraffärer / Blomsterhandlare"
+    },
+    "tags": [
+      "shop=florist"
+    ]
+  },
+  {
+    "title": "Frames",
+    "translations": {
+      "ru": "Багетные мастерские / Рамы для картин",
+      "cs": "Rámování obrazů / Prodej rámečků",
+      "pt": "Molduras / Lojas de emolduramento",
+      "sv": "Ramar och tavelmageri"
+    },
+    "tags": [
+      "shop=frame"
+    ]
+  },
+  {
+    "title": "Furnaces",
+    "translations": {
+      "ru": "Магазины печей и каминов",
+      "cs": "Prodejny kamen a krbů",
+      "pt": "Lojas de lareiras e fogões",
+      "sv": "Kamin- och ugnsaffärer"
+    },
+    "tags": [
+      "shop=furnace"
+    ]
+  },
+  {
+    "title": "Funeral directors",
+    "translations": {
+      "ru": "Ритуальные услуги и похоронные бюро",
+      "cs": "Pohřební služba",
+      "pt": "Agências funerárias",
+      "sv": "Begravningsbyråer"
+    },
+    "tags": [
+      "shop=funeral_directors"
+    ]
+  },
+
+    {
+    "title": "Furniture",
+    "translations": {
+      "ru": "Мебельные магазины",
+      "cs": "Prodejny nábytku",
+      "pt": "Lojas de mobiliário / Móveis",
+      "sv": "Möbelaffärer"
+    },
+    "tags": [
+      "shop=furniture"
+    ]
+  },
+  {
+    "title": "Garden centres",
+    "translations": {
+      "ru": "Садовые центры",
+      "cs": "Zahradní centra",
+      "pt": "Centros de jardinagem / Garden centers",
+      "sv": "Trädgårdscenter"
+    },
+    "tags": [
+      "shop=garden_centre"
+    ]
+  },
+  {
+    "title": "Gas",
+    "translations": {
+      "ru": "Продажа баллонного газа",
+      "cs": "Prodej plynů / Plynové lahve",
+      "pt": "Lojas de gás",
+      "sv": "Gasolförsäljning"
+    },
+    "tags": [
+      "shop=gas"
+    ]
+  },
+  {
+    "title": "General",
+    "translations": {
+      "ru": "Универсальные магазины",
+      "cs": "Smíšené zboží / Všeobecný obchod",
+      "pt": "Loja de variado / Comércio geral",
+      "sv": "Lanthandel / Allmänna affärer"
+    },
+    "tags": [
+      "shop=general"
+    ]
+  },
+  {
+    "title": "Gifts",
+    "translations": {
+      "ru": "Магазины подарков и сувениров",
+      "cs": "Dárkové předměty / Suvenýry",
+      "pt": "Lojas de presentes / Souvenirs",
+      "sv": "Presentbutiker"
+    },
+    "tags": [
+      "shop=gift"
+    ]
+  },
+  {
+    "title": "Glazier shops",
+    "translations": {
+      "ru": "Стеклянные мастерские и стекло",
+      "cs": "Sklenářství",
+      "pt": "Vidrarias / Lojas de vidro",
+      "sv": "Glasmästerier"
+    },
+    "tags": [
+      "shop=glaziery"
+    ]
+  },
+  {
+    "title": "Green grocers",
+    "translations": {
+      "ru": "Овощные лавки / Зеленные магазины",
+      "cs": "Zelenina a ovoce",
+      "pt": "Frutarias / Hortofrúti",
+      "sv": "Grönsakshandlare / Frukt och grönt"
+    },
+    "tags": [
+      "shop=greengrocer"
+    ]
+  },
+
+  {
+    "title": "Hairdressers",
+    "translations": {
+      "ru": "Парикмахерские / Салоны причесок",
+      "cs": "Kadeřnictví",
+      "pt": "Cabeleireiros",
+      "sv": "Frisörer"
+    },
+    "tags": [
+      "shop=hairdresser"
+    ]
+  },
+  {
+    "title": "Hardware",
+    "translations": {
+      "ru": "Хозяйственные магазины / Скобяные изделия",
+      "cs": "Železářství",
+      "pt": "Ferragens / Lojas de ferragens",
+      "sv": "Järnaffärer / Byggnadsvård"
+    },
+    "tags": [
+      "shop=hardware"
+    ]
+  },
+  {
+    "title": "Hearing aids",
+    "translations": {
+      "ru": "Слуховые аппараты",
+      "cs": "Sluchadla / Prodejna sluchadel",
+      "pt": "Aparelhos auditivos",
+      "sv": "Hörselapparater"
+    },
+    "tags": [
+      "shop=hearing_aids"
+    ]
+  },
+  {
+    "title": "Herbalists",
+    "translations": {
+      "ru": "Травы и фитотерапия / Зелейные лавки",
+      "cs": "Bylinkářství",
+      "pt": "Herbanárias / Lojas de produtos naturais",
+      "sv": "Hälsokost / Örtagårdar"
+    },
+    "tags": [
+      "shop=herbalist"
+    ]
+  },
+  {
+    "title": "Hi-Fi",
+    "translations": {
+      "ru": "Магазины Hi-Fi аппаратуры и звука",
+      "cs": "Hi-Fi / Prodejny audio techniky",
+      "pt": "Lojas de Hi-Fi / Equipamento de som",
+      "sv": "Hi-Fi-affärer"
+    },
+    "tags": [
+      "shop=hifi"
+    ]
+  },
+  {
+    "title": "Hunting",
+    "translations": {
+      "ru": "Магазины для охоты и рыболовства",
+      "cs": "Potřeby pro myslivost",
+      "pt": "Artigos de caça / Lojas de caça",
+      "sv": "Jakt- och fiskeutrustning"
+    },
+    "tags": [
+      "shop=hunting"
+    ]
+  },
+  {
+    "title": "Interior decoration",
+    "translations": {
+      "ru": "Товары для интерьера / Декор",
+      "cs": "Bytové doplňky / Interiérové dekorace",
+      "pt": "Decoração de interiores",
+      "sv": "Inredningsdetaljer"
+    },
+    "tags": [
+      "shop=interior_decoration"
+    ]
+  },
+  {
+    "title": "Jeweleries",
+    "translations": {
+      "ru": "Ювелирные магазины",
+      "cs": "Zlatnictví / Klenotnictví",
+      "pt": "Jutarias / Lojas de joias",
+      "sv": "Guld- och juvelerareaffärer"
+    },
+    "tags": [
+      "shop=jewelery"
+    ]
+  },
+  {
+    "title": "Kiosks",
+    "translations": {
+      "ru": "Киоски",
+      "cs": "Kiosky / Trafiky",
+      "pt": "Quiosques",
+      "sv": "Kiosker"
+    },
+    "tags": [
+      "shop=kiosk"
+    ]
+  },
+  {
+    "title": "Kitchens",
+    "translations": {
+      "ru": "Кухонная мебель и студии кухонь",
+      "cs": "Kuchyňská studia",
+      "pt": "Lojas de cozinhas",
+      "sv": "Köksbutiker / Köksspecialister"
+    },
+    "tags": [
+      "shop=kitchen"
+    ]
+  },
+
+    {
+    "title": "Laundries",
+    "translations": {
+      "ru": "Прачечные",
+      "cs": "Prádelny",
+      "pt": "Lavandarias",
+      "sv": "Tvättinrättningar / Tvättstugor"
+    },
+    "tags": [
+      "shop=laundry"
+    ]
+  },
+  {
+    "title": "Malls",
+    "translations": {
+      "ru": "Торговые центры",
+      "cs": "Obchodní centra / Nákupní centra",
+      "pt": "Centros comerciais / Shippings",
+      "sv": "Köpcentra"
+    },
+    "tags": [
+      "shop=mall"
+    ]
+  },
+  {
+    "title": "Massages",
+    "translations": {
+      "ru": "Массажные салоны",
+      "cs": "Masážní salony",
+      "pt": "Salões de massagem",
+      "sv": "Massagesalonger"
+    },
+    "tags": [
+      "shop=massage"
+    ]
+  },
+  {
+    "title": "Mobile phones",
+    "translations": {
+      "ru": "Салоны связи и магазины мобильных телефонов",
+      "cs": "Prodejny mobilních telefonů",
+      "pt": "Lojas de telemóveis / Telemóveis",
+      "sv": "Mobiltelefonaffärer"
+    },
+    "tags": [
+      "shop=mobile_phone"
+    ]
+  },
+  {
+    "title": "Money lenders",
+    "translations": {
+      "ru": "Ломбарды и микрозаймы",
+      "cs": "Zástavárny / Poskytovatelé půjček",
+      "pt": "Casas de penhores / Empréstimos",
+      "sv": "Pantbanker"
+    },
+    "tags": [
+      "shop=money_lender"
+    ]
+  },
+  {
+    "title": "Motorcycles",
+    "translations": {
+      "ru": "Мотосалоны и ремонт мотоциклов",
+      "cs": "Prodej a servis motocyklů",
+      "pt": "Lojas e oficinas de motocicletas",
+      "sv": "Motorcykelaffärer och verkstäder"
+    },
+    "tags": [
+      "shop=motorcycle",
+      "shop=motorcycle_repair"
+    ]
+  },
+  {
+    "title": "Musical instruments",
+    "translations": {
+      "ru": "Музыкальные магазины",
+      "cs": "Hudebniny / Prodej hudebních nástrojů",
+      "pt": "Lojas de instrumentos musicais",
+      "sv": "Musikaffärer"
+    },
+    "tags": [
+      "shop=musical_instrument"
+    ]
+  },
+  {
+    "title": "Newsagents",
+    "translations": {
+      "ru": "Газетные киоски и пресса",
+      "cs": "Trafiky / Prodej tiskovin",
+      "pt": "Tabacarias / Banca de jornais",
+      "sv": "Presstidningar / Pressbyråer"
+    },
+    "tags": [
+      "shop=newsagent"
+    ]
+  },
+  {
+    "title": "Optician shops",
+    "translations": {
+      "ru": "Оптика",
+      "cs": "Optiky / Oční optika",
+      "pt": "Óticas",
+      "sv": "Optiker"
+    },
+    "tags": [
+      "shop=optician"
+    ]
+  },
+  {
+    "title": "Organics",
+    "translations": {
+      "ru": "Магазины органических продуктов",
+      "cs": "Obchody se zdravou výživou / Bio potraviny",
+      "pt": "Produtos biológicos / Loja natural",
+      "sv": "Hälsokost / Ekologiska livsmedel"
+    },
+    "tags": [
+      "shop=organic"
+    ]
+  },
+
+    {
+    "title": "Outdoor",
+    "translations": {
+      "ru": "Товары для активного отдыха и туризма",
+      "cs": "Outdoorové vybavení / Potřeby pro pobyt v přírodě",
+      "pt": "Artigos de campismo e ar livre / Outdoor",
+      "sv": "Friluftsartiklar / Outdoor"
+    },
+    "tags": [
+      "shop=outdoor"
+    ]
+  },
+  {
+    "title": "Paints",
+    "translations": {
+      "ru": "Магазины красок и лаков",
+      "cs": "Prodejny barev a laku",
+      "pt": "Tintas e vernizes / Lojas de tintas",
+      "sv": "Färgaffärer"
+    },
+    "tags": [
+      "shop=paint"
+    ]
+  },
+  {
+    "title": "Pawnbrokers",
+    "translations": {
+      "ru": "Ломбарды",
+      "cs": "Zástavárny",
+      "pt": "Casas de penhores",
+      "sv": "Pantbanker"
+    },
+    "tags": [
+      "shop=pawnbroker"
+    ]
+  },
+  {
+    "title": "Pets",
+    "translations": {
+      "ru": "Зоомагазины",
+      "cs": "Chovatelské potřeby / Zverimex",
+      "pt": "Lojas de animais / Pet shops",
+      "sv": "Djuraffärer / Djurbutiker"
+    },
+    "tags": [
+      "shop=pet"
+    ]
+  },
+  {
+    "title": "Radio technics",
+    "translations": {
+      "ru": "Радиодетали и радиотехника",
+      "cs": "Radiotechnika / Součástky",
+      "pt": "Radiotécnica / Eletrónica e componentes",
+      "sv": "Radioteknik och komponenter"
+    },
+    "tags": [
+      "shop=radiotechnics"
+    ]
+  },
+  {
+    "title": "Seafood / Fish",
+    "translations": {
+      "ru": "Рыбные магазины и морепродукты",
+      "cs": "Prodejny ryb / Rybárna",
+      "pt": "Peixarias / Mariscarias",
+      "sv": "Fiskaffärer"
+    },
+    "tags": [
+      "shop=seafood",
+      "shop=fish"
+    ]
+  },
+  {
+    "title": "Second hand",
+    "translations": {
+      "ru": "Комиссионные магазины и секонд-хенд",
+      "cs": "Bazar / Sekáč / Použité zboží",
+      "pt": "Segunda mão / Lojas de usados",
+      "sv": "Second hand / Begagnat"
+    },
+    "tags": [
+      "shop=second_hand"
+    ]
+  },
+
+    {
+    "title": "Shoes",
+    "translations": {
+      "ru": "Обувные магазины",
+      "cs": "Obuv / Prodejny obuvi",
+      "pt": "Sapatarias / Lojas de calçado",
+      "sv": "Skobutiker"
+    },
+    "tags": [
+      "shop=shoes"
+    ]
+  },
+  {
+    "title": "Sports",
+    "translations": {
+      "ru": "Спортивные магазины",
+      "cs": "Sportovní potřeby",
+      "pt": "Lojas de desporto",
+      "sv": "Sportaffärer"
+    },
+    "tags": [
+      "shop=sports"
+    ]
+  },
+  {
+    "title": "Stationeries",
+    "translations": {
+      "ru": "Канцтовары",
+      "cs": "Papírnictví",
+      "pt": "Papelarias",
+      "sv": "Pappershandlar / Skrivmaterial"
+    },
+    "tags": [
+      "shop=stationery"
+    ]
+  },
+  {
+    "title": "Supermarkets",
+    "translations": {
+      "ru": "Супермаркеты",
+      "cs": "Supermarkety",
+      "pt": "Supermercados",
+      "sv": "Supermarket / Stormarknader"
+    },
+    "tags": [
+      "shop=supermarket"
+    ]
+  },
+  {
+    "title": "Tattoos",
+    "translations": {
+      "ru": "Тату-салоны",
+      "cs": "Tetovací salóny",
+      "pt": "Salões de tatuagem",
+      "sv": "Tatueringstudior"
+    },
+    "tags": [
+      "shop=tattoo"
+    ]
+  },
+  {
+    "title": "Tickets",
+    "translations": {
+      "ru": "Билетные кассы",
+      "cs": "Předprodej vstupenek",
+      "pt": "Bilheteiras",
+      "sv": "Biljettförsäljning"
+    },
+    "tags": [
+      "shop=ticket"
+    ]
+  },
+  {
+    "title": "Tobacco",
+    "translations": {
+      "ru": "Табачные лавки / Табак",
+      "cs": "Trafiky / Prodej tabáku",
+      "pt": "Tabacarias",
+      "sv": "Tobaksaffärer"
+    },
+    "tags": [
+      "shop=tobacco"
+    ]
+  },
+
+    {
+    "title": "Toys",
+    "translations": {
+      "ru": "Магазины игрушек и пустующие помещения",
+      "cs": "Hračkářství a prázdné provozovny",
+      "pt": "Lojas de brinquedos / Espaços devolutos",
+      "sv": "Leksaksaffärer och lediga lokaler"
+    },
+    "tags": [
+      "shop=toys",
+      "shop=vacant"
+    ]
+  },
+  {
+    "title": "Vacuum cleaners",
+    "translations": {
+      "ru": "Магазины пылесосов и универсальные магазины",
+      "cs": "Prodejny vysavačů a smíšené zboží",
+      "pt": "Lojas de aspiradores e bazares",
+      "sv": "Dammsugaraffärer och varuhus"
+    },
+    "tags": [
+      "shop=vacuum_cleaner",
+      "shop=variety_store"
+    ]
+  },
+  {
+    "title": "Videos",
+    "translations": {
+      "ru": "Видеопрокат и магазины видеодисков",
+      "cs": "Půjčovny videí / Videokazety",
+      "pt": "Videoclubes / Lojas de vídeo",
+      "sv": "Videouthyrning / Videoaffärer"
+    },
+    "tags": [
+      "shop=video"
+    ]
+  },
+  {
+    "title": "Window blinds",
+    "translations": {
+      "ru": "Жалюзи и рулонные шторы",
+      "cs": "Žaluzie a rolety",
+      "pt": "Estores e persianas / Lojas de cortinados",
+      "sv": "Persienner och rullgardiner"
+    },
+    "tags": [
+      "shop=window_blind"
+    ]
+  },
+  {
+    "title": "Sport",
+    "translations": {
+      "ru": "Виды спорта",
+      "cs": "Sporty",
+      "pt": "Desporto",
+      "sv": "Sport"
+    },
+    "tags": []
+  },
+  {
+    "title": "Bowling",
+    "translations": {
+      "ru": "Боулинг и кегельбан",
+      "cs": "Bowling a kuželky",
+      "pt": "Bowling / Jogo de pinos",
+      "sv": "Bowling och kägelspel"
+    },
+    "tags": [
+      "sport=9-pin",
+      "sport=10-pin"
+    ]
+  },
+  {
+    "title": "American football",
+    "translations": {
+      "ru": "Американский футбол",
+      "cs": "Americký fotbal",
+      "pt": "Futebol americano",
+      "sv": "Amerikansk fotboll"
+    },
+    "tags": [
+      "sport=american_football"
+    ]
+  },
+  {
+    "title": "Archery",
+    "translations": {
+      "ru": "Стрельба из лука",
+      "cs": "Lukostřelba",
+      "pt": "Tiro com arco",
+      "sv": "Bågskytte"
+    },
+    "tags": [
+      "sport=archery"
+    ]
+  },
+
+    {
+    "title": "Athletics",
+    "translations": {
+      "ru": "Легкая атлетика",
+      "cs": "Atletika",
+      "pt": "Atletismo",
+      "sv": "Friidrott"
+    },
+    "tags": [
+      "sport=athletics"
+    ]
+  },
+  {
+    "title": "Australian football",
+    "translations": {
+      "ru": "Австралийский футбол",
+      "cs": "Australský fotbal",
+      "pt": "Futebol australiano",
+      "sv": "Australisk fotboll"
+    },
+    "tags": [
+      "sport=australian_football"
+    ]
+  },
+  {
+    "title": "BASE jumping",
+    "translations": {
+      "ru": "Бейсджампинг",
+      "cs": "BASE jumping",
+      "pt": "BASE jumping / Salto de base",
+      "sv": "BASE-hoppning"
+    },
+    "tags": [
+      "sport=base"
+    ]
+  },
+  {
+    "title": "Badminton",
+    "translations": {
+      "ru": "Бадминтон",
+      "cs": "Badminton",
+      "pt": "Badminton",
+      "sv": "Badminton"
+    },
+    "tags": [
+      "sport=badminton"
+    ]
+  },
+  {
+    "title": "Baseball",
+    "translations": {
+      "ru": "Бейсбол",
+      "cs": "Baseball",
+      "pt": "Beisebol / Basebol",
+      "sv": "Baseboll"
+    },
+    "tags": [
+      "sport=baseball"
+    ]
+  },
+  {
+    "title": "Basketball",
+    "translations": {
+      "ru": "Баскетбол",
+      "cs": "Basketbal",
+      "pt": "Basquetebol",
+      "sv": "Basket"
+    },
+    "tags": [
+      "sport=basketball"
+    ]
+  },
+  {
+    "title": "Beach volleyball",
+    "translations": {
+      "ru": "Пляжный волейбол",
+      "cs": "Plážový volejbal",
+      "pt": "Voleibol de praia",
+      "sv": "Beachvolleyboll"
+    },
+    "tags": [
+      "sport=beachvolleyball"
+    ]
+  },
+  {
+    "title": "BMX",
+    "translations": {
+      "ru": "BMX (веломотокросс)",
+      "cs": "BMX",
+      "pt": "BMX",
+      "sv": "BMX"
+    },
+    "tags": [
+      "sport=bmx"
+    ]
+  },
+  {
+    "title": "Boules",
+    "translations": {
+      "ru": "Петанк / Бочче",
+      "cs": "Pétanque / Boules",
+      "pt": "Petanca / Jogo do bóchi",
+      "sv": "Boule"
+    },
+    "tags": [
+      "sport=boules"
+    ]
+  },
+
+    {
+    "title": "Bowls",
+    "translations": {
+      "ru": "Боулз (игра в шары)",
+      "cs": "Bowls (hra s koulemi)",
+      "pt": "Bowls / Jogo de bocha inglês",
+      "sv": "Bowls"
+    },
+    "tags": [
+      "sport=bowls"
+    ]
+  },
+  {
+    "title": "Canadian football",
+    "translations": {
+      "ru": "Канадский футбол",
+      "cs": "Kanadský fotbal",
+      "pt": "Futebol canadiano",
+      "sv": "Kanadensisk fotboll"
+    },
+    "tags": [
+      "sport=canadian_football"
+    ]
+  },
+  {
+    "title": "Canoe",
+    "translations": {
+      "ru": "Гребля на каноэ",
+      "cs": "Kanoistika",
+      "pt": "Canoagem",
+      "sv": "Kanotsport"
+    },
+    "tags": [
+      "sport=canoe"
+    ]
+  },
+  {
+    "title": "Chess",
+    "translations": {
+      "ru": "Шахматы",
+      "cs": "Šachy",
+      "pt": "Xadrez",
+      "sv": "Schack"
+    },
+    "tags": [
+      "sport=chess"
+    ]
+  },
+  {
+    "title": "Climbing",
+    "translations": {
+      "ru": "Скалолазание",
+      "cs": "Sportovní lezení",
+      "pt": "Escalada",
+      "sv": "Klättring"
+    },
+    "tags": [
+      "sport=climbing"
+    ]
+  },
+  {
+    "title": "Cricket",
+    "translations": {
+      "ru": "Крикет",
+      "cs": "Kriket",
+      "pt": "Críquete",
+      "sv": "Cricket"
+    },
+    "tags": [
+      "sport=cricket"
+    ]
+  },
+  {
+    "title": "Cricket nets",
+    "translations": {
+      "ru": "Тренировочные сетки для крикета",
+      "cs": "Kriketové sítě",
+      "pt": "Redes de críquete",
+      "sv": "Cricketnät"
+    },
+    "tags": [
+      "sport=cricket_nets"
+    ]
+  },
+
+    {
+    "title": "Croquet",
+    "translations": {
+      "ru": "Крокет",
+      "cs": "Kroket",
+      "pt": "Croquet",
+      "sv": "Krokett"
+    },
+    "tags": [
+      "sport=croquet"
+    ]
+  },
+  {
+    "title": "Cycling",
+    "translations": {
+      "ru": "Велоспорт",
+      "cs": "Cyklistika",
+      "pt": "Ciclismo",
+      "sv": "Cykelsport"
+    },
+    "tags": [
+      "sport=cycling"
+    ]
+  },
+  {
+    "title": "Diving",
+    "translations": {
+      "ru": "Прыжки в воду (дайвинг)",
+      "cs": "Skoky do vody",
+      "pt": "Saltos para a água / Mergulho",
+      "sv": "Simhopp"
+    },
+    "tags": [
+      "sport=diving"
+    ]
+  },
+  {
+    "title": "Dog racing",
+    "translations": {
+      "ru": "Собачьи бега",
+      "cs": "Dostihy chrtů",
+      "pt": "Corridas de cães / Galgos",
+      "sv": "Hundkapplöpning"
+    },
+    "tags": [
+      "sport=dog_racing"
+    ]
+  },
+  {
+    "title": "Fencing",
+    "translations": {
+      "ru": "Фехтование",
+      "cs": "Šerm",
+      "pt": "Esgrima",
+      "sv": "Fäktning"
+    },
+    "tags": [
+      "sport=fencing"
+    ]
+  },
+  {
+    "title": "Equestrian",
+    "translations": {
+      "ru": "Конный спорт",
+      "cs": "Jezdectví / Kestní sport",
+      "pt": "Desportos equestres",
+      "sv": "Ridsport / Hästsport"
+    },
+    "tags": [
+      "sport=equestrian"
+    ]
+  },
+  {
+    "title": "Gaelic games",
+    "translations": {
+      "ru": "Гэльские игры",
+      "cs": "Gaelicové hry",
+      "pt": "Jogos gaélicos",
+      "sv": "Gaeliska sporter"
+    },
+    "tags": [
+      "sport=gaelic_games"
+    ]
+  },
+  {
+    "title": "Golf",
+    "translations": {
+      "ru": "Гольф",
+      "cs": "Golf",
+      "pt": "Golfe",
+      "sv": "Golf"
+    },
+    "tags": [
+      "sport=golf"
+    ]
+  },
+
+    {
+    "title": "Gymnastics",
+    "translations": {
+      "ru": "Гимнастика",
+      "cs": "Gymnastika",
+      "pt": "Ginástica",
+      "sv": "Gymnastik"
+    },
+    "tags": [
+      "sport=gymnastics"
+    ]
+  },
+  {
+    "title": "Hockey",
+    "translations": {
+      "ru": "Хоккей",
+      "cs": "Hokej",
+      "pt": "Hóquei",
+      "sv": "Hockey"
+    },
+    "tags": [
+      "sport=hockey"
+    ]
+  },
+  {
+    "title": "Horseshoes",
+    "translations": {
+      "ru": "Метание подков",
+      "cs": "Hra s podkovami",
+      "pt": "Jogo da ferradura",
+      "sv": "Hästskokastning"
+    },
+    "tags": [
+      "sport=horseshoes"
+    ]
+  },
+  {
+    "title": "Horse racing",
+    "translations": {
+      "ru": "Конные скачки",
+      "cs": "Dostihy",
+      "pt": "Corridas de cavalos",
+      "sv": "Hästkapplöpning / Galopp"
+    },
+    "tags": [
+      "sport=horse_racing"
+    ]
+  },
+  {
+    "title": "Ice stock",
+    "translations": {
+      "ru": "Айсшток (айсштоккер)",
+      "cs": "Metaná na ledu",
+      "pt": "Stockfish / Eisstockschießen",
+      "sv": "Isstock / Stockskytte"
+    },
+    "tags": [
+      "sport=ice_stock"
+    ]
+  },
+  {
+    "title": "Karting",
+    "translations": {
+      "ru": "Картинг",
+      "cs": "Karting / Motokáry",
+      "pt": "Karting / Kartódromo",
+      "sv": "Gokart"
+    },
+    "tags": [
+      "sport=karting"
+    ]
+  },
+
+    {
+    "title": "Korfball",
+    "translations": {
+      "ru": "Корфбол",
+      "cs": "Korfbal",
+      "pt": "Korfball",
+      "sv": "Korfboll"
+    },
+    "tags": [
+      "sport=korfball"
+    ]
+  },
+  {
+    "title": "Motor",
+    "translations": {
+      "ru": "Мотоспорт / Автомотоспорт",
+      "cs": "Motoristický sport",
+      "pt": "Desportos motorizados",
+      "sv": "Motorsport"
+    },
+    "tags": [
+      "sport=motor"
+    ]
+  },
+  {
+    "title": "Multi",
+    "translations": {
+      "ru": "Многофункциональная спортплощадка",
+      "cs": "Víceúčelové sportoviště",
+      "pt": "Multidesporto / Polidesportivo",
+      "sv": "Multisport / Flerändamålsplan"
+    },
+    "tags": [
+      "sport=multi"
+    ]
+  },
+  {
+    "title": "Orienteering",
+    "translations": {
+      "ru": "Спортивное ориентирование",
+      "cs": "Orientační běh",
+      "pt": "Orientação",
+      "sv": "Orientering"
+    },
+    "tags": [
+      "sport=orienteering"
+    ]
+  },
+  {
+    "title": "Paddle tennis",
+    "translations": {
+      "ru": "Падел / Падел-теннис",
+      "cs": "Padel",
+      "pt": "Padel",
+      "sv": "Padel"
+    },
+    "tags": [
+      "sport=paddle_tennis"
+    ]
+  },
+  {
+    "title": "Paragliding",
+    "translations": {
+      "ru": "Парапланеризм",
+      "cs": "Paragliding",
+      "pt": "Parapente",
+      "sv": "Skärmflygning"
+    },
+    "tags": [
+      "sport=paragliding"
+    ]
+  },
+  {
+    "title": "Free flying",
+    "translations": {
+      "ru": "Свободный полет (дельтапланеризм)",
+      "cs": "Volné létání",
+      "pt": "Voo livre",
+      "sv": "Fritt flyg / Hängflygning"
+    },
+    "tags": [
+      "sport=free_flying"
+    ]
+  },
+  {
+    "title": "Pelota",
+    "translations": {
+      "ru": "Пелота (баскская пелота)",
+      "cs": "Baskická pelota",
+      "pt": "Pelota basca",
+      "sv": "Baskisk pelota"
+    },
+    "tags": [
+      "sport=pelota"
+    ]
+  },
+  {
+    "title": "Racquet",
+    "translations": {
+      "ru": "Ракетлон / Игры с ракеткой",
+      "cs": "Racketlon / Raketové sporty",
+      "pt": "Desportos de raquete",
+      "sv": "Racketsporter"
+    },
+    "tags": [
+      "sport=racquet"
+    ]
+  },
+
+    {
+    "title": "Rowing",
+    "translations": {
+      "ru": "Академическая гребля",
+      "cs": "Veslování",
+      "pt": "Remo",
+      "sv": "Rodd"
+    },
+    "tags": [
+      "sport=rowing"
+    ]
+  },
+  {
+    "title": "Rugby",
+    "translations": {
+      "ru": "Регби",
+      "cs": "Ragby",
+      "pt": "Rúgbi / Rugby",
+      "sv": "Rugby"
+    },
+    "tags": [
+      "sport=rugby_league",
+      "sport=rugby_union"
+    ]
+  },
+  {
+    "title": "Shooting",
+    "translations": {
+      "ru":рби: "Стрелковый спорт / Пулевая стрельба",
+      "cs": "Sportovní střelba",
+      "pt": "Tiro deportivo / Tiro ao alvo",
+      "sv": "Skidskytte / Sportskytte"
+    },
+    "tags": [
+      "sport=shooting"
+    ]
+  },
+  {
+    "title": "Ice skating",
+    "translations": {
+      "ru": "Конькобежный спорт и фигурное катание",
+      "cs": "Bruslení",
+      "pt": "Patinagem no gelo",
+      "sv": "Skridskoåkning"
+    },
+    "tags": [
+      "sport=skating"
+    ]
+  },
+  {
+    "title": "Skateboarding",
+    "translations": {
+      "ru": "Скейтбординг",
+      "cs": "Skateboarding",
+      "pt": "Skate / Skateboarding",
+      "sv": "Skateboard"
+    },
+    "tags": [
+      "sport=skateboard"
+    ]
+  },
+  {
+    "title": "Skiing",
+    "translations": {
+      "ru": "Лыжный спорт",
+      "cs": "Lyžování",
+      "pt": "Esqui",
+      "sv": "Skidåkning"
+    },
+    "tags": [
+      "sport=skiing"
+    ]
+  },
+  {
+    "title": "Soccer",
+    "translations": {
+      "ru": "Футбол (соккер)",
+      "cs": "Fotbal",
+      "pt": "Futebol",
+      "sv": "Fotboll"
+    },
+    "tags": [
+      "sport=soccer"
+    ]
+  },
+  {
+    "title": "Surfing",
+    "translations": {
+      "ru": "Серфинг",
+      "cs": "Surfování",
+      "pt": "Surfe / Surf",
+      "sv": "Surfing"
+    },
+    "tags": [
+      "sport=surfing"
+    ]
+  },
+  {
+    "title": "Swimming",
+    "translations": {
+      "ru": "Плавание",
+      "cs": "Plavání",
+      "pt": "Natação",
+      "sv": "Simning"
+    },
+    "tags": [
+      "sport=swimming"
+    ]
+  },
+  {
+    "title": "Table tennis",
+    "translations": {
+      "ru": "Настольный теннис",
+      "cs": "Stolní tenis / Ping-pong",
+      "pt": "Ténis de mesa / Pingue-pongue",
+      "sv": "Bordtennis"
+    },
+    "tags": [
+      "sport=table_tennis"
+    ]
+  },
+
+    {
+    "title": "Handball",
+    "translations": {
+      "ru": "Гандбол",
+      "cs": "Házená",
+      "pt": "Andebol / Handball",
+      "sv": "Handboll"
+    },
+    "tags": [
+      "sport=team_handball"
+    ]
+  },
+  {
+    "title": "Tennis courts",
+    "translations": {
+      "ru": "Теннисные корты",
+      "cs": "Tenisové kurty",
+      "pt": "Campos de ténis / Ténis",
+      "sv": "Tennisbanor"
+    },
+    "tags": [
+      "sport=tennis"
+    ]
+  },
+  {
+    "title": "Toboggan",
+    "translations": {
+      "ru": "Санный спорт / Тобтоган",
+      "cs": "Saně / Bobová dráha / Tobogán",
+      "pt": "Pista de trenós / Tobogã",
+      "sv": "Kälkåkning"
+    },
+    "tags": [
+      "sport=toboggan"
+    ]
+  },
+  {
+    "title": "Volleyball",
+    "translations": {
+      "ru": "Волейбол",
+      "cs": "Volejbal",
+      "pt": "Voleibol",
+      "sv": "Volleyboll"
+    },
+    "tags": [
+      "sport=volleyball"
+    ]
+  },
+  {
+    "title": "Water ski",
+    "translations": {
+      "ru": "Водные лыжи",
+      "cs": "Vodní lyžování",
+      "pt": "Esqui aquático",
+      "sv": "Vattenskidor"
+    },
+    "tags": [
+      "sport=water_ski"
+    ]
+  },
+  {
+    "title": "Tourism",
+    "translations": {
+      "ru": "Туризм",
+      "cs": "Turistika",
+      "pt": "Turismo",
+      "sv": "Turism"
+    },
+    "tags": []
+  },
+  {
+    "title": "Alpine huts",
+    "translations": {
+      "ru": "Альпийские хижины и приюты",
+      "cs": "Horské chaty / Bivaky",
+      "pt": "Refúgios de montanha / Pousadas alpinas",
+      "sv": "Fjällstugor / Alphyddor"
+    },
+    "tags": [
+      "tourism=alpine_hut"
+    ]
+  },
+  {
+    "title": "Attractions",
+    "translations": {
+      "ru": "Достопримечательности",
+      "cs": "Zajímavá místa / Atrakce",
+      "pt": "Atrações turísticas / Pontos de interesse",
+      "sv": "Sevärdheter"
+    },
+    "tags": [
+      "tourism=attraction"
+    ]
+  },
+  {
+    "title": "Artworks",
+    "translations": {
+      "ru": "Произведения искусства и памятники",
+      "cs": "Umělecká díla / Sochy",
+      "pt": "Obras de arte / Monumentos",
+      "sv": "Konstverk och skulpturer"
+    },
+    "tags": [
+      "tourism=artwork"
+    ]
+  },
+
+    {
+    "title": "Camp sites",
+    "translations": {
+      "ru": "Кемпинги",
+      "cs": "Kempinková tábořiště / Kempy",
+      "pt": "Parques de campismo / Acampamentos",
+      "sv": "Campingplatser"
+    },
+    "tags": [
+      "tourism=camp_site"
+    ]
+  },
+  {
+    "title": "Caravan sites",
+    "translations": {
+      "ru": "Стоянки для автодомов и караванов",
+      "cs": "Stání pro obytné vozy / Karavaning",
+      "pt": "Áreas de serviço para autocaravanas",
+      "sv": "Ställplatser för husbilar"
+    },
+    "tags": [
+      "tourism=caravan_site",
+      "amenity=water_point"
+    ]
+  },
+  {
+    "title": "Chalets",
+    "translations": {
+      "ru": "Шале и туристические домики",
+      "cs": "Chaty / Turistické sruby",
+      "pt": "Chalés / Bungalows",
+      "sv": "Stugor och chaleter"
+    },
+    "tags": [
+      "tourism=chalet"
+    ]
+  },
+  {
+    "title": "Guest houses",
+    "translations": {
+      "ru": "Гостевые дома",
+      "cs": "Penziony",
+      "pt": "Casas de hóspedes / Pensões",
+      "sv": "Pensionat / Bed & Breakfast"
+    },
+    "tags": [
+      "tourism=guest_house"
+    ]
+  },
+  {
+    "title": "Hostels",
+    "translations": {
+      "ru": "Хостелы",
+      "cs": "Ubytovny / Hostely",
+      "pt": "Albergues / Hostels",
+      "sv": "Vandrarhem"
+    },
+    "tags": [
+      "tourism=hostel"
+    ]
+  },
+  {
+    "title": "Hotels",
+    "translations": {
+      "ru": "Отели",
+      "cs": "Hotely",
+      "pt": "Hotéis",
+      "sv": "Hotell"
+    },
+    "tags": [
+      "tourism=hotel"
+    ]
+  },
+  {
+    "title": "Information",
+    "translations": {
+      "ru": "Информационные пункты / Турофисы",
+      "cs": "Informační centra / Rozcestníky",
+      "pt": "Informação turística / Posto de turismo",
+      "sv": "Turistinformation"
+    },
+    "tags": [
+      "tourism=information"
+    ]
+  },
+  {
+    "title": "Motels",
+    "translations": {
+      "ru": "Мотели",
+      "cs": "Motely",
+      "pt": "Motéis",
+      "sv": "Motell"
+    },
+    "tags": [
+      "tourism=motel"
+    ]
+  },
+  {
+    "title": "Museums",
+    "translations": {
+      "ru": "Музеи",
+      "cs": "Muzea",
+      "pt": "Museus",
+      "sv": "Museer"
+    },
+    "tags": [
+      "tourism=museum"
+    ]
+  },
+
+    {
+    "title": "Picnic sites",
+    "translations": {
+      "ru": "Места для пикника",
+      "cs": "Picnicové místo / Odpočívadlo",
+      "pt": "Áreas de piquenique",
+      "sv": "Rastplatser / Picknickplatser"
+    },
+    "tags": [
+      "tourism=picnic_site"
+    ]
+  },
+  {
+    "title": "Theme parks",
+    "translations": {
+      "ru": "Тематические парки / Парки развлечений",
+      "cs": "Zábavní parky",
+      "pt": "Parques temáticos",
+      "sv": "Nöjesparker"
+    },
+    "tags": [
+      "tourism=theme_park"
+    ]
+  },
+  {
+    "title": "Viewpoints",
+    "translations": {
+      "ru": "Смотровые площадки",
+      "cs": "Vyhlídky",
+      "pt": "Miradouros / Pontos de vista",
+      "sv": "Utsiktsplatser"
+    },
+    "tags": [
+      "tourism=viewpoint"
+    ]
+  },
+  {
+    "title": "Wildlife parks",
+    "translations": {
+      "ru": "Парки дикой природы / Сафари-парки",
+      "cs": "Zvířecí obory / Safari parky",
+      "pt": "Parques de vida selvagem / Parques naturais",
+      "sv": "Djurparker / Viltparker"
+    },
+    "tags": [
+      "tourism=wildlife_park"
+    ]
+  },
+  {
+    "title": "Zoo",
+    "translations": {
+      "ru": "Зоопарки",
+      "cs": "Zoo / Zoologická zahrada",
+      "pt": "Jardins zoológicos / Zootécnicos",
+      "sv": "Djurparker / Zoo"
+    },
+    "tags": [
+      "tourism=zoo",
+      "amenity=museum"
+    ]
+  },
+  {
+    "title": "Picnic sites",
+    "translations": {
+      "ru": "Места для пикника",
+      "cs": "Picnicové místo / Odpočívadlo",
+      "pt": "Áreas de piquenique",
+      "sv": "Rastplatser / Picknickplatser"
+    },
+    "tags": [
+      "tourism=picnic_site"
+    ]
+  },
+  {
+    "title": "Theme parks",
+    "translations": {
+      "ru": "Тематические парки / Парки развлечений",
+      "cs": "Zábavní parky",
+      "pt": "Parques temáticos",
+      "sv": "Nöjesparker"
+    },
+    "tags": [
+      "tourism=theme park"
+    ]
+  },
+  {
+    "title": "Viewpoints",
+    "translations": {
+      "ru": "Смотровые площадки",
+      "cs": "Vyhlídky",
+      "pt": "Miradouros / Pontos de vista",
+      "sv": "Utsiktsplatser"
+    },
+    "tags": [
+      "tourism=viewpoint"
+    ]
+  },
+
+    {
+    "title": "Zoos",
+    "translations": {
+      "ru": "Зоопарки",
+      "cs": "Zoo / Zoologické zahrady",
+      "pt": "Jardins zoológicos",
+      "sv": "Djurparker / Zoo"
+    },
+    "tags": [
+      "tourism=zoo",
+      "tourism=yes"
+    ]
+  },
+  {
+    "title": "Waterways",
+    "translations": {
+      "ru": "Водные объекты",
+      "cs": "Vodní toky",
+      "pt": "Cursos de água",
+      "sv": "Vattendrag"
+    },
+    "tags": []
+  },
+  {
+    "title": "Rapids",
+    "translations": {
+      "ru": "Речные пороги",
+      "cs": "Peřeje",
+      "pt": "Rápidos / Corredeiras",
+      "sv": "Forsar"
+    },
+    "tags": [
+      "waterway=rapids",
+      "natural=rapids"
+    ]
+  },
+  {
+    "title": "Waterfalls",
+    "translations": {
+      "ru": "Водопады",
+      "cs": "Vodopády",
+      "pt": "Quedas de água / Cascatas",
+      "sv": "Vattenfall"
+    },
+    "tags": [
+      "waterway=waterfall",
+      "natural=waterfall"
+    ]
+  },
+  {
+    "title": "Water points",
+    "translations": {
+      "ru": "Точки набора воды",
+      "cs": "Odběrná místa vody",
+      "pt": "Pontos de água",
+      "sv": "Vattenposter"
+    },
+    "tags": [
+      "waterway=water_point",
+      "amenity=water_point"
+    ]
+  },
+  {
+    "title": "Bicycle related",
+    "translations": {
+      "ru": "Велосипедная инфраструктура",
+      "cs": "Cyklistická infrastruktura",
+      "pt": "Infraestrutura ciclável / Relacionado com bicicletas",
+      "sv": "Cykelrelaterat"
+    },
+    "tags": []
+  },
+
+    {
+    "title": "Cycle parking places",
+    "translations": {
+      "ru": "Велопарковки",
+      "cs": "Cyklo stojany / Parkování jízdních kol",
+      "pt": "Parques de estacionamento para bicicletas",
+      "sv": "Cykelparkeringar"
+    },
+    "tags": [
+      "amenity=bicycle_parking"
+    ]
+  },
+  {
+    "title": "Cycle rental stations",
+    "translations": {
+      "ru": "Прокат велосипедов",
+      "cs": "Půjčovny kol / Sdílení kol",
+      "pt": "Estações de aluguer de bicicletas",
+      "sv": "Cykeluthyrning / Stadsdelcyklar"
+    },
+    "tags": [
+      "amenity=bicycle_rental"
+    ]
+  },
+  {
+    "title": "Cycle shops",
+    "translations": {
+      "ru": "Веломагазины",
+      "cs": "Prodejny jízdních kol / Cykloservis",
+      "pt": "Lojas de bicicletas",
+      "sv": "Cykelaffärer"
+    },
+    "tags": [
+      "shop=bicycle"
+    ]
+  },
+  {
+    "title": "Cycle vending",
+    "translations": {
+      "ru": "Автоматы по продаже велозапчастей и камер",
+      "cs": "Prodejní automaty na duše a díly pro kola",
+      "pt": "Venda automática de câmaras de ar / Peças para bicicletas",
+      "sv": "Cykelautomater / Slangautomater"
+    },
+    "tags": [
+      "vending=bicycle_tube"
+    ]
+  },
+  {
+    "title": "Cycle self repair",
+    "translations": {
+      "ru": "Станции самообслуживания и ремонта велосипедов",
+      "cs": "Samoobslužné cykloservisy / Opravny kol",
+      "pt": "Estações de reparação de bicicletas",
+      "sv": "Gör-det-själv cykelverkstäder / Reparationsstationer"
+    },
+    "tags": [
+      "amenity=bicycle_repair_station",
+      "addr:street",
+      "addr:housenumber",
+      "addr:postcode"
+    ]
+  }
