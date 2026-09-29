@@ -24,3 +24,9 @@ Transforms and structures the original configuration file from [mapsforge-poi-wr
 * 🇨🇿 **Czech** (`cs`)
 * 🇵🇹 **Portuguese** (`pt`)
 * 🇸🇻 **Swedish** (`sv`)
+
+### `Poi-mapping-multilanguage.xml`
+An adapted version of the original `poi-mapping.xml` that incorporates multilingual support into POI categories as a foundation for the future, easily modifiable via scripts or other tools.
+
+* **Attribute Order:** `title` (English), `title_de`, `title_es`, `title_fr`, `title_it`, and `title_nl`.
+* **Preservation:** Keeps (or so I aim :) all original comments (`<!--`) and the original file structure completely intact.
