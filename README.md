@@ -16,3 +16,11 @@ Transforms and structures the original configuration file from [mapsforge-poi-wr
 * 🇮🇹 **Italian** (`it`)
 * 🇳🇱 **Dutch** (`nl`)
 
+* `poi-mapping-translations-v2.json`: JSON structure containing categories, OpenStreetMap tags, and translations (v2).
+
+## 🌍 Languages (v2)
+* 🇬🇧 **English** (Base)
+* 🇷🇺 **Russian** (`ru`)
+* 🇨🇿 **Czech** (`cs`)
+* 🇵🇹 **Portuguese** (`pt`)
+* 🇸🇻 **Swedish** (`sv`)
