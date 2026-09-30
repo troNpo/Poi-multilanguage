@@ -30,3 +30,10 @@ An adapted version of the original `poi-mapping.xml` that incorporates multiling
 
 * **Attribute Order:** `title` (English), `title_de`, `title_es`, `title_fr`, `title_it`, and `title_nl`.
 * **Preservation:** Keeps (or so I aim :) all original comments (`<!--`) and the original file structure completely intact.
+
+  ### `poi-mapping-translation.xml`
+An adapted version of the original `poi-mapping.xml` where multilingual support has been integrated directly into the categories using child `<translation lang="...">` elements for German (`de`), Spanish (`es`), French (`fr`), Italian (`it`), and Dutch (`nl`), serving as a solid foundation for future automation via scripts or other tools.
+
+* **Structure:** Keeps the English name in the `title` attribute and nests the localized translations using individual `<translation>` tags for each language.
+* **Preservation:** Keeps all original comments (`<!--`) and the original file structure completely intact while expanding specialized outdoor and OAM categories (Tourism, Waterways, and Bicycle-related infrastructure).
+
