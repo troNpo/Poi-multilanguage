@@ -35,5 +35,5 @@ An adapted version of the original `poi-mapping.xml` that incorporates multiling
 An adapted version of the original `poi-mapping.xml` where multilingual support has been integrated directly into the categories using child `<translation lang="...">` elements for German (`de`), Spanish (`es`), French (`fr`), Italian (`it`), and Dutch (`nl`), serving as a solid foundation for future automation via scripts or other tools.
 
 * **Structure:** Keeps the English name in the `title` attribute and nests the localized translations using individual `<translation>` tags for each language.
-* **Preservation:** Keeps all original comments (`<!--`) and the original file structure completely intact while expanding specialized outdoor and OAM categories (Tourism, Waterways, and Bicycle-related infrastructure).
+* **Preservation:** Keeps all original comments (`<!--`) and the original file structure completely intact .
 
