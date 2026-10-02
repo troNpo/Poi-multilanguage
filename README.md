@@ -13,3 +13,10 @@ An adapted version of the original `poi-mapping.xml` where multilingual support 
 * **Structure:** Keeps the English name in the `title` attribute and nests the localized translations using individual `<translation>` tags for each language.
 * **Preservation:** Keeps all original comments (`<!--`) and the original file structure completely intact .
 
+### `poi-mapping-v5.xml`
+An updated and optimized version of the Mapsforge POI mapping file featuring a streamlined, standardized multi-language schema using compact self-closing tags.
+
+* **Compact Schema:** Replaced legacy translation blocks with self-closing `<name lang="..." value="..." />` elements directly within each category.
+* **Supported Languages:** Full native localization for German (`de`), Spanish (`es`), French (`fr`), Italian (`it`), and Dutch (`nl`).
+* **Preservation & Scope:** Keeps all original comments (`<!--`) and the core file structure completely intact while maintaining all specialized outdoor, OAM (OpenAndroMaps), and bicycle-related infrastructure categories.
+
